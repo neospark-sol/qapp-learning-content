@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "ar": "وَ مِنْ آيَاتِهِ",
+    "en": "And among His signs are",
+    "ur": "اور اُس کی نشانیوں (آیات) میں سے ہے کہ",
+    "wrongEn": "And my signs among",
+    "wrongUr": "اور میری نشانیوں  میں سے ہے کہ",
+    "les": 1
+  },
+  {
+    "id": 2,
+    "ar": "خَلْقُ السَّمٰوَاتِ",
+    "en": "Creation of the heavens",
+    "ur": "آسمانوں کی تخلیق(پیدائش)",
+    "wrongEn": "He created the heavens",
+    "wrongUr": "اُس نے آسمان کو بنایا  (پیدائش)",
+    "les": 1
+  },
+  {
+    "id": 3,
+    "ar": "اِخْتِلَافُ اَلْسِنَتِكُمْ وَ اَلْوَانِكُمْ",
+    "en": "Difference of your tongues and colours",
+    "ur": "تمہاری زبانوں اور رنگوں  (نسلوں) کا اختلاف (فرق)",
+    "wrongEn": "Similarity of your tongues",
+    "wrongUr": "تمہاری زبانوں  اور رنگوں  (نسلوں)  کی مشابہت",
+    "les": 1
+  },
+  {
+    "id": 4,
+    "ar": "لَآيَات",
+    "en": "Certainly signs",
+    "ur": "بےشک نشانیاں",
+    "wrongEn": "No signs",
+    "wrongUr": "کوئی نشانیاں نہیں",
+    "les": 1
+  },
+  {
+    "id": 5,
+    "ar": "لِقَوْمٍ يَعْقِلُوْن",
+    "en": "For people who reason",
+    "ur": "عقل رکھنے (سمجھنے) والوں کے لیے      ",
+    "wrongEn": "For people who ignore",
+    "wrongUr": "نظر انداز (بے توجہ) کرنے والوں کے لیے",
+    "les": 1
+  },
+  {
+    "id": 6,
+    "ar": "اِنَّ اللّٰهَ سَمِيْعٌ",
+    "en": "Indeed Allah is All-Hearing",
+    "ur": "بے شک اللّٰہ سننے والا(سمیع) ہے",
+    "wrongEn": "Indeed Allah is All-Knowing",
+    "wrongUr": "بے شک اللّٰه جاننے والا ہے",
+    "les": 2
+  },
+  {
+    "id": 7,
+    "ar": "اِنَّ اللّٰهَ خَبِيْرٌ بِعِبَادِه",
+    "en": "Indeed Allah is All-Aware of His servants",
+    "ur": "بے شک اللّٰہ اپنے بندوں(عباد) سے خبردار(خبیر) ہے",
+    "wrongEn": "Indeed His servants are aware of Allah",
+    "wrongUr": "بے شک اُس کے بندے اللّٰه سے خبردار (خبیر) ہیں",
+    "les": 2
+  },
+  {
+    "id": 8,
+    "ar": "اِنَّ اللّٰهَ غَفُوْرٌ",
+    "en": "Indeed Allah is Oft-Forgiving",
+    "ur": "بےشک اللّٰہ بہت بخشنے والا  (غفور) ہے",
+    "wrongEn": "Indeed Allah is Most Merciful",
+    "wrongUr": "بے شک اللّٰہ نہایت رحم والا (رحیم) ہے",
+    "les": 2
+  },
+  {
+    "id": 9,
+    "ar": "لَهُ مَا فِي السَّمٰوَاتِ",
+    "en": "To Him belongs what is in the heavens",
+    "ur": "اُس (اللّٰہ) کے لیے ہے جو کچھ(مَا) آسمانوں (سماوات) میں ہے",
+    "wrongEn": "From Him came the heavens",
+    "wrongUr": "اس سے آسمان آئے",
+    "les": 2
+  }
+]

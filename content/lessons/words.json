@@ -1,0 +1,1188 @@
+[
+  {
+    "id": 101,
+    "ar": "اِخْتِلَاف",
+    "en": "Difference",
+    "ur": "اختلاف",
+    "ph": "Ikh-ti-LAAF",
+    "synEn": [
+      "Variation",
+      "Diversity",
+      "Contrast"
+    ],
+    "synUr": [
+      "فرق",
+      "تنوع",
+      "گوناگونی"
+    ],
+    "descEn": "The natural variety and diversity found in creation.",
+    "descUr": "تخلیق میں پائی جانے والی قدرتی تنوع اور فرق۔",
+    "les": 1
+  },
+  {
+    "id": 102,
+    "ar": "اَرْض",
+    "en": "Earth",
+    "ur": "زمین",
+    "ph": "Ard",
+    "synEn": [
+      "Land",
+      "Ground",
+      "Soil"
+    ],
+    "synUr": [
+      "دھرتی",
+      "زمین",
+      "خاک"
+    ],
+    "descEn": "The Earth that Allah created as a dwelling for mankind.",
+    "descUr": "وہ زمین جسے اللہ نے انسان کے رہنے کے لیے بنایا۔",
+    "les": 1
+  },
+  {
+    "id": 103,
+    "ar": "اَللّٰه",
+    "en": "Allah",
+    "ur": "اللہ",
+    "ph": "Al-LAAH",
+    "synEn": [
+      "The One God",
+      "The Creator",
+      "The Divine"
+    ],
+    "synUr": [
+      "خدا",
+      "معبود",
+      "پروردگار"
+    ],
+    "descEn": "The proper name of the One True God, Creator of all.",
+    "descUr": "ایک سچے خدا کا خاص نام، سب کا خالق۔",
+    "les": 1
+  },
+  {
+    "id": 104,
+    "ar": "اَلْسِنَة",
+    "en": "Tongues/Languages",
+    "ur": "زبانیں",
+    "ph": "Al-si-NA",
+    "synEn": [
+      "Speech",
+      "Dialects",
+      "Mother tongues"
+    ],
+    "synUr": [
+      "بولیاں",
+      "زبانیں",
+      "لہجے"
+    ],
+    "descEn": "The variety of human languages — a sign of Allah.",
+    "descUr": "انسانی زبانوں کا تنوع — اللہ کی نشانی۔",
+    "les": 1
+  },
+  {
+    "id": 105,
+    "ar": "اَلْوَان",
+    "en": "Colours (plural)",
+    "ur": "رنگ(جمع)",
+    "ph": "Al-WAAN",
+    "synEn": [
+      "Hues",
+      "Shades",
+      "Complexions"
+    ],
+    "synUr": [
+      "رنگت",
+      "نسلیں",
+      "قسمیں"
+    ],
+    "descEn": "The many colours and complexions of people — signs of Allah.",
+    "descUr": "لوگوں کے مختلف رنگ اور نسلیں — اللہ کی نشانیاں۔",
+    "les": 1
+  },
+  {
+    "id": 106,
+    "ar": "اِسْم",
+    "en": "Name / Noun",
+    "ur": "نام / اسم",
+    "ph": "Ism",
+    "synEn": [
+      "Title",
+      "Designation",
+      "Noun"
+    ],
+    "synUr": [
+      "نام",
+      "لقب",
+      "عنوان"
+    ],
+    "descEn": "A name by which something is called or identified.",
+    "descUr": "وہ نام جس سے کسی چیز کو پکارا یا پہچانا جائے۔",
+    "les": 1
+  },
+  {
+    "id": 107,
+    "ar": "بِ",
+    "en": "With / By means of",
+    "ur": "ساتھ/ سے/ کے ذریعے",
+    "ph": "Bi",
+    "synEn": [
+      "Through",
+      "Using",
+      "Via"
+    ],
+    "synUr": [
+      "ذریعے",
+      "وسیلے سے",
+      "کے ساتھ"
+    ],
+    "descEn": "A preposition meaning 'with', 'by' or 'through'.",
+    "descUr": "حرفِ جر: 'ساتھ'، 'ذریعے' یا 'سے' کے معنی میں۔",
+    "les": 1
+  },
+  {
+    "id": 108,
+    "ar": "خَلْق",
+    "en": "Creation",
+    "ur": "تخلیق",
+    "ph": "Khalq",
+    "synEn": [
+      "Making",
+      "Formation",
+      "Genesis"
+    ],
+    "synUr": [
+      "پیدائش",
+      "تخلیق",
+      "مخلوق"
+    ],
+    "descEn": "The act of Allah bringing things into existence.",
+    "descUr": "اللہ کا چیزوں کو وجود بخشنا۔",
+    "les": 1
+  },
+  {
+    "id": 109,
+    "ar": "آيَة",
+    "en": "Verse / Sign",
+    "ur": "آیت/ نشانی/ علامت",
+    "ph": "Aa-yah",
+    "synEn": [
+      "Sign",
+      "Proof",
+      "Miracle"
+    ],
+    "synUr": [
+      "نشانی",
+      "آیت",
+      "دلیل"
+    ],
+    "descEn": "A sign of Allah — a Quran verse or a wonder in nature.",
+    "descUr": "اللہ کی ایک نشانی — قرآن کی آیت یا قدرت کا کرشمہ۔",
+    "les": 1
+  },
+  {
+    "id": 110,
+    "ar": "آيَات",
+    "en": "Verses / Signs",
+    "ur": "آیات/ نشانیاں",
+    "ph": "Aa-YAAT",
+    "synEn": [
+      "Signs",
+      "Proofs",
+      "Wonders"
+    ],
+    "synUr": [
+      "نشانیاں",
+      "آیات",
+      "دلائل"
+    ],
+    "descEn": "Many signs of Allah — verses or natural wonders.",
+    "descUr": "اللہ کی بہت سی نشانیاں — آیات یا قدرت کے کرشمے۔",
+    "les": 1
+  },
+  {
+    "id": 111,
+    "ar": "اَنْ",
+    "en": "That",
+    "ur": "کہ",
+    "ph": "An",
+    "synEn": [
+      "That",
+      "To"
+    ],
+    "synUr": [
+      "کہ",
+      "کہ وہ"
+    ],
+    "descEn": "A particle introducing a clause, like 'that' in English.",
+    "descUr": "جملہ شروع کرنے والا حرف — 'کہ' کے معنی میں۔",
+    "les": 1
+  },
+  {
+    "id": 112,
+    "ar": "اِنَّ",
+    "en": "Indeed / Certainly",
+    "ur": "بےشک / یقیناً",
+    "ph": "In-na",
+    "synEn": [
+      "Truly",
+      "Verily",
+      "Certainly"
+    ],
+    "synUr": [
+      "یقیناً",
+      "واقعی",
+      "بے شک"
+    ],
+    "descEn": "An emphatic particle stressing truth or certainty.",
+    "descUr": "زور دینے والا حرف جو یقین یا سچائی ظاہر کرے۔",
+    "les": 1
+  },
+  {
+    "id": 113,
+    "ar": "تُرَاب",
+    "en": "Dust / Soil",
+    "ur": "مٹی/خاک",
+    "ph": "Tu-RAAB",
+    "synEn": [
+      "Dirt",
+      "Earth",
+      "Clay"
+    ],
+    "synUr": [
+      "مٹی",
+      "خاک",
+      "دھول"
+    ],
+    "descEn": "The dust from which Allah created mankind.",
+    "descUr": "وہ مٹی جس سے اللہ نے انسان کو پیدا کیا۔",
+    "les": 1
+  },
+  {
+    "id": 114,
+    "ar": "خَلَقَ",
+    "en": "He created",
+    "ur": "اُس نے پیدا کیا / بنایا",
+    "ph": "Kha-LA-qa",
+    "synEn": [
+      "Formed",
+      "Made",
+      "Fashioned"
+    ],
+    "synUr": [
+      "بنایا",
+      "پیدا کیا",
+      "تخلیق کی"
+    ],
+    "descEn": "Past-tense verb: 'He (Allah) created'.",
+    "descUr": "ماضی کا فعل: 'اُس (اللہ) نے پیدا کیا'۔",
+    "les": 1
+  },
+  {
+    "id": 115,
+    "ar": "ذٰلِكَ",
+    "en": "That",
+    "ur": "یہ/ وہ",
+    "ph": "DHAA-li-ka",
+    "synEn": [
+      "That one",
+      "That thing"
+    ],
+    "synUr": [
+      "وہ",
+      "یہ",
+      "ایسا"
+    ],
+    "descEn": "Demonstrative pronoun pointing to something distant.",
+    "descUr": "دور کی چیز کی طرف اشارہ کرنے والا ضمیر۔",
+    "les": 1
+  },
+  {
+    "id": 116,
+    "ar": "فِيْ",
+    "en": "In / Inside",
+    "ur": "میں/اندر",
+    "ph": "Fee",
+    "synEn": [
+      "Within",
+      "Inside",
+      "Amid"
+    ],
+    "synUr": [
+      "اندر",
+      "میں",
+      "درمیان"
+    ],
+    "descEn": "A preposition meaning 'in' or 'inside of'.",
+    "descUr": "حرفِ جر — 'میں' یا 'اندر' کے معنی میں۔",
+    "les": 1
+  },
+  {
+    "id": 117,
+    "ar": "رَحْمٰن",
+    "en": "The Most Merciful",
+    "ur": "رحمان/مہربان",
+    "ph": "Rah-MAAN",
+    "synEn": [
+      "Most Gracious",
+      "Most Kind"
+    ],
+    "synUr": [
+      "مہربان",
+      "بڑا رحم کرنے والا"
+    ],
+    "descEn": "Allah's attribute of universal, overflowing mercy.",
+    "descUr": "اللہ کی وہ صفت جو ہر ایک پر بے پایاں رحمت ظاہر کرے۔",
+    "les": 1
+  },
+  {
+    "id": 118,
+    "ar": "رَحِيْم",
+    "en": "The Most Compassionate",
+    "ur": "نہایت رحم کرنے والا",
+    "ph": "Ra-HEEM",
+    "synEn": [
+      "Merciful",
+      "Compassionate"
+    ],
+    "synUr": [
+      "رحم کرنے والا",
+      "شفیق"
+    ],
+    "descEn": "Allah's attribute of special mercy to believers.",
+    "descUr": "اللہ کی وہ صفت جو مومنوں پر خاص رحم کرتی ہے۔",
+    "les": 1
+  },
+  {
+    "id": 119,
+    "ar": "سَمٰوَات",
+    "en": "Heavens (plural)",
+    "ur": "آسمان(جمع)",
+    "ph": "Sa-maa-WAAT",
+    "synEn": [
+      "Skies",
+      "Celestial realms"
+    ],
+    "synUr": [
+      "آسمان",
+      "فلک",
+      "گگن"
+    ],
+    "descEn": "The seven heavens Allah created above the earth.",
+    "descUr": "وہ سات آسمان جو اللہ نے زمین کے اوپر بنائے۔",
+    "les": 1
+  },
+  {
+    "id": 120,
+    "ar": "شَمْس",
+    "en": "Sun",
+    "ur": "سورج",
+    "ph": "Shams",
+    "synEn": [
+      "Sol",
+      "Daystar"
+    ],
+    "synUr": [
+      "آفتاب",
+      "خورشید"
+    ],
+    "descEn": "The sun — a sign of Allah that lights the day.",
+    "descUr": "سورج — اللہ کی وہ نشانی جو دن کو روشن کرتی ہے۔",
+    "les": 1
+  },
+  {
+    "id": 121,
+    "ar": "قَمَر",
+    "en": "Moon",
+    "ur": "چاند",
+    "ph": "Qa-mar",
+    "synEn": [
+      "Luna",
+      "The Moon"
+    ],
+    "synUr": [
+      "ماہ",
+      "چندا"
+    ],
+    "descEn": "The moon — a sign of Allah that lights the night.",
+    "descUr": "چاند — اللہ کی وہ نشانی جو رات کو روشن کرتی ہے۔",
+    "les": 1
+  },
+  {
+    "id": 122,
+    "ar": "قَوْم",
+    "en": "People / Nation",
+    "ur": "لوگ/قوم/نسل",
+    "ph": "Qawm",
+    "synEn": [
+      "Folk",
+      "Community",
+      "Tribe"
+    ],
+    "synUr": [
+      "قوم",
+      "برادری",
+      "جماعت"
+    ],
+    "descEn": "A group of people or a community, often a nation.",
+    "descUr": "لوگوں کا گروہ یا برادری — عام طور پر قوم۔",
+    "les": 1
+  },
+  {
+    "id": 123,
+    "ar": "لَيْل- لَيْلَة",
+    "en": "Night",
+    "ur": "رات/شب",
+    "ph": "Lay-la / Layl",
+    "synEn": [
+      "Nighttime",
+      "Evening",
+      "Darkness"
+    ],
+    "synUr": [
+      "رات",
+      "شب",
+      "اندھیرا"
+    ],
+    "descEn": "The night — created for rest and reflection.",
+    "descUr": "رات — آرام اور غور و فکر کے لیے بنائی گئی۔",
+    "les": 1
+  },
+  {
+    "id": 124,
+    "ar": "مُؤْمِنِيْن",
+    "en": "Believers (plural)",
+    "ur": "ایمان والے(جمع) مومنین  ",
+    "ph": "Mu-mi-NEEN",
+    "synEn": [
+      "Faithful",
+      "The faithful ones"
+    ],
+    "synUr": [
+      "مومنین",
+      "ایمان والے",
+      "اہلِ ایمان"
+    ],
+    "descEn": "Believers — those who have faith in Allah and His signs.",
+    "descUr": "مومنین — اللہ اور اُس کی نشانیوں پر ایمان لانے والے۔",
+    "les": 1
+  },
+  {
+    "id": 125,
+    "ar": "وَ",
+    "en": "And",
+    "ur": "اور",
+    "ph": "Wa",
+    "synEn": [
+      "Plus",
+      "Also",
+      "Along with"
+    ],
+    "synUr": [
+      "اور",
+      "نیز",
+      "بھی"
+    ],
+    "descEn": "The connector 'and', joining words or clauses.",
+    "descUr": "حرف عطف 'اور' — لفظوں یا جملوں کو جوڑتا ہے۔",
+    "les": 1
+  },
+  {
+    "id": 126,
+    "ar": "كُمْ",
+    "en": "You all",
+    "ur": "تم سب",
+    "ph": "Kum",
+    "synEn": [
+      "You (plural)",
+      "Y'all"
+    ],
+    "synUr": [
+      "تم سب",
+      "آپ سب"
+    ],
+    "descEn": "A second-person plural pronoun — 'you all'.",
+    "descUr": "جمع مخاطب ضمیر — 'تم سب'۔",
+    "les": 1
+  },
+  {
+    "id": 127,
+    "ar": "لَ",
+    "en": "Indeed / Certainly",
+    "ur": "بےشک / یقیناً",
+    "ph": "La",
+    "synEn": [
+      "Surely",
+      "Truly"
+    ],
+    "synUr": [
+      "یقیناً",
+      "بے شک"
+    ],
+    "descEn": "Emphatic prefix meaning 'surely' or 'indeed'.",
+    "descUr": "زور دینے والا حرف — 'یقیناً' یا 'ضرور'۔",
+    "les": 1
+  },
+  {
+    "id": 128,
+    "ar": "لِ",
+    "en": "For",
+    "ur": "کے لیے",
+    "ph": "Li",
+    "synEn": [
+      "To",
+      "Belonging to"
+    ],
+    "synUr": [
+      "واسطے",
+      "کے لیے"
+    ],
+    "descEn": "A preposition meaning 'for' or 'belonging to'.",
+    "descUr": "حرفِ جر — 'کے لیے' یا 'کا'۔",
+    "les": 1
+  },
+  {
+    "id": 129,
+    "ar": "مِنْ",
+    "en": "From / Among",
+    "ur": "سے/ میں سے",
+    "ph": "Min",
+    "synEn": [
+      "Of",
+      "Out of",
+      "Among"
+    ],
+    "synUr": [
+      "سے",
+      "میں سے"
+    ],
+    "descEn": "A preposition meaning 'from' or 'out of'.",
+    "descUr": "حرفِ جر — 'سے' یا 'میں سے'۔",
+    "les": 1
+  },
+  {
+    "id": 130,
+    "ar": "نَهَار",
+    "en": "Day / Daytime",
+    "ur": "دن/دوپہر",
+    "ph": "Na-HAAR",
+    "synEn": [
+      "Daylight",
+      "Daytime"
+    ],
+    "synUr": [
+      "دن",
+      "دن کا اجالا"
+    ],
+    "descEn": "The daytime — created for work and activity.",
+    "descUr": "دن — کام اور سرگرمی کے لیے بنایا گیا۔",
+    "les": 1
+  },
+  {
+    "id": 131,
+    "ar": "هُ-هِ",
+    "en": "His / Him",
+    "ur": "اُس کا/ اُس کو",
+    "ph": "Hu / Hi",
+    "synEn": [
+      "His",
+      "Him",
+      "Its"
+    ],
+    "synUr": [
+      "اُس کا",
+      "اُس کو"
+    ],
+    "descEn": "Attached pronoun meaning 'his' or 'him'.",
+    "descUr": "متصل ضمیر — 'اُس کا' یا 'اُس کو'۔",
+    "les": 1
+  },
+  {
+    "id": 132,
+    "ar": "يَتَفَكَّرُوْن",
+    "en": "Those who ponder",
+    "ur": "غور و فکر کرنے والے   ",
+    "ph": "Ya-ta-fak-ka-ROON",
+    "synEn": [
+      "Thinkers",
+      "Reflectors",
+      "Contemplators"
+    ],
+    "synUr": [
+      "غور کرنے والے",
+      "سوچنے والے",
+      "فکر کرنے والے"
+    ],
+    "descEn": "People who reflect deeply on Allah's signs.",
+    "descUr": "وہ لوگ جو اللہ کی نشانیوں پر گہرا غور کرتے ہیں۔",
+    "les": 1
+  },
+  {
+    "id": 133,
+    "ar": "يَعْقِلُوْن",
+    "en": "Those who reason",
+    "ur": "عقل رکھنے والے",
+    "ph": "Ya-qi-LOON",
+    "synEn": [
+      "Reasoners",
+      "Wise ones",
+      "Sensible"
+    ],
+    "synUr": [
+      "عقلمند",
+      "سمجھدار",
+      "ہوش مند"
+    ],
+    "descEn": "People who use their reason to understand Allah's signs.",
+    "descUr": "وہ لوگ جو اللہ کی نشانیوں کو سمجھنے کے لیے عقل استعمال کریں۔",
+    "les": 1
+  },
+  {
+    "id": 201,
+    "ar": "اِسْتَغْفِرْ",
+    "en": "Seek forgiveness",
+    "ur": "معافی مانگو",
+    "ph": "Is-tagh-FIR",
+    "synEn": [
+      "Ask pardon",
+      "Seek pardon",
+      "Repent"
+    ],
+    "synUr": [
+      "معافی مانگو",
+      "توبہ کرو",
+      "استغفار کرو"
+    ],
+    "descEn": "A command: seek forgiveness from Allah for sins.",
+    "descUr": "حکم ہے کہ اللہ سے گناہوں کی معافی مانگو۔",
+    "les": 2
+  },
+  {
+    "id": 202,
+    "ar": "حَكِيْم",
+    "en": "All Wise",
+    "ur": "حکمت والا",
+    "ph": "Ha-KEEM",
+    "synEn": [
+      "Wise",
+      "Judicious",
+      "Sagacious"
+    ],
+    "synUr": [
+      "دانا",
+      "فہیم",
+      "صاحبِ حکمت"
+    ],
+    "descEn": "Allah's attribute: perfectly wise in every decision.",
+    "descUr": "اللہ کی صفت: ہر فیصلے میں کامل حکمت والا۔",
+    "les": 2
+  },
+  {
+    "id": 203,
+    "ar": "خَبِيْر",
+    "en": "All Aware",
+    "ur": "خبردار",
+    "ph": "Kha-BEER",
+    "synEn": [
+      "Informed",
+      "Cognizant",
+      "Well-acquainted"
+    ],
+    "synUr": [
+      "آگاہ",
+      "واقف",
+      "باخبر"
+    ],
+    "descEn": "Allah's attribute: fully aware of everything hidden and open.",
+    "descUr": "اللہ کی صفت: ہر چھپی اور کھلی بات سے پوری طرح واقف۔",
+    "les": 2
+  },
+  {
+    "id": 204,
+    "ar": "سَمِيْع",
+    "en": "All Hearing",
+    "ur": "سننے والا",
+    "ph": "Sa-MEE",
+    "synEn": [
+      "Hearer",
+      "Listener",
+      "One who hears"
+    ],
+    "synUr": [
+      "سننے والا",
+      "شنیندہ"
+    ],
+    "descEn": "Allah's attribute: hearing every sound, even whispers.",
+    "descUr": "اللہ کی صفت: ہر آواز کو سنتا ہے، یہاں تک کہ سرگوشی بھی۔",
+    "les": 2
+  },
+  {
+    "id": 205,
+    "ar": "عِبَاد",
+    "en": "Servants",
+    "ur": "بندے",
+    "ph": "I-BAAD",
+    "synEn": [
+      "Slaves",
+      "Worshippers",
+      "Devotees"
+    ],
+    "synUr": [
+      "بندگان",
+      "خادم",
+      "عبادت گزار"
+    ],
+    "descEn": "Servants of Allah — all creation stands in His service.",
+    "descUr": "اللہ کے بندے — ساری مخلوق اُس کی خدمت میں ہے۔",
+    "les": 2
+  },
+  {
+    "id": 206,
+    "ar": "عَلِيْم",
+    "en": "All Knowing",
+    "ur": "جاننے والا",
+    "ph": "A-LEEM",
+    "synEn": [
+      "Knower",
+      "Omniscient",
+      "All-knowing"
+    ],
+    "synUr": [
+      "جاننے والا",
+      "علم والا",
+      "عالم"
+    ],
+    "descEn": "Allah's attribute: knowing all things, past and future.",
+    "descUr": "اللہ کی صفت: ہر چیز کو جانتا ہے — ماضی اور مستقبل۔",
+    "les": 2
+  },
+  {
+    "id": 207,
+    "ar": "عَلِيّ",
+    "en": "The Exalted",
+    "ur": "بلند",
+    "ph": "A-LIY",
+    "synEn": [
+      "Most High",
+      "Lofty",
+      "Sublime"
+    ],
+    "synUr": [
+      "بلند و بالا",
+      "اعلیٰ",
+      "بزرگ"
+    ],
+    "descEn": "Allah's attribute: exalted high above all creation.",
+    "descUr": "اللہ کی صفت: ساری مخلوق سے بلند و بالا۔",
+    "les": 2
+  },
+  {
+    "id": 208,
+    "ar": "غَفُوْر",
+    "en": "Oft Forgiving",
+    "ur": "بخشنے والا",
+    "ph": "Gha-FOOR",
+    "synEn": [
+      "Forgiving",
+      "Pardoning",
+      "Merciful"
+    ],
+    "synUr": [
+      "بخشنے والا",
+      "معاف کرنے والا"
+    ],
+    "descEn": "Allah's attribute: forgives sins again and again.",
+    "descUr": "اللہ کی صفت: گناہوں کو بار بار معاف کرتا ہے۔",
+    "les": 2
+  },
+  {
+    "id": 209,
+    "ar": "قَدِيْر",
+    "en": "All Powerful",
+    "ur": "قادر",
+    "ph": "Qa-DEER",
+    "synEn": [
+      "Almighty",
+      "Omnipotent",
+      "Capable"
+    ],
+    "synUr": [
+      "قدرت والا",
+      "طاقتور",
+      "ہر چیز پر قادر"
+    ],
+    "descEn": "Allah's attribute: having power over every single thing.",
+    "descUr": "اللہ کی صفت: ہر چیز پر قدرت رکھنے والا۔",
+    "les": 2
+  },
+  {
+    "id": 210,
+    "ar": "قَيُّوْم",
+    "en": "Self Subsisting",
+    "ur": "قائم",
+    "ph": "Qay-YOOM",
+    "synEn": [
+      "Sustainer",
+      "Eternal",
+      "Ever-living"
+    ],
+    "synUr": [
+      "قائم",
+      "برقرار رکھنے والا",
+      "جاوید"
+    ],
+    "descEn": "Allah's attribute: self-sustaining and sustainer of all.",
+    "descUr": "اللہ کی صفت: خود قائم ہے اور سب کو قائم رکھتا ہے۔",
+    "les": 2
+  },
+  {
+    "id": 211,
+    "ar": "كَانَ",
+    "en": "Was",
+    "ur": "تھا",
+    "ph": "KAA-na",
+    "synEn": [
+      "Became",
+      "Has been",
+      "Existed"
+    ],
+    "synUr": [
+      "تھا",
+      "ہوا",
+      "رہا"
+    ],
+    "descEn": "Past-tense of 'to be': 'he/it was'.",
+    "descUr": "فعل ماضی — 'وہ تھا' کے معنی میں۔",
+    "les": 2
+  },
+  {
+    "id": 212,
+    "ar": "لَا",
+    "en": "No",
+    "ur": "نہیں",
+    "ph": "Laa",
+    "synEn": [
+      "Not",
+      "None",
+      "Without"
+    ],
+    "synUr": [
+      "نہیں",
+      "کوئی نہیں"
+    ],
+    "descEn": "Particle of negation — 'no' or 'not'.",
+    "descUr": "نفی کا حرف — 'نہیں' یا 'کوئی نہیں'۔",
+    "les": 2
+  },
+  {
+    "id": 213,
+    "ar": "مَا",
+    "en": "That / That which",
+    "ur": "جو/ وہ جو",
+    "ph": "Maa",
+    "synEn": [
+      "What",
+      "Whatever",
+      "That which"
+    ],
+    "synUr": [
+      "جو کچھ",
+      "وہ جو"
+    ],
+    "descEn": "Relative pronoun — 'what' or 'that which'.",
+    "descUr": "اسم موصول — 'جو' یا 'وہ جو'۔",
+    "les": 2
+  },
+  {
+    "id": 214,
+    "ar": "هُوَ",
+    "en": "He",
+    "ur": "وہ",
+    "ph": "Hu-wa",
+    "synEn": [
+      "He",
+      "It"
+    ],
+    "synUr": [
+      "وہ",
+      "وہ مذکر"
+    ],
+    "descEn": "Third-person masculine pronoun — 'he' or 'it'.",
+    "descUr": "غائب مذکر ضمیر — 'وہ'۔",
+    "les": 2
+  },
+  {
+    "id": 215,
+    "ar": "اِلٰه",
+    "en": "God",
+    "ur": "معبود",
+    "ph": "I-LAA-ha",
+    "synEn": [
+      "Deity",
+      "Object of worship"
+    ],
+    "synUr": [
+      "معبود",
+      "پوجنے کے لائق"
+    ],
+    "descEn": "A god or deity — only Allah truly deserves worship.",
+    "descUr": "معبود — صرف اللہ ہی عبادت کے لائق ہے۔",
+    "les": 2
+  },
+  {
+    "id": 216,
+    "ar": "اِلَّا",
+    "en": "Except",
+    "ur": "سوائے",
+    "ph": "Il-LAA",
+    "synEn": [
+      "But",
+      "Save",
+      "Other than"
+    ],
+    "synUr": [
+      "سوائے",
+      "مگر",
+      "بجز"
+    ],
+    "descEn": "Exception particle — 'except' or 'other than'.",
+    "descUr": "استثنائی حرف — 'سوائے' یا 'مگر'۔",
+    "les": 2
+  },
+  {
+    "id": 217,
+    "ar": "بِ",
+    "en": "In relation",
+    "ur": "کے بارے میں",
+    "ph": "Bi",
+    "synEn": [
+      "About",
+      "Concerning",
+      "Regarding"
+    ],
+    "synUr": [
+      "متعلق",
+      "بارے میں"
+    ],
+    "descEn": "Preposition indicating relation or reference to something.",
+    "descUr": "حرفِ جر جو کسی چیز سے تعلق یا اشارہ بتاتا ہے۔",
+    "les": 2
+  },
+  {
+    "id": 218,
+    "ar": "بَصِيْر",
+    "en": "All Seeing",
+    "ur": "دیکھنے والا",
+    "ph": "Ba-SEER",
+    "synEn": [
+      "Seer",
+      "Observer",
+      "All-seeing"
+    ],
+    "synUr": [
+      "دیکھنے والا",
+      "ناظر",
+      "بصیر"
+    ],
+    "descEn": "Allah's attribute: seeing everything, seen and unseen.",
+    "descUr": "اللہ کی صفت: ہر ظاہر و پوشیدہ کو دیکھنے والا۔",
+    "les": 2
+  },
+  {
+    "id": 219,
+    "ar": "حَمْد",
+    "en": "Praise",
+    "ur": "حمد",
+    "ph": "Hamd",
+    "synEn": [
+      "Thanks",
+      "Laud",
+      "Glorification"
+    ],
+    "synUr": [
+      "تعریف",
+      "ثنا",
+      "شکر"
+    ],
+    "descEn": "All praise and thanks belong to Allah alone.",
+    "descUr": "ساری تعریف اور شکر صرف اللہ کے لیے ہے۔",
+    "les": 2
+  },
+  {
+    "id": 220,
+    "ar": "حَيّ",
+    "en": "Living",
+    "ur": "زندہ",
+    "ph": "Hayy",
+    "synEn": [
+      "Alive",
+      "Ever-living"
+    ],
+    "synUr": [
+      "زندہ",
+      "جاوید"
+    ],
+    "descEn": "Allah's attribute: the Ever-Living who never dies.",
+    "descUr": "اللہ کی صفت: ہمیشہ زندہ رہنے والا جسے موت نہیں۔",
+    "les": 2
+  },
+  {
+    "id": 221,
+    "ar": "رَؤُوْف",
+    "en": "Kind / Affectionate",
+    "ur": "شفیق",
+    "ph": "Ra-OOF",
+    "synEn": [
+      "Compassionate",
+      "Tender",
+      "Gentle"
+    ],
+    "synUr": [
+      "شفیق",
+      "مہربان",
+      "نرم دل"
+    ],
+    "descEn": "Allah's attribute: deeply kind and tender to His servants.",
+    "descUr": "اللہ کی صفت: اپنے بندوں پر بے حد شفیق اور مہربان۔",
+    "les": 2
+  },
+  {
+    "id": 222,
+    "ar": "رَبّ",
+    "en": "Lord",
+    "ur": "رب",
+    "ph": "Rabb",
+    "synEn": [
+      "Master",
+      "Sustainer",
+      "Lord"
+    ],
+    "synUr": [
+      "پروردگار",
+      "مالک",
+      "رب"
+    ],
+    "descEn": "Allah as Lord: creator, nurturer and sustainer of all.",
+    "descUr": "اللہ بطور رب: سب کا خالق، پرورش کرنے والا اور مالک۔",
+    "les": 2
+  },
+  {
+    "id": 223,
+    "ar": "شَيْء",
+    "en": "Thing",
+    "ur": "چیز",
+    "ph": "Shay",
+    "synEn": [
+      "Item",
+      "Object",
+      "Matter"
+    ],
+    "synUr": [
+      "چیز",
+      "شے",
+      "بات"
+    ],
+    "descEn": "Any thing or matter at all — large or small.",
+    "descUr": "کوئی بھی چیز یا بات — چھوٹی یا بڑی۔",
+    "les": 2
+  },
+  {
+    "id": 224,
+    "ar": "عَالَمِيْن",
+    "en": "Worlds",
+    "ur": "جہان",
+    "ph": "Aa-la-MEEN",
+    "synEn": [
+      "Realms",
+      "Universes",
+      "All beings"
+    ],
+    "synUr": [
+      "جہانوں",
+      "کائناتیں",
+      "مخلوقات"
+    ],
+    "descEn": "All the worlds — mankind, jinn, angels and all creation.",
+    "descUr": "تمام جہان — انسان، جن، فرشتے اور ساری مخلوق۔",
+    "les": 2
+  },
+  {
+    "id": 225,
+    "ar": "عَزِيْز",
+    "en": "Mighty",
+    "ur": "غالب",
+    "ph": "A-ZEEZ",
+    "synEn": [
+      "Powerful",
+      "Strong",
+      "Invincible"
+    ],
+    "synUr": [
+      "غالب",
+      "زبردست",
+      "عزت والا"
+    ],
+    "descEn": "Allah's attribute: mighty and dominant, never overcome.",
+    "descUr": "اللہ کی صفت: غالب اور طاقتور جسے کوئی نہیں ہرا سکتا۔",
+    "les": 2
+  },
+  {
+    "id": 226,
+    "ar": "عَظِيْم",
+    "en": "Supreme",
+    "ur": "عظیم",
+    "ph": "A-DHEEM",
+    "synEn": [
+      "Great",
+      "Magnificent",
+      "Grand"
+    ],
+    "synUr": [
+      "عظیم",
+      "بڑا",
+      "عظمت والا"
+    ],
+    "descEn": "Allah's attribute: supreme in greatness and majesty.",
+    "descUr": "اللہ کی صفت: عظمت اور بزرگی میں سب سے برتر۔",
+    "les": 2
+  },
+  {
+    "id": 227,
+    "ar": "كُلّ",
+    "en": "All / Every",
+    "ur": "سب/ہر",
+    "ph": "Kull",
+    "synEn": [
+      "Every",
+      "Each",
+      "The whole"
+    ],
+    "synUr": [
+      "ہر",
+      "سب",
+      "تمام"
+    ],
+    "descEn": "A determiner meaning 'all', 'every' or 'each'.",
+    "descUr": "'ہر'، 'سب' یا 'تمام' کے معنی میں۔",
+    "les": 2
+  },
+  {
+    "id": 228,
+    "ar": "نَاس",
+    "en": "Mankind",
+    "ur": "لوگ",
+    "ph": "Naas",
+    "synEn": [
+      "People",
+      "Humans",
+      "Mankind"
+    ],
+    "synUr": [
+      "انسان",
+      "لوگ",
+      "عوام"
+    ],
+    "descEn": "Humankind — the people Allah addresses in the Quran.",
+    "descUr": "بنی نوع انسان — قرآن میں اللہ کے مخاطب لوگ۔",
+    "les": 2
+  }
+]

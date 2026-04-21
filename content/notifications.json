@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "notifications": [
+    {
+      "id": "welcome_v1_20260420",
+      "date": "2026-04-20",
+      "priority": "normal",
+      "title": "Welcome to QuranApp!",
+      "titleUr": "خوش آمدید!",
+      "body": "Start with Kids Mode for games or Standard Mode for full study. Tap the bell anytime to see what's new.",
+      "bodyUr": "بچوں کے موڈ سے کھیل شروع کریں یا مکمل مطالعہ کے لیے سٹینڈرڈ موڈ منتخب کریں۔",
+      "action": "open_home",
+      "payload": {},
+      "expiry": "2026-12-31"
+    }
+  ]
+}

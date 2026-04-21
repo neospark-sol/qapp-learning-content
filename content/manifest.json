@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "loaderSchemaVersion": 2,
+  "appVersion": "1.0.0",
+  "contentBundleTag": "1.0.0",
+  "generatedAt": "2026-04-21T07:23:37.381Z",
+  "contentVersion": "-7a494eac",
+  "files": [
+    {
+      "path": "lessons/index.json",
+      "size": 204,
+      "sha256": "36519c5ecbb0b6d26a28992dc8cebc2860b8e5684ab5ae4074255a4b1893ac9c",
+      "lastModified": "2026-04-20T00:07:19.495Z",
+      "rev": 1
+    },
+    {
+      "path": "lessons/phrases.json",
+      "size": 2985,
+      "sha256": "bf0d63d79c64525b1de43e95877d2abb14f5e2b851800cddbb11f74807a919d1",
+      "lastModified": "2026-04-20T00:07:19.495Z",
+      "rev": 1
+    },
+    {
+      "path": "lessons/verses.json",
+      "size": 8025,
+      "sha256": "b989cf8bf62588dab94d7644b27c08b9ac41b775988ab0edac3cd1159f80c175",
+      "lastModified": "2026-04-20T00:07:19.495Z",
+      "rev": 1
+    },
+    {
+      "path": "lessons/words.json",
+      "size": 26945,
+      "sha256": "d1b16a1a051ffd71fcae519960c37cd49c89957e63248da9b5a97909bea9d6bd",
+      "lastModified": "2026-04-20T06:25:13.603Z",
+      "rev": 1
+    },
+    {
+      "path": "notifications.json",
+      "size": 587,
+      "sha256": "cb738cf7259cd636c6f6d14ff187be45883103571160df8b0f8e7e07d4c91d31",
+      "lastModified": "2026-04-20T00:07:27.448Z",
+      "rev": 1
+    }
+  ]
+}
