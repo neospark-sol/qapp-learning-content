@@ -1,83 +1,3944 @@
 [
   {
     "id": 1,
-    "ar": "وَ مِنْ آيَاتِهِ",
-    "en": "And among His signs are",
-    "ur": "اور اُس کی نشانیوں (آیات) میں سے ہے کہ",
-    "wrongEn": "And my signs among",
-    "wrongUr": "اور میری نشانیوں  میں سے ہے کہ",
+    "ar": "وَمِنْ آيَاتِهِ",
+    "en": "And from His signs",
+    "ur": "اور اس ( کی) نشانیوں میں سے (ہیں)",
+    "wrongEn": "And from the signs",
+    "wrongUr": "اور نشانی میں سے میری",
     "les": 1
   },
   {
     "id": 2,
-    "ar": "خَلْقُ السَّمٰوَاتِ",
+    "ar": "خَلْقُ السَّمَاوَاتِ",
     "en": "Creation of the heavens",
-    "ur": "آسمانوں کی تخلیق(پیدائش)",
-    "wrongEn": "He created the heavens",
-    "wrongUr": "اُس نے آسمان کو بنایا  (پیدائش)",
+    "ur": "خلقت آسمانوں (کی)",
+    "wrongEn": "Created the heavens",
+    "wrongUr": "اُس نے پیدا کیا آسمانوں (کو)",
     "les": 1
   },
   {
     "id": 3,
-    "ar": "اِخْتِلَافُ اَلْسِنَتِكُمْ وَ اَلْوَانِكُمْ",
-    "en": "Difference of your tongues and colours",
-    "ur": "تمہاری زبانوں اور رنگوں  (نسلوں) کا اختلاف (فرق)",
-    "wrongEn": "Similarity of your tongues",
-    "wrongUr": "تمہاری زبانوں  اور رنگوں  (نسلوں)  کی مشابہت",
+    "ar": "اِخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ",
+    "en": "Differences of your languages and colors",
+    "ur": " اور اختلاف تم سب (کی) زبانوں (میں) اور رنگوں (میں)",
+    "wrongEn": "Differences of your colors and languages",
+    "wrongUr": "فرق تم سب کے رنگوں (کا)",
     "les": 1
   },
   {
     "id": 4,
-    "ar": "لَآيَات",
-    "en": "Certainly signs",
-    "ur": "بےشک نشانیاں",
-    "wrongEn": "No signs",
-    "wrongUr": "کوئی نشانیاں نہیں",
+    "ar": "لَآيَاتٍ",
+    "en": "Certainly are signs",
+    "ur": "بے شک نشانی",
+    "wrongEn": "Certainly are verses",
+    "wrongUr": "نشانیانیوں کے لئے",
     "les": 1
   },
   {
     "id": 5,
-    "ar": "لِقَوْمٍ يَعْقِلُوْن",
-    "en": "For people who reason",
-    "ur": "عقل رکھنے (سمجھنے) والوں کے لیے      ",
-    "wrongEn": "For people who ignore",
-    "wrongUr": "نظر انداز (بے توجہ) کرنے والوں کے لیے",
+    "ar": "لِّقَوْمٍ يَعْقِلُونَ",
+    "en": "For people who understand",
+    "ur": "قوم (کے) لئے جو عقل سے کام لیتے ہیں",
+    "wrongEn": "For people who believe",
+    "wrongUr": "اُس قوم (کے) لئے جو عمل کرتے ہیں",
     "les": 1
   },
   {
     "id": 6,
-    "ar": "اِنَّ اللّٰهَ سَمِيْعٌ",
-    "en": "Indeed Allah is All-Hearing",
-    "ur": "بے شک اللّٰہ سننے والا(سمیع) ہے",
-    "wrongEn": "Indeed Allah is All-Knowing",
-    "wrongUr": "بے شک اللّٰه جاننے والا ہے",
-    "les": 2
+    "ar": "بِسْمِ اللهِ",
+    "en": "With the name of Allah",
+    "ur": "",
+    "wrongEn": "With the name of Allah too",
+    "wrongUr": "",
+    "les": 1
   },
   {
     "id": 7,
-    "ar": "اِنَّ اللّٰهَ خَبِيْرٌ بِعِبَادِه",
-    "en": "Indeed Allah is All-Aware of His servants",
-    "ur": "بے شک اللّٰہ اپنے بندوں(عباد) سے خبردار(خبیر) ہے",
-    "wrongEn": "Indeed His servants are aware of Allah",
-    "wrongUr": "بے شک اُس کے بندے اللّٰه سے خبردار (خبیر) ہیں",
-    "les": 2
+    "ar": "الرَّحْمنِ الرَّحِيمِِ",
+    "en": "The Most Merciful The Most Beneficient",
+    "ur": "",
+    "wrongEn": "Merciful and Beneficient",
+    "wrongUr": "",
+    "les": 1
   },
   {
     "id": 8,
-    "ar": "اِنَّ اللّٰهَ غَفُوْرٌ",
-    "en": "Indeed Allah is Oft-Forgiving",
-    "ur": "بےشک اللّٰہ بہت بخشنے والا  (غفور) ہے",
-    "wrongEn": "Indeed Allah is Most Merciful",
-    "wrongUr": "بے شک اللّٰہ نہایت رحم والا (رحیم) ہے",
-    "les": 2
+    "ar": "أَنْ خَلَقَكُم",
+    "en": "That He created you all",
+    "ur": "",
+    "wrongEn": "After that He created you",
+    "wrongUr": "",
+    "les": 1
   },
   {
     "id": 9,
-    "ar": "لَهُ مَا فِي السَّمٰوَاتِ",
-    "en": "To Him belongs what is in the heavens",
-    "ur": "اُس (اللّٰہ) کے لیے ہے جو کچھ(مَا) آسمانوں (سماوات) میں ہے",
-    "wrongEn": "From Him came the heavens",
-    "wrongUr": "اس سے آسمان آئے",
+    "ar": "مِّن تُرَابٍ",
+    "en": "From clay",
+    "ur": "",
+    "wrongEn": "From water",
+    "wrongUr": "",
+    "les": 1
+  },
+  {
+    "id": 10,
+    "ar": "اِخْتِلَافُ أَلْسِنَتِكُمْ",
+    "en": "Differences of your languages",
+    "ur": "",
+    "wrongEn": "Differences of your colors",
+    "wrongUr": "",
+    "les": 1
+  },
+  {
+    "id": 11,
+    "ar": "إِنَّ فِي ذَلِكَ",
+    "en": "Certainly in this",
+    "ur": "",
+    "wrongEn": "Certainly in them",
+    "wrongUr": "",
+    "les": 1
+  },
+  {
+    "id": 12,
+    "ar": "لِّلْمُؤْمِنِينَ",
+    "en": "The believers",
+    "ur": "",
+    "wrongEn": "The Muslims",
+    "wrongUr": "",
+    "les": 1
+  },
+  {
+    "id": 13,
+    "ar": " إِنَّ اللَّهَ  هُوَ سَمِيعٌ ",
+    "en": "Certainly Allah is the Hearing",
+    "ur": "بے شک اللّٰہ سننے والے (ہیں)",
+    "wrongEn": "Certainly Allah is the All-seeing",
+    "wrongUr": "بے شک اللّٰہ جانتے ہیں",
     "les": 2
+  },
+  {
+    "id": 14,
+    "ar": " إِنَّ اللَّهَ بِعِبَادِهِ لخَبِيرٌ",
+    "en": "Certainly Allah is in relation to his servants all-aware",
+    "ur": "بے شک اللّہٰ اُس کے بندوں(کے) بارے میں باخبر (ہیں)",
+    "wrongEn": "Certainly Allah is of His servants all-knowing",
+    "wrongUr": "بے شک اللّٰہ کے بندے آگاہ (ہیں)",
+    "les": 2
+  },
+  {
+    "id": 15,
+    "ar": " إِنَّ اللَّهَ كَانَ  غَفُور",
+    "en": "Certainly Allah is all-forgiving",
+    "ur": "بے شک اللّہ بہت بخشنے والے (ہیں)",
+    "wrongEn": "Certainly Allah forgives you",
+    "wrongUr": "بے شک اللّٰہ رحم کرنے والے (ہیں)",
+    "les": 2
+  },
+  {
+    "id": 16,
+    "ar": " لَهُ ما فِي السَّمَاوَاتِ",
+    "en": "His is that which is in the heavens",
+    "ur": "اُس (کے) لیئے (ہے)جو کچھ آسمانوں میں (ہیں)",
+    "wrongEn": "To him belong the heavens",
+    "wrongUr": "(کے) لیئے (ہے)جو کچھ آسمانوں میں (ہیں)",
+    "les": 2
+  },
+  {
+    "id": 17,
+    "ar": "وَاللّهُ وَلِيُّ الْمُؤْمِنِينَ ",
+    "en": "Allah is the guardian of the believers.",
+    "ur": "اور اللّٰہ سرپرست (ہے) مومنین (کا)",
+    "wrongEn": "And Allah will perfect the believers ",
+    "wrongUr": "اور اللّٰہ سرپرستی کرتا ہے مومنین کی",
+    "les": 3
+  },
+  {
+    "id": 18,
+    "ar": "مُلْكُ السَّمَاوَاتِ وَالأَرْضِ ",
+    "en": "Kingdom of the heavens and the earth",
+    "ur": "فرمان روائی آسمانوں اور زمین (کی)",
+    "wrongEn": "Kingdom for the heavens and the earth",
+    "wrongUr": "فرمان روائی آسمانوں اور زمین (کے) لیئے",
+    "les": 3
+  },
+  {
+    "id": 19,
+    "ar": "هُوَ الرَّحْمَنُ الرَّحِيمُ ",
+    "en": "God is the Beneficent, the Merciful",
+    "ur": "وہ مہربان، رحم کرنے والے (ہیں)",
+    "wrongEn": "He is the Beneficent, the Merciful",
+    "wrongUr": "خدا جو کہ میربان اور رحم کرنے والا (ہے)",
+    "les": 3
+  },
+  {
+    "id": 20,
+    "ar": "وَالَّذِينَ مِن قَبْلِكُمْ ",
+    "en": "And those from before you (all)",
+    "ur": "اور جو لوگ تم سب سے پہلے (تھے)",
+    "wrongEn": "And they are all from you (all)",
+    "wrongUr": "اور جو لوگ اُن سے پہلے (تھے)",
+    "les": 3
+  },
+  {
+    "id": 21,
+    "ar": "وَلَهُ الْحُكْمُ ",
+    "en": "And from him is the Judgement ",
+    "ur": "اور ااُس کے لیئے (ہے) حکو مت",
+    "wrongEn": "And He is the judgement",
+    "wrongUr": "اور اُس کے لیئے (ہیں) احکام",
+    "les": 3
+  },
+  {
+    "id": 22,
+    "ar": "إِيَّاكَ نَسْتَعِينُ",
+    "en": "(From) only You we seek help",
+    "ur": "صرف تجھ سے مدد چایتے ہیں",
+    "wrongEn": "I seek only Your help",
+    "wrongUr": "صرف تیری عبادت کرتے ہیں",
+    "les": 4
+  },
+  {
+    "id": 23,
+    "ar": "تُوبُوا إِلَى اللَّهِ جَمِيعًا",
+    "en": "Repent you all to Allah together",
+    "ur": "تم سب توبہ کرو اللّٰہ سے سب کے سب",
+    "wrongEn": "Seek Allah's forgiveness",
+    "wrongUr": "تم پلٹو اللّٰہ کی طرف سب کے سب",
+    "les": 4
+  },
+  {
+    "id": 24,
+    "ar": "فَسَبِّحْ بِحَمْدِ رَبِّكَ",
+    "en": "So glorify with praise, your Lord",
+    "ur": "پس تم تسبیح کرو تعریف کے ساتھ اپنے پروردگار کی",
+    "wrongEn": "Glorify the Lord of praise",
+    "wrongUr": "پس اُس نے تسنیح کی اللّٰہ کی حمد کے ساتھ",
+    "les": 4
+  },
+  {
+    "id": 25,
+    "ar": "وَاسْتَغْفِرُواْ رَبَّكُمْ",
+    "en": "And seek forgiveness you all, of your Lord",
+    "ur": "اور تم سب مغفرت چاہو اپنے پروردگار سے",
+    "wrongEn": "Se seek His forgiveness",
+    "wrongUr": "اور انھوں نے مغفرت چاہی اللّٰہ سے",
+    "les": 4
+  },
+  {
+    "id": 26,
+    "ar": "ذَلِكَ هُدَى اللّهِ",
+    "en": "That is the guidance of Allah",
+    "ur": "یہ ہدایت ہے اللّٰہ کی",
+    "wrongEn": "Guidance is from Allah",
+    "wrongUr": "اُس کو ہدایت کی اللّٰہ نے",
+    "les": 4
+  },
+  {
+    "id": 27,
+    "ar": "جَآؤُوهُم بِالْبَيِّنَاتِ ",
+    "en": "They came to them with clear evidences",
+    "ur": "وہ سب لاے اُنکے (لیئے) روشن دلیلیں",
+    "wrongEn": "It went towards them with evidences",
+    "wrongUr": "وہ لایا اُن کو (اُن کے لیئے)روشن دلیل",
+    "les": 5
+  },
+  {
+    "id": 28,
+    "ar": "اتَّقُوا اللَّهَ وَأَطِيعُونِ ",
+    "en": "Be God wary (you all) and obey me (you all)",
+    "ur": "تم سب اللّٰہ کا تقوٰی اختیار کرو اور اطاعت کرو میری",
+    "wrongEn": "Obey Allah and follow me",
+    "wrongUr": "تم سب خدا کا تقوٰی اختیار کرو اور اطاعت کرو اُس کی",
+    "les": 5
+  },
+  {
+    "id": 29,
+    "ar": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ ",
+    "en": "Certainly I am for you all a messenger, trustworthy",
+    "ur": "یقیناً میں تمہارے لئے امانتدار پغمبر ہوں",
+    "wrongEn": "He was a trustworthy messenger for you",
+    "wrongUr": "میں تمہارے لیئے پغمبر ہوں",
+    "les": 5
+  },
+  {
+    "id": 30,
+    "ar": "إِذْ قَالَ لَهُمْ أَخُوهُمْ ",
+    "en": "When he said for them, their brother",
+    "ur": "جب کہا اُن سب کے لئے اُن کے بھائی",
+    "wrongEn": "When it was said for them that",
+    "wrongUr": "جب کہا کہ وہ سب اُ ن کے بھائی ہیں",
+    "les": 5
+  },
+  {
+    "id": 31,
+    "ar": "وَلَكِنْ كَانَ حَنِيفًا مُسْلِمًا",
+    "en": "And but he was upright, submitting",
+    "ur": "اورلیکن(وہ) تھے حق پرست فرمانبردار",
+    "wrongEn": "And he was upright and submitted",
+    "wrongUr": "اور وہ حقیقی مسمان تھا",
+    "les": 6
+  },
+  {
+    "id": 32,
+    "ar": "اعْبُدُوا اللهَ واتَّقُوهُ",
+    "en": "Worship (you all) Allah and be wary (you all) of Him",
+    "ur": "خداکے بندو!تقوٰی اختیار کرو",
+    "wrongEn": "Servants be wary of Allah",
+    "wrongUr": "تم سب عبادت کرو اللّٰہ کی اور تقوٰی اختیار کرو اُس کا",
+    "les": 6
+  },
+  {
+    "id": 33,
+    "ar": "لَلَّزِينَ اتَّبَعُوهُ",
+    "en": "Certainly those who followed him",
+    "ur": "بے شک وہ لوگ (ہیں) جس بے پروی کی اُس کی",
+    "wrongEn": "Certainly they who will follow him",
+    "wrongUr": "اُن لوگو ں کے لیئے جنھوں نے پروی کئ اُس کی",
+    "les": 6
+  },
+  {
+    "id": 34,
+    "ar": "مِلَّةَ أَبِيكُمْ إِبْرَاهِيمَ",
+    "en": "The creed of your father Ibrahim",
+    "ur": "دین تم سب کے پاس براپیم(علیہ السّلام) کا",
+    "wrongEn": "Keep faith in your father Ibrahim",
+    "wrongUr": "دین: تم سب کے والد ابراہیم (علیہ السّلام ) کا",
+    "les": 6
+  },
+  {
+    "id": 35,
+    "ar": "قَد كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌ",
+    "en": "Certainly was for you a good example",
+    "ur": "بے شک! ہے تم سب کے لیئے اچھا نمونہ",
+    "wrongEn": "Certainly you all are good exemplars",
+    "wrongUr": "ہقیناً تم لوگ اچھا نمٓونہ ہو",
+    "les": 6
+  },
+  {
+    "id": 36,
+    "ar": "إِنَّهُ كَانَ مُخْلَصًا",
+    "en": "",
+    "ur": "بے شک وہ خالص شدہ ہے",
+    "wrongEn": "",
+    "wrongUr": "یقیناً وہ خالص وہ پاک تھا",
+    "les": 6
+  },
+  {
+    "id": 37,
+    "ar": "إِنَّهُمَا مِنْ عِبَادِنَا الْمُؤْمِنِينَ",
+    "en": "Certainly both of them (are) from our believing servants.",
+    "ur": "بے شک وہ دونوں ہمارے مؤمنین بندوں  میں سے (ہیں)",
+    "wrongEn": "Certainly they (are) from our believing servants.",
+    "wrongUr": " وہ دونوں ہمارے مؤمنین بندوں  میں تھے",
+    "les": 7
+  },
+  {
+    "id": 38,
+    "ar": "وَجَعَلْنَا مَعَهُ أَخَاهُ هَارُونَ",
+    "en": "And We appointed with him his brother Haroon(as)",
+    "ur": "اور ہم نےقرار دیا اس کے ساتھ اس کے بھائی ھارون (علیہ السلام) (کو)",
+    "wrongEn": "And He appointed us with his brother Haroon (as)",
+    "wrongUr": "اور بے شک قرار دیا اس نے ہم کواپنے بھائی ھارون کے ساتھ",
+    "les": 7
+  },
+  {
+    "id": 39,
+    "ar": "ثُمَّ أَرْسَلْنَا مُوسَىٰ",
+    "en": "Then we sent Musa(as)",
+    "ur": "پھر ھم نے بھیجا مو سیٰ (علیہ السلام) (کو)",
+    "wrongEn": "Then he sent us towards Musa (as)",
+    "wrongUr": "پھر اس نے بھیجا ہماری طرف موسیٰ (علیہ السلام) کو",
+    "les": 7
+  },
+  {
+    "id": 40,
+    "ar": "أَنْ أَخْرِجْ قَوْمَكَ",
+    "en": "That you bring out your people",
+    "ur": "کہ خارج کروں تمہاری قوم (کو)",
+    "wrongEn": "Certainly I will bring out my people",
+    "wrongUr": "بے شک نکالو تم سب اپنی قوم کو",
+    "les": 7
+  },
+  {
+    "id": 41,
+    "ar": "وَجَعَلْنَاهُ هُدًى لِبَنِي إِسْرَائِيلَ",
+    "en": "And we made him guidance for children of Israel (AS)",
+    "ur": "اورہم نے قرار دیا اسے ہدایات اسرائیل (علیہ السلام) (کی) اولاد کے لیے",
+    "wrongEn": "And we made guidance for children of Israel (AS)",
+    "wrongUr": "اور قرار دیا اس نے اس کو ہدایات، اسرائیل کی اولاد کے لیے",
+    "les": 7
+  },
+  {
+    "id": 42,
+    "ar": "وَجَعَلَكُمْ مُلُوكًا",
+    "en": "And he appointed you all Kings",
+    "ur": "اور قرار دیا اس نے تم سب (کو) بادشاہ",
+    "wrongEn": "And we appointed you all King",
+    "wrongUr": "اور قرار دیا اس نے تم سب کو حکمران",
+    "les": 7
+  },
+  {
+    "id": 43,
+    "ar": "إِنَّهُ كَانَ مُخْلَصًا",
+    "en": "Certainly He was sincere ",
+    "ur": "",
+    "wrongEn": "He is pious and sincere",
+    "wrongUr": "",
+    "les": 7
+  },
+  {
+    "id": 44,
+    "ar": "إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ",
+    "en": "Certainly I (am) Messenger (of) Allah towards you all",
+    "ur": "بے شک میں رسول (ہوں) الله (کا) تم سب کی طرف  ",
+    "wrongEn": "I am messenger of Allah for you all",
+    "wrongUr": "میں رسول الله ہوں",
+    "les": 8
+  },
+  {
+    "id": 45,
+    "ar": "إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ",
+    "en": "Certainly We sent you with the Truth",
+    "ur": "بے شک ہم نے بھیجا تم (کو) حق (کے) ساتھ",
+    "wrongEn": "We sent you because you are the Truth",
+    "wrongUr": "ہم نے تجھے بھیجا کیوں کہ تو حق ہے",
+    "les": 8
+  },
+  {
+    "id": 46,
+    "ar": "شَاهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+    "en": "Witness and Giver of glad tidings and Warner",
+    "ur": "گواہ اور خوشخبری دینے والا اور ڈرانے والا",
+    "wrongEn": "Witness and glad tidings and warning",
+    "wrongUr": "گواہی اور خوشخبری اور ڈر",
+    "les": 8
+  },
+  {
+    "id": 47,
+    "ar": "لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ",
+    "en": "His is the kingdom of the Heavens and the Earth",
+    "ur": "اس کے لیے (ہے) فرماں روائی آسمانوں اور زمیں (کی)",
+    "wrongEn": "His is the kingdom of the Heaven and the Earth",
+    "wrongUr": "اس نے لیے ہے فرماں روائی آسمان اور زمین کی",
+    "les": 8
+  },
+  {
+    "id": 48,
+    "ar": "وَمِنْ آيَاتِهِ",
+    "en": "And from His signs",
+    "ur": "",
+    "wrongEn": "And from the signs",
+    "wrongUr": "",
+    "les": 8
+  },
+  {
+    "id": 49,
+    "ar": "وَلَٰكِنْ رَسُولَ اللَّهِ وَخَاتَمَ النَّبِيِّينَ",
+    "en": "And but Messenger (of) Allah, and He who seals the messengers",
+    "ur": "",
+    "wrongEn": "And he is the last prophet who seals it",
+    "wrongUr": "",
+    "les": 8
+  },
+  {
+    "id": 50,
+    "ar": "أَنْزَلْنَاهُ قُرْآنًا عَرَبِيًّا",
+    "en": "We sent it down, Arabic Qur’an",
+    "ur": "ہم نے نازل کیا اس کو عربی قرآن",
+    "wrongEn": "I sent it down, Arabic Qur’an",
+    "wrongUr": "بے شک ہم نے نازل کیا اس کو عربی قرآن",
+    "les": 9
+  },
+  {
+    "id": 51,
+    "ar": "فَاعْبُدِ اللَّهَ مُخْلِصًا لَهُ الدِّينَ",
+    "en": "",
+    "ur": "پھر تم عبادت کرو الله (کی) خالصتاً، اس کےلیے دین نہیں",
+    "wrongEn": "",
+    "wrongUr": "تم سب عمادت کرو خدا کی خلوص کے ساتھ، اس کے لیے نہیں دین",
+    "les": 9
+  },
+  {
+    "id": 52,
+    "ar": "كِتَابٌ أَنْزَلْنَاهُ إِلَيْكَ",
+    "en": "Book , We sent it down towards you",
+    "ur": "کتاب کو، ہم نے نازل کیا اس کو تیری طرف",
+    "wrongEn": "We sent for you this Book",
+    "wrongUr": "کتاب کو نازل کیا میں نے اس کو تمہاری طرف",
+    "les": 9
+  },
+  {
+    "id": 53,
+    "ar": "فَاتَّبِعُوهُ وَاتَّقُوا",
+    "en": "So you all follow it and you all be God wary",
+    "ur": "پس تم سب پیروی کرو اس کی اور تم سب تقویٰ اختیار کرو",
+    "wrongEn": "So they followed it and became God wary",
+    "wrongUr": "ہم سب نے پیروی کی اس کی اور ہم نے تقویٰ اختیار کیا",
+    "les": 9
+  },
+  {
+    "id": 54,
+    "ar": "إِنَّا كُنَّا مُنْذِرِينَ",
+    "en": "Certainly We are warners",
+    "ur": "میں بے شک تمہیں ڈرانے والا ہوں",
+    "wrongEn": "I am for you a Warner",
+    "wrongUr": "بے شک ہم نہیں ڈرانے والے",
+    "les": 9
+  },
+  {
+    "id": 55,
+    "ar": "َاعْبُدِ اللَّهَ مُخْلِصًا لَهُ الدِّينَ",
+    "en": "So worship Allah Sincerely , His is the Religion",
+    "ur": "",
+    "wrongEn": "Worship Allah sincerely based on His religion",
+    "wrongUr": "",
+    "les": 9
+  },
+  {
+    "id": 56,
+    "ar": "هُدًى وَ مَوْعِظَةٌ لِلْمُتَّقِينَ",
+    "en": "Guidance and admonition for the God wary, Pious",
+    "ur": "ہدایات اور نصیحت (ہے) تقویٰ والوں (کے) لیے",
+    "wrongEn": "He guides and gives admonition to the God wary",
+    "wrongUr": "ہدایات اور نصیحت کرتا ہے تقویٰ کی طرف",
+    "les": 10
+  },
+  {
+    "id": 57,
+    "ar": "هَٰذَا بَصَائِرُ لِلنَّاسِ",
+    "en": "These (are) eye openers for the people",
+    "ur": "یہ آگاہی (ہے) لوگوں کے لیے",
+    "wrongEn": "This is like an Eye for the people",
+    "wrongUr": "یہ آنکھوں کی طرح ہے لوگوں کے لیے",
+    "les": 10
+  },
+  {
+    "id": 58,
+    "ar": "قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ",
+    "en": "Certainly (there) came to you all from Allah light",
+    "ur": "بےشک آیا تم سب (کے لیے) الله (کی) طرف سے نور",
+    "wrongEn": "Came toward you from Allah a light from it",
+    "wrongUr": "آیا تم سب (کے لیے) خدا کی طرف سے نورانی قرآن",
+    "les": 10
+  },
+  {
+    "id": 59,
+    "ar": "وَيَهْدِيهِمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+    "en": "And He guides them towards a straight path",
+    "ur": "اور وہ ہدایات کرتا ہے انھیں سید ھے راستے (کی) طرف",
+    "wrongEn": "And He guided you towards straight path",
+    "wrongUr": "اور ہدایات کی آپ کی سیدھے راستے کی ترف",
+    "les": 10
+  },
+  {
+    "id": 60,
+    "ar": "مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ",
+    "en": "A confirmer for that which is before him",
+    "ur": "تصدیق کرنے والا اس کی جو اس کے پہلے تھی",
+    "wrongEn": "A confirmer for that which all of you knew ",
+    "wrongUr": "سچ کہنے والا اس کی جو اس کے دو ہاتھوں میں ہے",
+    "les": 10
+  },
+  {
+    "id": 61,
+    "ar": "إِنَّ الَّذِينَ كَفَرُوا بِالذِّكْرِ",
+    "en": "Certainly, those who rejected the Qur’an ",
+    "ur": "بے شک وہ لوگ (جنہوں نے) کفر اختیار کیا قرآن کی نسبت",
+    "wrongEn": "Those who rejected the Qur’an",
+    "wrongUr": "جن لوگوں نے انکار کیا دین کا",
+    "les": 11
+  },
+  {
+    "id": 62,
+    "ar": "تِبْيَانًا لِكُلِّ شَيْءٍ",
+    "en": "Clarification for all things",
+    "ur": "بیان کرنے والی (ہے) ہر چیز (کو)",
+    "wrongEn": "Explains all things",
+    "wrongUr": "تمام چیزوں کو واضح کرتا ہے",
+    "les": 11
+  },
+  {
+    "id": 63,
+    "ar": "أَنْزَلَ الْكِتَابَ بِالْحَقِّ وَالْمِيزَانَ",
+    "en": "(He) revealed the Book with the Truth and the Scale",
+    "ur": "اس نے نازل کیا کتاب (کو) حق اور معیار کے ساتھ",
+    "wrongEn": "Reveled the book for balancing",
+    "wrongUr": "وہ نازل کرتا ہے کتاب کو حقیقت پرکھنے کے لیے",
+    "les": 11
+  },
+  {
+    "id": 64,
+    "ar": "يَهْدِي لِلَّتِي هِيَ أَقْوَمُ",
+    "en": "(Quran) guides (to) that which (is) most upright",
+    "ur": "ہدایات کرتا ہے اس (راستے کی طرف) جو سب سے زیادہ استوار ہے",
+    "wrongEn": "We guide to one which is the best among you",
+    "wrongUr": "ہدایات کرنے والا ہر استوار کی",
+    "les": 11
+  },
+  {
+    "id": 65,
+    "ar": "إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ",
+    "en": "Certainly We, sent down the Qur’an",
+    "ur": "بے شک ہم نے نازل کیا قرآن (کو)",
+    "wrongEn": "I am the one who revealed the Qur’an",
+    "wrongUr": "یقیناً میں نے قرآن کو نازل کیا",
+    "les": 11
+  },
+  {
+    "id": 66,
+    "ar": "اَقاموا- نُؤمِنُ",
+    "en": "",
+    "ur": "انہوں نے برپا کیا ۔ ہم ایمان لائے",
+    "wrongEn": "",
+    "wrongUr": "ہم نے قیام کیا ـ ہم ایمان لائے",
+    "les": 12
+  },
+  {
+    "id": 67,
+    "ar": "ها- لَو",
+    "en": "",
+    "ur": "وہ (عورت کے لیے) ـ اگر",
+    "wrongEn": "",
+    "wrongUr": "ہاں ! ـ اگر",
+    "les": 12
+  },
+  {
+    "id": 68,
+    "ar": "عَلَّمتُ- يعلِّمُ",
+    "en": "",
+    "ur": "میں نے سیکھایا ۔ وہ سکھاتا ہے",
+    "wrongEn": "",
+    "wrongUr": "میں نے سیکھا ۔ وہ سیکھتا ہے",
+    "les": 12
+  },
+  {
+    "id": 69,
+    "ar": "يحکُم- وَليحکُم",
+    "en": "",
+    "ur": "وہ فیصلہ کرے ـ اور وہ بے شک فیصلہ کرے",
+    "wrongEn": "",
+    "wrongUr": "اسے فیصلہ کرنا چاہیئے ۔ وہ فیصلہ کرے گا",
+    "les": 12
+  },
+  {
+    "id": 70,
+    "ar": "اَنَّ- وَعد",
+    "en": "",
+    "ur": "کہ ۔ وعدہ",
+    "wrongEn": "",
+    "wrongUr": "کہ ۔ اس نے وعدہ کیا",
+    "les": 12
+  },
+  {
+    "id": 71,
+    "ar": "يَحْكُمُ بِهَا النَّبِيُّونَ",
+    "en": "The prophets judges with it",
+    "ur": "فیصلہ کرتے ہیں اس کے ذریعے سے نبی (جمع)",
+    "wrongEn": "They judge prophets ",
+    "wrongUr": "فیصلہ کریں گے اس کا انبیاء",
+    "les": 12
+  },
+  {
+    "id": 72,
+    "ar": "اذْكُرْ نِعْمَتِي عَلَيْكَ وَعَلَىٰ وَالِدَتِكَ",
+    "en": "Remember my blessings upon you and upon your mother",
+    "ur": "یاد کرو تم میری نعمتوں کو تم پر اور تمہاری والدہ پر",
+    "wrongEn": "Remember my blessings upon you and upon your father",
+    "wrongUr": "میں یاد کرتا ہوں اپنی نعمت کو (جو) تجھ پر اور تیرے باپ پر (نازل ہوئی)",
+    "les": 12
+  },
+  {
+    "id": 73,
+    "ar": "وَلَوْ أَنَّهُمْ أَقَامُوا التَّوْرَاةَ وَالْإِنْجِيلَ",
+    "en": "And if that they all had established the Torah and the Evangel",
+    "ur": "اور اگر کہ وہ لوگ برپا کرتے توریت (کو) اور انجیل (کو)",
+    "wrongEn": "They established the Torah and the Evangel",
+    "wrongUr": "اور اگر وہ سب بچا کر رکھتے توریت اور انجیل کو",
+    "les": 12
+  },
+  {
+    "id": 74,
+    "ar": "وَعْدًا عَلَيْهِ حَقًّا فِي التَّوْرَاةِ وَالْإِنْجِيلِ",
+    "en": "Promise upon him (is) truth in the Torah and the Evangel",
+    "ur": "وعدہ ہے اس پر بار حق، توریت و انجیل میں",
+    "wrongEn": "He promised him in the Torah and in the Evangel",
+    "wrongUr": "وعدہ دیا اس پر توریت و انجیل کی حقیقت کا",
+    "les": 12
+  },
+  {
+    "id": 75,
+    "ar": "نافرمان لوگ ۔ اہل",
+    "en": "",
+    "ur": "فاسِقُونَ- اَهل",
+    "wrongEn": "",
+    "wrongUr": "کافِرِين-بِنت",
+    "les": 12
+  },
+  {
+    "id": 76,
+    "ar": "حق و باطل کو جدا کرنے والا ۔ انہوں نے برپا کیا",
+    "en": "",
+    "ur": "فُرقان- اَقاموا",
+    "wrongEn": "",
+    "wrongUr": "قُرْآن- اَقاموا",
+    "les": 12
+  },
+  {
+    "id": 77,
+    "ar": "اس نے فیصلہ نہیں کیا ۔ اور وہ بے شک فیصلہ کرے",
+    "en": "",
+    "ur": "لَم يحکُم- وَليحکُم",
+    "wrongEn": "",
+    "wrongUr": "وَليحکُم- يحکُم",
+    "les": 12
+  },
+  {
+    "id": 78,
+    "ar": "یقین ۔ کہ",
+    "en": "",
+    "ur": "اِنَّ- اَنَّ",
+    "wrongEn": "",
+    "wrongUr": "اَن- اِنَّ",
+    "les": 12
+  },
+  {
+    "id": 79,
+    "ar": "نبی (جمع) ۔ ماں ـ والدہ",
+    "en": "",
+    "ur": "النَّبين- وَالِدَة",
+    "wrongEn": "",
+    "wrongUr": "النَّبِينَ- وَالِد",
+    "les": 12
+  },
+  {
+    "id": 80,
+    "ar": "أَفَغَيْرَ اللَّهِ تَتَّقُونَ",
+    "en": "Will you then be Wary (of) other (than) Allah?",
+    "ur": "کیا پھر غیر خدا (کا)تم سب تقویٰ اختیار کرو گے؟",
+    "wrongEn": "Will you then believe in other (than) Allah?",
+    "wrongUr": "تو کیا غیر خدا سے تم سب ڈرتے ہو",
+    "les": 13
+  },
+  {
+    "id": 81,
+    "ar": "وَيَعْبُدُونَ مِنْ دُونِ اللَّهِ",
+    "en": "And they worship other (than) Allah",
+    "ur": "اور وہ سب عبادت کرتے ہیں غیر خدا (کی)",
+    "wrongEn": "You all worship other (than) Allah",
+    "wrongUr": "اور مدد مانگتے ہو غیر خدا کی",
+    "les": 13
+  },
+  {
+    "id": 82,
+    "ar": "وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
+    "en": "And (there is) not for you all from other than Allah any guardian and nor helper",
+    "ur": "اور نہیں (ہے) تم سب (کے) لیے غیر خدا میں سے (کوئی) سرپرست اور نہ مددگار",
+    "wrongEn": "And (there is) nothing for you except Allah and He is your guardian and helper",
+    "wrongUr": "اور جو بھی تمہارے لیے غیر خدا ہے، تمہارا سرپرست و مددگار ہے",
+    "les": 13
+  },
+  {
+    "id": 83,
+    "ar": "وَاللَّهُ وَاسِعٌ  عَلِيمٌ",
+    "en": "And Allah is All Bounteous and All Knowing",
+    "ur": "اور خدا (کا رحم و کرم ) وسیع اور ( وہ ) دانا ہے",
+    "wrongEn": "And Allah is  All Bounteous and All Seeing",
+    "wrongUr": "اور خدا وساعت دیتا ہے اپنے علم کو",
+    "les": 13
+  },
+  {
+    "id": 84,
+    "ar": "ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+    "en": "So towards Him you all will be returned",
+    "ur": "پھر اس کی طرف تم سب پلٹائے جاؤ گے",
+    "wrongEn": "So towards Him people will return",
+    "wrongUr": "پھر اس کی طرف لوگ پلٹائیں گے",
+    "les": 13
+  },
+  {
+    "id": 85,
+    "ar": "And His is the enduring religion",
+    "en": "وَلَهُ الدِّينُ وَاصِبًا",
+    "ur": "",
+    "wrongEn": "وَلَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ",
+    "wrongUr": "",
+    "les": 13
+  },
+  {
+    "id": 86,
+    "ar": "That owns not for them sustenance",
+    "en": "لَا يَمْلِكُ لَهُمْ رِزْقًا",
+    "ur": "",
+    "wrongEn": "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ",
+    "wrongUr": "",
+    "les": 13
+  },
+  {
+    "id": 87,
+    "ar": "So Exalted (is) Allah, the True Sovereign",
+    "en": "فَتَعَالَى اللَّهُ الْمَلِكُ الْحَقُّ",
+    "ur": "",
+    "wrongEn": "وَاللَّهُ يُؤْتِي مُلْكَهُ مَنْ يَشَاءُ",
+    "wrongUr": "",
+    "les": 13
+  },
+  {
+    "id": 88,
+    "ar": "Say, for Allah (is) intercession all of it",
+    "en": "ُلْ لِلَّهِ الشَّفَاعَةُ جَمِيعًا",
+    "ur": "",
+    "wrongEn": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+    "wrongUr": "",
+    "les": 13
+  },
+  {
+    "id": 89,
+    "ar": "And Allah gives His kingdom (to) whomever He wishes",
+    "en": "وَاللَّهُ يُؤْتِي مُلْكَهُ مَنْ يَشَاءُ",
+    "ur": "",
+    "wrongEn": "وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "wrongUr": "",
+    "les": 13
+  },
+  {
+    "id": 90,
+    "ar": "مُحْسِنِينَ- مُشْرِکِينَ- مُهْتَدِينَ",
+    "en": "",
+    "ur": "اچھے لوگ ۔ مشرکین ۔ ہدایات پانے والے",
+    "wrongEn": "",
+    "wrongUr": "اچھے لوگ ۔ مشرکین ۔ ہدایات دینے والے",
+    "les": 14
+  },
+  {
+    "id": 91,
+    "ar": "جَاهَدُوا- أَعْطَىٰ- مُرْشِد",
+    "en": "",
+    "ur": "ان سب نے کوشش کی ـ اس نے عطا کیا ۔ راستہ دکھانے والا",
+    "wrongEn": "",
+    "wrongUr": "ان سب نے جہاد کیا ـ وہ عطا کرتا ہے ـ آقا",
+    "les": 14
+  },
+  {
+    "id": 92,
+    "ar": "يُؤْمِنُ- نَهْدِي- تَجِدُ",
+    "en": "",
+    "ur": "وہ ایمان لاتا ہے ـ ہم ہدایات کریں گے ۔ تم پاؤگے",
+    "wrongEn": "",
+    "wrongUr": "وہ ایمان لائے ۔ ہم نے ہدایات کی ـ اس نے پایا",
+    "les": 14
+  },
+  {
+    "id": 93,
+    "ar": "هَدَى- يُضِلُّ- \nلَمْ يَلْبِسُوا\n",
+    "en": "",
+    "ur": "اس نے ہدایات کی ۔ وہ گمراہ کرتا ہے ۔ ان سب نے آلودہ نہیں کیا",
+    "wrongEn": "",
+    "wrongUr": "ہدایات ۔ وہ گمراہ ہوا ـ وہ آلودہ نہ کریں",
+    "les": 14
+  },
+  {
+    "id": 94,
+    "ar": "قِيَمًا- عَمِلُوا- صَالِحَات",
+    "en": "",
+    "ur": "پائیدار ۔ ان سب نے انجام دیا ۔ اچھے کام",
+    "wrongEn": "",
+    "wrongUr": "پائیدار ۔ تم سب انجام دو ـ اچھے کام",
+    "les": 14
+  },
+  {
+    "id": 95,
+    "ar": "قُلْ إِنَّنِي  هَدَانِي رَبِّي",
+    "en": "Say, Certainly guided me my Lord towards straight path",
+    "ur": "کہہ دو کہ یقیناً میں (وہ ہوں کہ) ہدایات کی ہے میری میرے پروردگار نے",
+    "wrongEn": "Say, certainly my guidance is from Allah",
+    "wrongUr": "کہہ دہ کہ یقیناً میری ہدایات خدا کی طرف سے ہے ",
+    "les": 14
+  },
+  {
+    "id": 96,
+    "ar": "أُولَٰئِكَ لَهُمُ الْأَمْنُ وَهُمْ مُهْتَدُونَ",
+    "en": "Those; for them (is) safety and they all are rightly guided ones",
+    "ur": "وہ لوگ، ان سب (کے) لیے (ہے) امن اور وہ سب ہدایات یافتہ لوگ (ہیں)",
+    "wrongEn": "They are safe and they guide them",
+    "wrongUr": "یہ سب امانت دار ہیں اور ہدایات کرنے والے ہیں",
+    "les": 14
+  },
+  {
+    "id": 97,
+    "ar": "دِينًا قِيَمًا مِلَّةَ إِبْرَاهِيمَ حَنِيفًا",
+    "en": "The upright religion, the upright faith (of) Ibrahim (AS)",
+    "ur": "(جو کہ) پائیدار دین، حق پرست ابراہیمٌ کا دین (ہے)",
+    "wrongEn": "The only upright religion and faith is of Ibrahim (as)",
+    "wrongUr": "پائیدار دینداری، صرف ابراہیمٌ کا حق پسند آئین ہے",
+    "les": 14
+  },
+  {
+    "id": 98,
+    "ar": "أَعْطَىٰ كُلَّ شَيْءٍ خَلْقَهُ ثُمَّ هَدَىٰ",
+    "en": "He  bestowed everything its creation then he guided (it)",
+    "ur": "اس نے عطا کیا ہر چیز کو، اس کی خلقت، پھر اس نے (ان کی ) ہدایات کی",
+    "wrongEn": "He created everyone and guided them",
+    "wrongUr": "عطا کیا ہر چیز کو، پھر اس کو ہدایات یافتہ خالق کیا",
+    "les": 14
+  },
+  {
+    "id": 99,
+    "ar": "وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ",
+    "en": "And he doesn’t lead astray with it except the transgressors",
+    "ur": "اور وہ گمراہ نہیں کرتا اس (کے) ذریعے سے سوائے نافرمان لوگوں (کو)",
+    "wrongEn": "And he doesn’t lead astray except the transgressors",
+    "wrongUr": "اور گمراہ نہیں ہوتے، مگر فاسقین",
+    "les": 14
+  },
+  {
+    "id": 100,
+    "ar": "جس کی  اللہ ہدایات کرتا ہے، پھر وہ ہدایات یافتہ (ہے)",
+    "en": "",
+    "ur": "مَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَد",
+    "wrongEn": "",
+    "wrongUr": "ذَٰلِكَ هُدَى اللَّهِ يَهْدِي بِهِ مَنْ يَشَاءُ",
+    "les": 14
+  },
+  {
+    "id": 101,
+    "ar": "جو ایمان لاتے ہیں  اللہ پر، وہ ہدایات کرتا ہے اس کے دل کو ",
+    "en": "",
+    "ur": "مَنْ يُؤْمِنْ بِاللَّهِ يَهْدِ قَلْبَهُ",
+    "wrongEn": "",
+    "wrongUr": "يَهْدِيهِمْ رَبُّهُمْ بِإِيمَانِهِمْ",
+    "les": 14
+  },
+  {
+    "id": 102,
+    "ar": "جن لوگوں نے جہاد کیا ہماری (راہ) میں بے شک ہم ہدایات کریں گے ان سب کو ہمارے راستوں(پر)",
+    "en": "",
+    "ur": "الَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا",
+    "wrongEn": "",
+    "wrongUr": "إِنَّنِي هَدَانِي رَبِّي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+    "les": 14
+  },
+  {
+    "id": 103,
+    "ar": "اور جس کو وہ گمراہ کرتا ہے پھر تم ہر گز نہیں پاؤگے اس کے لیے والی، مربّی",
+    "en": "",
+    "ur": "َمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُ وَلِيًّا مُرْشِدًا",
+    "wrongEn": "",
+    "wrongUr": "وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ",
+    "les": 14
+  },
+  {
+    "id": 104,
+    "ar": "وہ گمراہ کرتا ہے اس (کے) ذریعے (سے) بہت سوں (کو) اور وہ ہدایات کرتا ہے اس (کے) ذریعے (سے) بہت سوں (کو)",
+    "en": "",
+    "ur": "يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا",
+    "wrongEn": "",
+    "wrongUr": "فَيُضِلُّ اللهُ مَنْ يَشَاءُ وَ يَهْدِي مَنْ يَشَاءُ",
+    "les": 14
+  },
+  {
+    "id": 105,
+    "ar": "Whomever Allah guides then he is the rightly guided one",
+    "en": "مَنْ يَهْدِ اللَّهُ فَهُوَ الْمُهْتَد",
+    "ur": "",
+    "wrongEn": "ذَٰلِكَ هُدَى اللَّهِ يَهْدِي بِهِ مَنْ يَشَاءُ",
+    "wrongUr": "",
+    "les": 14
+  },
+  {
+    "id": 106,
+    "ar": "And whoever believes in Allah, He guides his heart",
+    "en": "مَنْ يُؤْمِنْ بِاللَّهِ يَهْدِ قَلْبَهُ",
+    "ur": "",
+    "wrongEn": "يَهْدِيهِمْ رَبُّهُمْ بِإِيمَانِهِمْ",
+    "wrongUr": "",
+    "les": 14
+  },
+  {
+    "id": 107,
+    "ar": "And those who strived in our (ways) certainly we guide them (in) our ways",
+    "en": "الَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا",
+    "ur": "",
+    "wrongEn": "إِنَّنِي هَدَانِي رَبِّي إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+    "wrongUr": "",
+    "les": 14
+  },
+  {
+    "id": 108,
+    "ar": "And whomever He leads astray then you will never find for him a guardian (or) a guide",
+    "en": "وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُ وَلِيًّا مُرْشِدًا",
+    "ur": "",
+    "wrongEn": "وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ",
+    "wrongUr": "",
+    "les": 14
+  },
+  {
+    "id": 109,
+    "ar": "He leads many astray with it and He guides many with it",
+    "en": "يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا",
+    "ur": "",
+    "wrongEn": "فَيُضِلُّ اللهُ مَنْ يَشَاءُ وَ يَهْدِي مَنْ يَشَاءُ",
+    "wrongUr": "",
+    "les": 14
+  },
+  {
+    "id": 110,
+    "ar": "يُؤْتُونَ- يُقِيمُونَ- يُخْرِجُونَ",
+    "en": "They all give – They all establish – They all bring out",
+    "ur": "وہ سب دیتے ہیں - وہ سب قیام کرتے ہیں - وہ سب نکالتے ہو",
+    "wrongEn": "They all give – You all establish – You all bring out",
+    "wrongUr": "وہ سب دیتے ہیں - وہ سب قیام کرتے ہیں - تم سب نکالتے ہو",
+    "les": 15
+  },
+  {
+    "id": 111,
+    "ar": "خَالِدُونَ- رَاکِعُونَ- مَوْتَىٰ",
+    "en": "Those who remain forever – Those who bow down – Dead ones",
+    "ur": "ہمیسشہ رہنے والے - رکوع کرنے والے - مردوں",
+    "wrongEn": "Those who remain forever – Those who bow down – Died",
+    "wrongUr": "جاوید (جمع) - رکوع کرنے والا - میت",
+    "les": 15
+  },
+  {
+    "id": 112,
+    "ar": "اِتَّخَذُوا-لاتَتَّخِذُوا- مَوْلَى",
+    "en": "They all took – You all did not take - Protector",
+    "ur": "ان سب نے بنایا - تم سب نہ بناؤ - سرپرست",
+    "wrongEn": "You all took – You all did not take – Guardian",
+    "wrongUr": "تم سب بناؤ - تم سب نہ بناؤ - سرپرست",
+    "les": 15
+  },
+  {
+    "id": 113,
+    "ar": "اَم-النَّار- أَصْحَاب",
+    "en": "However, or – Hellfire – Companions ",
+    "ur": "کیا - آگ - دوست (جمع)",
+    "wrongEn": "We – Fire – Friends",
+    "wrongUr": "کیوں - آگ - ساتھی (جمع)",
+    "les": 15
+  },
+  {
+    "id": 114,
+    "ar": "أَوْلِيَاء- عَدُوّ- يَتَوَلَّى",
+    "en": "Guardians – Enemy – He takes up guardianship of",
+    "ur": "سر پرست (جمع) - دشمن - وہ سرپرستی کرتا ہے",
+    "wrongEn": "Friends – Enemies – Guards",
+    "wrongUr": "سر پرست (جمع) - دشمن -اہلِ دوستی",
+    "les": 15
+  },
+  {
+    "id": 115,
+    "ar": "أُولَٰئِكَ أَصْحَابُ النَّارِۖ هُمْ فِيهَا خَالِدُونَ",
+    "en": "Those (are) companions of hellfire. They (are) those who will remain in it forever.",
+    "ur": "وہ اہلِ دوزخ ہی (ہیں) - وہ سب ان میں ہمیشہ رہنے والے (ہیں)",
+    "wrongEn": "Those (are) companions of light. They (are) those who will remain in it forever.",
+    "wrongUr": "وہ سب نورانی ساتھی ہیں - اور جاوید",
+    "les": 15
+  },
+  {
+    "id": 116,
+    "ar": "أَمِ اتَّخَذُوا مِنْ دُونِهِ أَوْلِيَاءَ",
+    "en": "Have they taken guardians besides Him?",
+    "ur": "کیا ان سب نے بنایا ہے اس (کے) علاوہ سر پرست",
+    "wrongEn": "Have they taken guardians besides Allah?",
+    "wrongUr": "کیا وہ سب بناتے ہیں  خدا کے علاوہ دوسروں کو اپنے سر پرست",
+    "les": 15
+  },
+  {
+    "id": 117,
+    "ar": "وَأَنَّ الْكَافِرِينَ لَا مَوْلَىٰ لَهُمْ",
+    "en": "And because the disbelievers don’t (have) protector for them",
+    "ur": "اور یہ کہ کافر نہیں ہے کوئی سرپرست ان سب کے لیے",
+    "wrongEn": "And disbelievers they are not the  protectors",
+    "wrongUr": "اور یہ کافر افراد کسی کے سرپرست نہیں ہیں",
+    "les": 15
+  },
+  {
+    "id": 118,
+    "ar": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَ يُؤْتُونَ الزَّكَاةَ",
+    "en": "Those who established prayers and gave Zakat",
+    "ur": "جن لوگوں نے قائم کی نماز اور ادا کی زکوٰۃ  ",
+    "wrongEn": "Those who establish prayers and give Zakat",
+    "wrongUr": "اور وہ لوگ جو قائم کرتے ہیں نماز (کو) اور دیتے ہیں زکوٰۃ (کو)",
+    "les": 15
+  },
+  {
+    "id": 119,
+    "ar": "إِنَّا جَعَلْنَا الشَّيَاطِينَ أَوْلِيَاءَ لِلَّذِينَ لَا يُؤْمِنُونَ",
+    "en": "Certainly We appointed the satans (as) guardians for those who don’t believe",
+    "ur": "بے شک ہم نے قرار دیا شیطانوں (کو) سرپرست ان لوگوں (کے) لیے جو ایمان نہیں لاتے ہیں",
+    "wrongEn": "We will appoint satans as guardians for disbelievers",
+    "wrongUr": "ہم ہمیشہ شیطانوں کوان کا سرپرست ان کا سرپرست قرار دیتے ہیں جو ایمان نہیں لاتے ",
+    "les": 15
+  },
+  {
+    "id": 120,
+    "ar": "الله سر پرست (ہے) ان لوگوں کا جو ایمان لائے",
+    "en": "",
+    "ur": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا",
+    "wrongEn": "",
+    "wrongUr": "ذَٰلِكَ بِأَنَّ اللَّهَ مَوْلَى الَّذِينَ آمَنُوا",
+    "les": 15
+  },
+  {
+    "id": 121,
+    "ar": "اور جن لوگوں نےکفر اختیار کیا ان کے سر پرست سر کش (ہیں)",
+    "en": "",
+    "ur": "وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ",
+    "wrongEn": "",
+    "wrongUr": "لَا تَتَّخِذُوا الْكَافِرِينَ",
+    "les": 15
+  },
+  {
+    "id": 122,
+    "ar": "وہ نکالتا ہے ان سب (کو) اندھیروں میں سے روشنی کی طرف",
+    "en": "",
+    "ur": "يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+    "wrongEn": "",
+    "wrongUr": "يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ",
+    "les": 15
+  },
+  {
+    "id": 123,
+    "ar": "تم سب نہ بناؤ میرے دشمن اور تم سب کے دشمنوں (کو) سر پرست",
+    "en": "",
+    "ur": "لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ",
+    "wrongEn": "",
+    "wrongUr": "لَا تَتَّخِذُوا الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُونِ الْمُؤْمِنِينَ",
+    "les": 15
+  },
+  {
+    "id": 124,
+    "ar": "تم سب کا سرپرست صرف الله ہے اور اس کا رسولؐ",
+    "en": "",
+    "ur": "إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ",
+    "wrongEn": "",
+    "wrongUr": "إِنَّ وَلِيِّيَ اللَّهُ الَّذِي نَزَّلَ الْكِتَابَ",
+    "les": 15
+  },
+  {
+    "id": 125,
+    "ar": "Allah (is) Guardian (of) those who believed ",
+    "en": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا",
+    "ur": "",
+    "wrongEn": "ذَٰلِكَ بِأَنَّ اللَّهَ مَوْلَى الَّذِينَ آمَنُوا",
+    "wrongUr": "",
+    "les": 15
+  },
+  {
+    "id": 126,
+    "ar": "And those who disbelieved, their guardians (are) the rebels",
+    "en": "وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ",
+    "ur": "",
+    "wrongEn": "لَا تَتَّخِذُوا الْكَافِرِينَ",
+    "wrongUr": "",
+    "les": 15
+  },
+  {
+    "id": 127,
+    "ar": "He brings them out from the darkness towards the light",
+    "en": "يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ",
+    "ur": "",
+    "wrongEn": "يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ",
+    "wrongUr": "",
+    "les": 15
+  },
+  {
+    "id": 128,
+    "ar": "You all don’t take my enemy and your enemy (as) guardians",
+    "en": "لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ",
+    "ur": "",
+    "wrongEn": "لَا تَتَّخِذُوا الْكَافِرِينَ أَوْلِيَاءَ مِنْ دُونِ الْمُؤْمِنِينَ",
+    "wrongUr": "",
+    "les": 15
+  },
+  {
+    "id": 129,
+    "ar": "Certainly Only your guardian (is) Allah and His Messenger",
+    "en": "إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ",
+    "ur": "",
+    "wrongEn": "إِنَّ وَلِيِّيَ اللَّهُ الَّذِي نَزَّلَ الْكِتَابَ",
+    "wrongUr": "",
+    "les": 15
+  },
+  {
+    "id": 130,
+    "ar": "اُمَّهَات- اَنْفُسَهُم- اَزْوَاج",
+    "en": "Mothers – Themselves – Wives ",
+    "ur": "مائیں - وہ لوگ خود - بیویاں",
+    "wrongEn": "Mother – Self – Wife",
+    "wrongUr": "ماں - جان - بیوی",
+    "les": 16
+  },
+  {
+    "id": 131,
+    "ar": "اِجْعَلْ- آتُوا- اَقِيمُوا",
+    "en": "You appoint – You all give – You all establish",
+    "ur": "قرار دو تم - دو تم سب - قیام کرو تم سب",
+    "wrongEn": "He appoints – You all give – I am establishing",
+    "wrongUr": "قرار دو تم سب - دو تم سب - قیام کرو تم سب",
+    "les": 16
+  },
+  {
+    "id": 132,
+    "ar": "تَوَلَّوْا- تَوَلَّيتُمْ- لا تُبْطِلُوا",
+    "en": "They all turned away – You all turned away – You all do not render void",
+    "ur": "اُن سب نے منہ پھیرا - تم سب مے منہ پھیرا - تم سب باطل نہ کرو",
+    "wrongEn": "We turned away – We are turning away – You render void",
+    "wrongUr": "منہ پھیرو تم سب - منہ پھیرتے ہو تم سب - باطل نہ کرو تم سب",
+    "les": 16
+  },
+  {
+    "id": 133,
+    "ar": "بَلَاغ- لَدُنْ- اُوْلُو",
+    "en": "To deliver – Near – Those vested with",
+    "ur": "پھنچانا - نزدیک -والے ",
+    "wrongEn": "Delivery – From – Those who have knowledge",
+    "wrongUr": "پھنچا - نزدیک - والا",
+    "les": 16
+  },
+  {
+    "id": 134,
+    "ar": "يطَاعُ- يحِبُّ- جِئْتُ(کُمْ)  بِ",
+    "en": "He to be obeyed – He likes – I brought to you all",
+    "ur": "اُس کی اطاعت کی جائے - وہ دوست رکھتا ہے - میں لایا (تم سب) کے پاس",
+    "wrongEn": "Obey Him – He likes – We brought to you all",
+    "wrongUr": "اُس نے اطاعت کی - اُس نے دوست رکھا - میں آیا",
+    "les": 16
+  },
+  {
+    "id": 135,
+    "ar": "النَّبِيُّ أَوْلَىٰ بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ",
+    "en": "The Prophet is nearest in relation to the believers from them selves",
+    "ur": "نبی نزدیک ہے مومنین کی بہ نسبت خود اُن سے",
+    "wrongEn": "The Prophet is the first one among themselves",
+    "wrongUr": "نبی پہلا ہے خود اپنے درمیان سے",
+    "les": 16
+  },
+  {
+    "id": 136,
+    "ar": "إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا",
+    "en": "Certainly only your guardian (is) Allah and His Messenger and those who believed",
+    "ur": "صرف تمہارا سرپرست الله اور اس کا رسول (ہے) اور وہ جو ایمان لائے",
+    "wrongEn": "Certainly your guardian is Allah and His Messenger and those who believed them",
+    "wrongUr": "یقیناً تم سب کا سرپرست خدا ہے اور اُس کا رسول اور وہ لوگ ہیں جو اُس پر ایمان لائے",
+    "les": 16
+  },
+  {
+    "id": 137,
+    "ar": "وَجِئْتُكُمْ بِآيَةٍ مِنْ رَبِّكُمْ فَاتَّقُوا اللَّهَ",
+    "en": "And I brought to you all a sign from your Lord then be wary of Allah you all",
+    "ur": "اور میں لایا تم سب (کے پاس ) نشانی تم سب کے پروردگار کی طرف سے تو تم سب تقوٰی اختیار کرو خدا کا",
+    "wrongEn": "And it came to you from your Lord so that you become Good",
+    "wrongUr": "اور میں آیا تم سب کی طرف پروردگار کی نشانی کے عنوان سے تا کہ خدا کا تقوٰی اختیار کرو",
+    "les": 16
+  },
+  {
+    "id": 138,
+    "ar": "فَإِنْ تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ",
+    "en": "So if you all turn away then certainly only  our messenger’s (duty is) to communicate clearly",
+    "ur": "پھر اگر تم سب منہ پھیرو گے تو ہمارے رسول  پر صرف واضح طور سے پہنچا دینا (فرض) ہے ",
+    "wrongEn": "So if you all turn away then certainly your messenger has a clear delivery",
+    "wrongUr": "پھر اگر اُن سب نے منہ پھیرا تو یقیناً ہمارے رسول  پر واضح طور سے (فرض) نہیں ہے",
+    "les": 16
+  },
+  {
+    "id": 139,
+    "ar": "وَأَطِيعُوا الرَّسُولَ وَلَا تُبْطِلُوا أَعْمَالَكُمْ",
+    "en": "And you all obey the Messenger and you all do not render void your deeds",
+    "ur": "اور اطاعت کرو تم سب رسولؐ کی اور تم سب باطل نہ کرو تمہارے/ پنے اعمال کو",
+    "wrongEn": "And you all obey the Messenger so that your deeds are not wasted",
+    "wrongUr": "اور اطاعت کرو تم سب رسولؐ کی تاکہ تم سب کے اعمال باطل نہ ہوں ",
+    "les": 16
+  },
+  {
+    "id": 140,
+    "ar": "اور تم سب اطاعت کرو الله (کی) اور تم سب اطاعت کرو رسول (کی) پھر اگر تم سب منہ پھیرو گے",
+    "en": "",
+    "ur": "وَأَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ ۚ فَإِنْ تَوَلَّيْتُمْ....",
+    "wrongEn": "",
+    "wrongUr": "قُلْ أَطِيعُوا اللَّهَ وَالرَّسُولَ ۖ فَإِنْ تَوَلَّوْا.....",
+    "les": 16
+  },
+  {
+    "id": 141,
+    "ar": " وہ جو قائم کرتا ہے نماز (کو) اور دیتا ہے زکوٰۃ        (کو)",
+    "en": "",
+    "ur": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ",
+    "wrongEn": "",
+    "wrongUr": "أَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ",
+    "les": 16
+  },
+  {
+    "id": 142,
+    "ar": "اور قرار دے ہمارے لیے اپنے پاس سے سرپرست",
+    "en": "",
+    "ur": "وَاجْعَلْ لَنَا مِنْ لَدُنْكَ وَلِيًّا",
+    "wrongEn": "",
+    "wrongUr": "وَاجْعَلْ لَنَا مِنْ لَدُنْكَ نَصِيرًا",
+    "les": 16
+  },
+  {
+    "id": 143,
+    "ar": "پھر ہمارے رسول پر صرف واضح طور سے پہنچا دینا (فرض) ہے",
+    "en": "",
+    "ur": "فَإِنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ",
+    "wrongEn": "",
+    "wrongUr": "وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا لِيُطَاعَ",
+    "les": 16
+  },
+  {
+    "id": 144,
+    "ar": "پھر اگر اُن سب نے منہ پھیرا تو ہقیناً خدا دوست نہیں رکھتا کافروں کو",
+    "en": "",
+    "ur": "فَإِنْ تَوَلَّوْا فَإِنَّ اللَّهَ لَا يُحِبُّ الْكَافِرِينَ",
+    "wrongEn": "",
+    "wrongUr": "فَإِنْ تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ",
+    "les": 16
+  },
+  {
+    "id": 145,
+    "ar": "And you all obey Allah and Obey the Messenger. So if you all turn away……",
+    "en": "وَأَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ ۚ فَإِنْ تَوَلَّيْتُمْ....",
+    "ur": "",
+    "wrongEn": "قُلْ أَطِيعُوا اللَّهَ وَالرَّسُولَ ۖ فَإِنْ تَوَلَّوْا.....",
+    "wrongUr": "",
+    "les": 16
+  },
+  {
+    "id": 146,
+    "ar": "Those who establish prayers and give zakat",
+    "en": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ",
+    "ur": "",
+    "wrongEn": "أَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ",
+    "wrongUr": "",
+    "les": 16
+  },
+  {
+    "id": 147,
+    "ar": "And you appoint for us from your side a guardian",
+    "en": "وَاجْعَلْ لَنَا مِنْ لَدُنْكَ وَلِيًّا",
+    "ur": "",
+    "wrongEn": "وَاجْعَلْ لَنَا مِنْ لَدُنْكَ نَصِيرًا",
+    "wrongUr": "",
+    "les": 16
+  },
+  {
+    "id": 148,
+    "ar": "Then certainly only  our messenger’s (duty is) to Communicate clearly",
+    "en": "فَإِنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ",
+    "ur": "",
+    "wrongEn": "وَمَا أَرْسَلْنَا مِنْ رَسُولٍ إِلَّا لِيُطَاعَ",
+    "wrongUr": "",
+    "les": 16
+  },
+  {
+    "id": 149,
+    "ar": "So if they turn away then certainly Allah doesn’t like the disbelievers",
+    "en": "فَإِنْ تَوَلَّوْا فَإِنَّ اللَّهَ لَا يُحِبُّ الْكَافِرِينَ",
+    "ur": "",
+    "wrongEn": "فَإِنْ تَوَلَّيْتُمْ فَإِنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ",
+    "wrongUr": "",
+    "les": 16
+  },
+  {
+    "id": 150,
+    "ar": "وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ",
+    "en": "And you all be wary of a day (when) you all will be returned in it",
+    "ur": "اور تم سب پرواہ کرو (اس) دن (کی جب) تم سب پلٹائے جاؤگے اس میں",
+    "wrongEn": "And you all be wary of resurrection time",
+    "wrongUr": "خدا کا تقوٰی اختیار کرو جب تم سب پلٹائے جاؤگے",
+    "les": 17
+  },
+  {
+    "id": 151,
+    "ar": "إِنْ كُنْتُمْ فِي رَيْبٍ مِنَ الْبَعْثِ",
+    "en": "If you all are in doubt from/about the resurrection",
+    "ur": "اگر تم سب ہو شک میں قیامت (کے بارے) میں",
+    "wrongEn": "That you all were in doubt from your Lord",
+    "wrongUr": "بے شک تم سب شک میں ہو قیامت (کے بارے) میں",
+    "les": 17
+  },
+  {
+    "id": 152,
+    "ar": "مَا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَاحِدَةٍ",
+    "en": "Neither your creation and nor your resurrection are but like a single soul",
+    "ur": "نہیں ہے تم سب کی خلقت اور نہ تم سب (کا) دوبارہ اٹھانا سوائے (ایک) نفس (کی) طرح",
+    "wrongEn": "That which your creation and not your resurrection except one person",
+    "wrongUr": "اس نے خالق نہیں کیا تم سب (کو) اور اٹھانا تم سب (کو)مگر ایک جاندار",
+    "les": 17
+  },
+  {
+    "id": 153,
+    "ar": "كَتَبَ عَلَىٰ نَفْسِهِ الرَّحْمَةَ",
+    "en": "He made mercy incumbent upon (him) self",
+    "ur": "اس نے واجب کیا خود پر رحمت (کو)",
+    "wrongEn": "He wrote upon you all mercy",
+    "wrongUr": "اس نے واجب کیا تم میں سے ایک ایک پر رحمت (کو)",
+    "les": 17
+  },
+  {
+    "id": 154,
+    "ar": "اللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ",
+    "en": "Allah, He gives life (to) you all, then He gives death (to) you all",
+    "ur": "اللہ، وہ حیات دیتا ہے تم سب (کو) پھر وہ مارتا ہے تم سب (کو)",
+    "wrongEn": "Allah give life and Allah give death",
+    "wrongUr": "اللہ نے زندہ کیا تم سب (کو) اور پھر مارے گا تم سب (کو)",
+    "les": 17
+  },
+  {
+    "id": 155,
+    "ar": "اور جب کہا گیا بے شک اللہ (کا) وعدہ حق (ہے)",
+    "en": "",
+    "ur": "إِذَا قِيلَ إِنَّ وَعْدَ اللَّهِ حَقٌّ",
+    "wrongEn": "",
+    "wrongUr": "أَلَا إِنَّ وَعْدَ اللَّهِ حَقٌّ",
+    "les": 17
+  },
+  {
+    "id": 156,
+    "ar": "پھر وہ جمع کرتا ہے تم سب کو قیامت (کے) دن (کی)طرف",
+    "en": "",
+    "ur": "ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ ",
+    "wrongEn": "",
+    "wrongUr": "جْمَعَنَّكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ ",
+    "les": 17
+  },
+  {
+    "id": 157,
+    "ar": "وہ حیات دیتا ہے اور وہ مارتا ہے اور اس کیی طرف تم سب پلٹائے جاؤ گے",
+    "en": "",
+    "ur": "هُوَ يُحْيِي وَيُمِيتُ وَإِلَيْهِ تُرْجَعُونَ",
+    "wrongEn": "",
+    "wrongUr": "قُلِ اللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ",
+    "les": 17
+  },
+  {
+    "id": 158,
+    "ar": "تقوٰی اختیار کرو تم پروردگار (کا) بے شک قیامت (کے) وقت کا زلزلہ، عظیم چیز (ہے)",
+    "en": "",
+    "ur": "اتَّقُوا رَبَّكُمْ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ",
+    "wrongEn": "",
+    "wrongUr": "وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ",
+    "les": 17
+  },
+  {
+    "id": 159,
+    "ar": "جن لوگوں نے نقصان پہنچایا ان کے نفس (کو) پھر وہ سب ایمان نہہیں لاتے ہیں",
+    "en": "",
+    "ur": "الَّذِينَ خَسِرُوا أَنْفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+    "wrongEn": "",
+    "wrongUr": "وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+    "les": 17
+  },
+  {
+    "id": 160,
+    "ar": "When it was said certainly Allah’s promise is true",
+    "en": "إِذَا قِيلَ إِنَّ وَعْدَ اللَّهِ حَقٌّ",
+    "ur": "",
+    "wrongEn": "أَلَا إِنَّ وَعْدَ اللَّهِ حَقٌّ",
+    "wrongUr": "",
+    "les": 17
+  },
+  {
+    "id": 161,
+    "ar": "Then He gathers you all to the Day of Resurrection. (There is) no doubt in it",
+    "en": "ثُمَّ يَجْمَعُكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ",
+    "ur": "",
+    "wrongEn": "لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ الْقِيَامَةِ لَا رَيْبَ فِيهِ",
+    "wrongUr": "",
+    "les": 17
+  },
+  {
+    "id": 162,
+    "ar": "He gives life and He gives death and to Him you all will be returned",
+    "en": "هُوَ يُحْيِي وَيُمِيتُ وَإِلَيْهِ تُرْجَعُونَ",
+    "ur": "",
+    "wrongEn": "قُلِ اللَّهُ يُحْيِيكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يَجْمَعُكُمْ",
+    "wrongUr": "",
+    "les": 17
+  },
+  {
+    "id": 163,
+    "ar": "You all be wary (of) your Lord. Certainly earthquake of the Resurrection (time) (is) supreme thing",
+    "en": "اتَّقُوا رَبَّكُمْ إِنَّ زَلْزَلَةَ السَّاعَةِ شَيْءٌ عَظِيمٌ",
+    "ur": "",
+    "wrongEn": "وَاتَّقُوا يَوْمًا تُرْجَعُونَ فِيهِ إِلَى اللَّهِ",
+    "wrongUr": "",
+    "les": 17
+  },
+  {
+    "id": 164,
+    "ar": "Those who (have) ruined themselves (their souls), then they all will not believe.",
+    "en": "الَّذِينَ خَسِرُوا أَنْفُسَهُمْ فَهُمْ لَا يُؤْمِنُونَ",
+    "ur": "",
+    "wrongEn": "وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+    "wrongUr": "",
+    "les": 17
+  },
+  {
+    "id": 165,
+    "ar": "دَار- نِعْمَ- سَلِیم",
+    "en": "Abode – How good – Sound",
+    "ur": "گھر - کیا خوب - سلیم",
+    "wrongEn": "House – Blessings – Peace",
+    "wrongUr": "رکھنا - نعمت - سلام",
+    "les": 18
+  },
+  {
+    "id": 166,
+    "ar": "يَوْمَئِذٍ- خَاسِرُونَ- عَسِیر",
+    "en": "That day – Losers – Hard",
+    "ur": "اس دن - نقصان اٹھانے والے - سخت",
+    "wrongEn": "Like that day – They ruined – Difficulty",
+    "wrongUr": "اس دن - ان سب نے نقصان اٹھایا - سختی",
+    "les": 18
+  },
+  {
+    "id": 167,
+    "ar": "أَتَى- کَسَبَتْ- اتَّقَوْا",
+    "en": "He came – She/It earned – They became God Wary",
+    "ur": "وہ آیا - اس نے حاصل کیا أ ان سب نے تقویٰ اختیار کیا",
+    "wrongEn": "He came – We earned – They will become God Wary",
+    "wrongUr": "وہ آیا  وہ حاصل کرتا ہے -وہ سب تقویٰ اختیار کرتے ہیں",
+    "les": 18
+  },
+  {
+    "id": 168,
+    "ar": "يَنْفَعُ- تُجْزَى-كُنْتُمْ تَخْتَلِفُونَ",
+    "en": "It shall benefit – It shall be requited – You all used to differ",
+    "ur": "وہ فائدہ پہنچائے گا - جزا دی جائے گی - تم سب اختلاف کرتے تھے",
+    "wrongEn": "He is benefited – You will be rewarded – You all used to differ",
+    "wrongUr": "اسے فائدہ ہو گا - وہ جزا دے گا - وہ سب اختلاف کرتے ہیں",
+    "les": 18
+  },
+  {
+    "id": 169,
+    "ar": "بَنُون- أَهْلِي- خُسْرَانُ",
+    "en": "Children – Families – Loss",
+    "ur": "بیٹے - خانوادے - گھاٹا",
+    "wrongEn": "Children – Family – Losers",
+    "wrongUr": "بیٹا - گھرانہ - گھاٹے",
+    "les": 18
+  },
+  {
+    "id": 170,
+    "ar": "اور بے شک آخرت (کا) گھر بہترین (ہے) ان لوگوں کے لیے (جس نے) تقویٰ اختیار کیا",
+    "en": "",
+    "ur": "وَلَدَارُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ اتَّقَوْا",
+    "wrongEn": "",
+    "wrongUr": "وَلَدَارُ الْآخِرَةِ خَيْرٌ وَلَنِعْمَ دَارُ الْمُتَّقِينَ",
+    "les": 18
+  },
+  {
+    "id": 171,
+    "ar": "اس دن حقیقی فرمانروائی بڑا مہربان الله لیے (ہیں)",
+    "en": "",
+    "ur": "الْمُلْكُ يَوْمَئِذٍ الْحَقُّ لِلرَّحْمَٰنِ",
+    "wrongEn": "",
+    "wrongUr": "يَوْمَ لَا يَنْفَعُ مَالٌ وَلَا بَنُونَ",
+    "les": 18
+  },
+  {
+    "id": 172,
+    "ar": "اس دن فائدہ نہیں پہنچائے گی ان کی معافی ظلم کرنے والوں (کو)",
+    "en": "",
+    "ur": "يَوْمَ لَا يَنْفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ",
+    "wrongEn": "",
+    "wrongUr": "يَوْمَ لَا يَنْفَعُ مَالٌ وَلَا بَنُونَ",
+    "les": 18
+  },
+  {
+    "id": 173,
+    "ar": " الله فیصلہ کرے گا تم سب (کے) درمیان قیامت (کے) دن",
+    "en": "",
+    "ur": "اللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ الْقِيَامَةِ",
+    "wrongEn": "",
+    "wrongUr": "لَا ظُلْمَ الْيَوْمَ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+    "les": 18
+  },
+  {
+    "id": 174,
+    "ar": "بے شک نقصان اٹھانے والے وہ لوگ ہیں جن سب نے نقصان پہنچایا خود ان کو",
+    "en": "",
+    "ur": "إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ",
+    "wrongEn": "",
+    "wrongUr": "أَلَا ذَٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ",
+    "les": 18
+  },
+  {
+    "id": 175,
+    "ar": "إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ",
+    "en": "Except him, who came (to) Allah with sound heart",
+    "ur": "مگر جو آیا الله (کی طرف) سالم دل (کے) ساتھ",
+    "wrongEn": "Except him, whoever comes to Allah with good heart",
+    "wrongUr": "سوائے اس کے جو الله کی طرف آیا تسلیم شدہ دل کے ساتھ",
+    "les": 18
+  },
+  {
+    "id": 176,
+    "ar": "يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ",
+    "en": "(On) that day some of them (will be) for some, enemy",
+    "ur": "اس دن ان میں سے کچھ (لوگ) کچھ کے لیے دشمن (ہیں)",
+    "wrongEn": "(On) the day some of them (will be) for some, friends",
+    "wrongUr": "اس دن تم میں سے بعض دوسرے بعض کے دشمن ہوں گے",
+    "les": 18
+  },
+  {
+    "id": 177,
+    "ar": "الْيَوْمَ  تُجْزَىٰ كُلُّ نَفْسٍ بِمَا كَسَبَتْ",
+    "en": "Today (the day of Resurrection) every soul shall be requited with that which (it has) earned",
+    "ur": "اس دن جزا دی جائے گی ہر نفس کو ( اس کے لیے) جو اس نے حاصل کیا",
+    "wrongEn": "Today (the day of Resurrection) we shall be requited with that which we have earned in our lives",
+    "wrongUr": "اس دن جزا دی جائے گی ہر نفس کو  اس کے کیے کی بہ نسبت سب لوگوں کو",
+    "les": 18
+  },
+  {
+    "id": 178,
+    "ar": "وَكَانَ يَوْمًا عَلَى الْكَافِرِينَ عَسِيرًا",
+    "en": "And the day (will be) hard upon the disbelievers  ",
+    "ur": "اور وہ دن کافروں پر سخت ہو گا",
+    "wrongEn": "And the day of Resurrection (will be) very difficult (for) the disbelievers",
+    "wrongUr": "اور (قیامت) کا دن ہے ہم سب پر سخت",
+    "les": 18
+  },
+  {
+    "id": 179,
+    "ar": "الَّذِينَ خَسِرُوا أَنْفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ",
+    "en": "Those who ruined their souls/themselves and their families (on) the day of Resurrection",
+    "ur": "وہ لوگ ہیں جن سب نے نقصان پہنچایا خود ان کو اور ان کے خانوادے کو قیامت کے دن",
+    "wrongEn": "Those who were ruined by others and their families (on) the day of Resurrection",
+    "wrongUr": "جنہوں نے نقصان اٹھایا اپنے اور اپنے گھر والوں کے سبب قیامت کے دن",
+    "les": 18
+  },
+  {
+    "id": 180,
+    "ar": "And certainly abode (of) the hereafter (is) better for those who became God wary",
+    "en": "وَلَدَارُ الْآخِرَةِ خَيْرٌ لِلَّذِينَ اتَّقَوْا",
+    "ur": "",
+    "wrongEn": "وَلَدَارُ الْآخِرَةِ خَيْرٌ وَلَنِعْمَ دَارُ الْمُتَّقِينَ",
+    "wrongUr": "",
+    "les": 18
+  },
+  {
+    "id": 181,
+    "ar": "The true kingdom of that day is for the All Beneficent (Allah)",
+    "en": "الْمُلْكُ يَوْمَئِذٍ الْحَقُّ لِلرَّحْمَٰنِ",
+    "ur": "",
+    "wrongEn": "يَوْمَ لَا يَنْفَعُ مَالٌ وَلَا بَنُونَ",
+    "wrongUr": "",
+    "les": 18
+  },
+  {
+    "id": 182,
+    "ar": "(The) day their excuse shall not benefit the oppressors",
+    "en": "يَوْمَ لَا يَنْفَعُ الظَّالِمِينَ مَعْذِرَتُهُمْ",
+    "ur": "",
+    "wrongEn": "يَوْمَ لَا يَنْفَعُ مَالٌ وَلَا بَنُونَ",
+    "wrongUr": "",
+    "les": 18
+  },
+  {
+    "id": 183,
+    "ar": "Allah, He judges between you all (on) the day (of) Resurrection",
+    "en": "اللَّهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ الْقِيَامَةِ",
+    "ur": "",
+    "wrongEn": "لَا ظُلْمَ الْيَوْمَ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+    "wrongUr": "",
+    "les": 18
+  },
+  {
+    "id": 184,
+    "ar": "Certainly the losers (are) those who ruined their souls/themselves",
+    "en": "إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنْفُسَهُمْ",
+    "ur": "",
+    "wrongEn": "أَلَا ذَٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ",
+    "wrongUr": "",
+    "les": 18
+  },
+  {
+    "id": 185,
+    "ar": "عَرْض- حَرَّمَ- وَعَدَ",
+    "en": "Vastness – He forbade – He promised",
+    "ur": "وسعت ۔ اس نے حرام کیا ۔ اس نے وعدہ کیا",
+    "wrongEn": "Width – Haram – He promised",
+    "wrongUr": "اعتراض ۔ وہ حرام  ہوا ۔ وعدہ",
+    "les": 19
+  },
+  {
+    "id": 186,
+    "ar": "عَدْن-أَنْهَار-فَوْز",
+    "en": "Eternal – Streams – Success",
+    "ur": "جاوید ۔ نہریں ۔ کامیابی",
+    "wrongEn": "Enemies – Stream – Success",
+    "wrongUr": "دشمن ۔ نہر ۔ وہ کامیاب ہوا",
+    "les": 19
+  },
+  {
+    "id": 187,
+    "ar": "مُطَهَّرَة- مَغْفِرَة- حَرِیْر",
+    "en": "Chaste – Forgiveness – Silk",
+    "ur": "پاک ۔ معغفرت ۔ ریشم",
+    "wrongEn": "Pure – Forgiveness – Hot",
+    "wrongUr": "پاک ۔ معغفرت ۔  گرم",
+    "les": 19
+  },
+  {
+    "id": 188,
+    "ar": "بَشِّرْ-سَابِقُوا-سَارِعُوا",
+    "en": "You give glad tidings – You all take lead – You all hasten",
+    "ur": "تم بشارت دو ۔ تم سب  آگے بڑھو ۔تم سب جلدی کرو",
+    "wrongEn": "Glad tidings – You all take lead – Hasten",
+    "wrongUr": "بشارت ۔ تم سب دعا دو ۔ وہ سب آگے بڑھیں",
+    "les": 19
+  },
+  {
+    "id": 189,
+    "ar": "تَجْرِی-یُدْخِلُ-تَحْت",
+    "en": "It is flowing – He will admit – Below",
+    "ur": "وہ جاری ہے ۔ وہ  داخل کرتا ہے ۔ نیچے",
+    "wrongEn": "Flowing – He admitted – Below",
+    "wrongUr": "تم جاری ہو ۔ وہ داخل  ہوا ۔  نیچے",
+    "les": 19
+  },
+  {
+    "id": 190,
+    "ar": "جنتیں، جاری ہیں جن (کے) نیچے سے نہریں",
+    "en": "",
+    "ur": "جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ",
+    "wrongEn": "",
+    "wrongUr": "جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا",
+    "les": 19
+  },
+  {
+    "id": 191,
+    "ar": "اللہ (نے) وعدہ کیا مؤمنین اور مؤمنات (سے)",
+    "en": "",
+    "ur": "وَعَدَ اللَّهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ",
+    "wrongEn": "",
+    "wrongUr": "إِنَّ وَعْدَ اللَّهِ حَقٌّ",
+    "les": 19
+  },
+  {
+    "id": 192,
+    "ar": "بے شک اللہ داخل کرتا ہےان لوگوں کو جو ایمان لائے اور جس نے انجام دیئے اچھے اعمال جنتوں میں",
+    "en": "",
+    "ur": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ",
+    "wrongEn": "",
+    "wrongUr": "وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ",
+    "les": 19
+  },
+  {
+    "id": 193,
+    "ar": "وہ تیار کی گئی ان لوگوں (کے) لیے جو ایمان لائے اللہ پر اور اس (کے) رسولﷺ (پر)",
+    "en": "",
+    "ur": "أُعِدَّتْ لِلَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ",
+    "wrongEn": "",
+    "wrongUr": "أُعِدَّتْ لِلْمُتَّقِينَ",
+    "les": 19
+  },
+  {
+    "id": 194,
+    "ar": "کہو کس نے حرام کیا اللہ (کی) زینت(کو) جسے اس نے پیدا کیا اس (کے) بندوں (کے) لیے",
+    "en": "",
+    "ur": "قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبَادِهِ",
+    "wrongEn": "",
+    "wrongUr": "قُلْ هِيَ لِلَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا",
+    "les": 19
+  },
+  {
+    "id": 195,
+    "ar": "وَلَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ",
+    "en": "And for them in it (are) chaste wives",
+    "ur": "اور ان سب (کے) لیے (ہیں) اس میں اس میں پاک بیویاں ، ہمسراں",
+    "wrongEn": "And for you all in it (are) chaste wives",
+    "wrongUr": "اور تمھارے لیے جنت میں پاکیزہ بیوی ہے",
+    "les": 19
+  },
+  {
+    "id": 196,
+    "ar": "وَمَسَاكِنَ طَيِّبَةً فِي جَنَّاتِ عَدْنٍ",
+    "en": "And pure dwellings in eternal gardens ",
+    "ur": "اور (ہیں) پاکیزہ مکانات  جاوید جنتوں میں",
+    "wrongEn": "And pure dwellers in eternal gardens",
+    "wrongUr": "اور پاکیزہ رھنے والے جنت میں ہمیشہ رہیں گے",
+    "les": 19
+  },
+  {
+    "id": 197,
+    "ar": "هَٰذَا يَوْمُ يَنْفَعُ الصَّادِقِينَ صِدْقُهُمْ",
+    "en": "This day their truthfulness shall benefit the truthful people",
+    "ur": "اس دن ان کی سچائی فائدہ پہنچائے گی سچے لوگوں (کو)",
+    "wrongEn": "This day their truthfulness shall not benefit the truthful people",
+    "wrongUr": "یہ ہے وہ دن کہ سچے لوگ اپنی سچائی کا فائدہ اٹھائیں گے",
+    "les": 19
+  },
+  {
+    "id": 198,
+    "ar": "سَابِقُوا إِلَىٰ مَغْفِرَةٍ مِنْ رَبِّكُمْ",
+    "en": "You all take lead towards forgiveness from your Lord",
+    "ur": "تم سب آگے برھو مغفرت (کی) طرف (جو)تم سب (کے) پروردگار (کی طرف) سے (ہیں) ",
+    "wrongEn": "You all take lead by asking forgiveness from your Lord",
+    "wrongUr": "تم سب ڈھونڈو اپنی خود کی مغفرت کی طرف",
+    "les": 19
+  },
+  {
+    "id": 199,
+    "ar": "جَنَّةٍ عَرْضُهَا كَعَرْضِ السَّمَاءِ وَالْأَرْضِ أُعِدَّتْ لِلَّذِينَ آمَنُوا",
+    "en": "A garden its vastness (is) like vastness (of) heaven and earth. It is prepared for those who believed",
+    "ur": "جنت اس (کی) وسعت مثلِ آسمانوں اور زمین (کی)",
+    "wrongEn": "A garden its vastness (is) like vastness (of) earth. It is prepared for those who believed",
+    "wrongUr": "وسعت (ہیں) وہ تیار کی گئی ان لوگوں (کے) لیے جو ایمان لائے",
+    "les": 19
+  },
+  {
+    "id": 200,
+    "ar": "Gardens (with) streams flowing underneath them",
+    "en": "جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ",
+    "ur": "",
+    "wrongEn": "جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا",
+    "wrongUr": "",
+    "les": 19
+  },
+  {
+    "id": 201,
+    "ar": "Allah promised the believing men and the believing women",
+    "en": "وَعَدَ اللَّهُ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ",
+    "ur": "",
+    "wrongEn": "إِنَّ وَعْدَ اللَّهِ حَقٌّ",
+    "wrongUr": "",
+    "les": 19
+  },
+  {
+    "id": 202,
+    "ar": "Certainly Allah will admit those who believed and did righteous deeds (into) gardens",
+    "en": "إِنَّ اللَّهَ يُدْخِلُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جَنَّاتٍ",
+    "ur": "",
+    "wrongEn": "وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ",
+    "wrongUr": "",
+    "les": 19
+  },
+  {
+    "id": 203,
+    "ar": "It is prepared for those who believed in Allah and his Messengers",
+    "en": "أُعِدَّتْ لِلَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ",
+    "ur": "",
+    "wrongEn": "أُعِدَّتْ لِلْمُتَّقِينَ",
+    "wrongUr": "",
+    "les": 19
+  },
+  {
+    "id": 204,
+    "ar": "Say, who forbade adornment (of) Allah; that which He brought forth for His servants",
+    "en": "قُلْ مَنْ حَرَّمَ زِينَةَ اللَّهِ الَّتِي أَخْرَجَ لِعِبَادِهِ",
+    "ur": "",
+    "wrongEn": "قُلْ هِيَ لِلَّذِينَ آمَنُوا فِي الْحَيَاةِ الدُّنْيَا",
+    "wrongUr": "",
+    "les": 19
+  },
+  {
+    "id": 205,
+    "ar": "خُلْد- أَلِیم- لِقَاء",
+    "en": "Eternal – Painful – Encounter",
+    "ur": "جاوید ۔ دردناک ۔ ملاقات",
+    "wrongEn": "Always – All-knowing – Meeting",
+    "wrongUr": "ہمیشہ ۔ دانا ۔ ملاقات",
+    "les": 20
+  },
+  {
+    "id": 206,
+    "ar": "خِزْی- بِئْس- مُحْضَرُونَ",
+    "en": "Disgrace – How bad – Those who are brought",
+    "ur": "ذلّت ۔ کتنا برا ہے ۔ حا ضر ہونے والے",
+    "wrongEn": "Disgrace – What a bad (thing it is!) – They will be back",
+    "wrongUr": "خواری ۔ کتنا برا ہے ۔ حا ضر کیے جانے والے",
+    "les": 20
+  },
+  {
+    "id": 207,
+    "ar": "اِسْتَکْبَرُوا- یَئِسُوا- کَذَّبُوا",
+    "en": "They all be disdainful of – They all despaired – They all rejected",
+    "ur": "اُن سب نے تکبّر کیا ۔ وہ سب مایوس ہوئے ۔ اُن سب نے جھوٹ لایا",
+    "wrongEn": "They be disdainful of – He despaired – He rejected",
+    "wrongUr": "اُن سب نے تکبّر کیا۔ وہ مایوس ہوا ۔ اُس نے جھوٹ لایا",
+    "les": 20
+  },
+  {
+    "id": 208,
+    "ar": "أَخَذَ- حَبِطَتْ- یَقْتُلُونَ",
+    "en": "It seized – It be ruined – They all kill",
+    "ur": "اُس نے لیا ۔ وہ نابود ہوئی ۔ وہ سب قتل کرتے ہیں",
+    "wrongEn": "It seized – Ruined – They killed them",
+    "wrongUr": "اُس نے لیا ۔ وہ نابود ہوا ۔ اُن سب نے قتل کیا",
+    "les": 20
+  },
+  {
+    "id": 209,
+    "ar": "یَکْفُرُونَ- نَاصِرِینَ",
+    "en": "They disbelieve – Helpers",
+    "ur": "وہ سب انکار کرتے ہیں ۔ مدد کرنے والے",
+    "wrongEn": "We disbelieved – Help",
+    "wrongUr": "وہ سب انکار کرتے تھے ۔ مدد کرنے والے",
+    "les": 20
+  },
+  {
+    "id": 210,
+    "ar": "اور جو لوگ ایمان لائے باطل پر اور انکار کیا الله (کا)",
+    "en": "",
+    "ur": "وَالَّذِينَ آمَنُوا بِالْبَاطِلِ وَكَفَرُوا بِاللَّهِ",
+    "wrongEn": "",
+    "wrongUr": "وَالَّذِينَ كَفَرُوا بِآيَاتِ اللَّهِ وَلِقَائِهِ",
+    "les": 20
+  },
+  {
+    "id": 211,
+    "ar": "وہ لوگ مایوس ہوئے میری رحمت سے",
+    "en": "",
+    "ur": "أُولَٰئِكَ يَئِسُوا مِنْ رَحْمَتِي",
+    "wrongEn": "",
+    "wrongUr": "أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+    "les": 20
+  },
+  {
+    "id": 212,
+    "ar": "وہ لوگ اہلِ دوزخ (ہیں) ہمیشہ رہنے والے ہیں اُس میں",
+    "en": "",
+    "ur": "أُولَٰئِكَ أَصْحَابُ النَّارِ خَالِدِينَ فِيهَا وَبِئْسَ الْمَصِيرُ",
+    "wrongEn": "",
+    "wrongUr": "أُولَٰئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ",
+    "les": 20
+  },
+  {
+    "id": 213,
+    "ar": "الله ہدایات نہیں کرتا ان سب (کو) اور ان سب (کے) لیے (ہیں) دردناک عذاب",
+    "en": "",
+    "ur": "لَا يَهْدِيهِمُ اللَّهُ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "wrongEn": "",
+    "wrongUr": "يَئِسُوا مِنْ رَحْمَتِي وَأُولَٰئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+    "les": 20
+  },
+  {
+    "id": 214,
+    "ar": "یہ وہ لوگ (ہیں)، جن سب کے عمل نابود ہوئے",
+    "en": "",
+    "ur": "أُولَٰئِكَ الَّذِينَ حَبِطَتْ أَعْمَالُهُمْ",
+    "wrongEn": "",
+    "wrongUr": "أُولَٰئِكَ فِي الْعَذَابِ مُحْضَرُونَ",
+    "les": 20
+  },
+  {
+    "id": 215,
+    "ar": "وَالَّذِينَ كَفَرُوا بِآيَاتِ اللَّهِ وَلِقَائِهِ",
+    "en": "And those who all rejected the signs (of) Allah and meeting (with) him",
+    "ur": "اور جن لوگوں نے انکار کیا الله (کی) نشانیوں (کو) اور ہماری ملاقات (کو)",
+    "wrongEn": "And those who all rejected our signs and meeting (with) us",
+    "wrongUr": "اور جن لوگوں نے انکار کیا ہماری نشانیوں (کو) اور ہماری ملاقات (کو)",
+    "les": 20
+  },
+  {
+    "id": 216,
+    "ar": "وَأَمَّا الَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا",
+    "en": "And, but those who disbelieved and rejected our signs",
+    "ur": "اور لیکن جن لوگوں نے انکار کیا اور جھٹلا یا ہماری نشانیوں (کو)",
+    "wrongEn": "And, but those who disbelieved and rejected Allah’s signs",
+    "wrongUr": "اور جن لوگوں نے انکار کیا اورجھٹلا یا الله (کی) نشانیوں (کو)",
+    "les": 20
+  },
+  {
+    "id": 217,
+    "ar": "وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا",
+    "en": "And those who all rejected our signs; and disdainfully (turned away) from it",
+    "ur": "اور جن لوگوں نے جھٹلا یا ہماری نشانیوں (کو) اور تکبر کیا اس سے ",
+    "wrongEn": "And those who all accept our signs; and disdainfully (turned away) from it",
+    "wrongUr": "اور جن لوگوں نے جھٹلا یا الله (کی)  نشانیوں (کو) اور تکبر کیا ہم سے ",
+    "les": 20
+  },
+  {
+    "id": 218,
+    "ar": "وَلَقَدْ جَاءَهُمْ رَسُولٌ مِنْهُمْ فَكَذَّبُوهُ",
+    "en": "And certainly came (to) them a messenger from (among) them; then they denied him",
+    "ur": "اور بے شک آیا ان سب (کی طرف) رسول اُن سب میں سے، پھر اُن سب نے جھٹلا یا اُسے",
+    "wrongEn": "And certainly came (to) you a messenger from (among) them; then they accepted him",
+    "wrongUr": "اور بے شک آیا ان سب (کی طرف) رسول اُن سب میں سے، پھر اُن سب نے اُسے آزمایا",
+    "les": 20
+  },
+  {
+    "id": 219,
+    "ar": "لَهُمْ خِزْيٌ فِي الدُّنْيَا",
+    "en": "For them (is) disgrace in the world",
+    "ur": "اُن سب (کے) لیے ہیں عزت دنیا میں",
+    "wrongEn": "For them (is) punishment in the world",
+    "wrongUr": "اُن سب (کے) لیے ہے ذلّت دنیا میں",
+    "les": 20
+  },
+  {
+    "id": 220,
+    "ar": "And those who believed in falsehood and disbelieved in Allah",
+    "en": "وَالَّذِينَ آمَنُوا بِالْبَاطِلِ وَكَفَرُوا بِاللَّهِ",
+    "ur": "",
+    "wrongEn": "وَالَّذِينَ كَفَرُوا بِآيَاتِ اللَّهِ وَلِقَائِهِ",
+    "wrongUr": "",
+    "les": 20
+  },
+  {
+    "id": 221,
+    "ar": "They (have) despaired of my mercy",
+    "en": "أُولَٰئِكَ يَئِسُوا مِنْ رَحْمَتِي",
+    "ur": "",
+    "wrongEn": "أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+    "wrongUr": "",
+    "les": 20
+  },
+  {
+    "id": 222,
+    "ar": "They (are) companions (of) the hellfire, they will remain forever in it and how bad is the return",
+    "en": "أُولَٰئِكَ أَصْحَابُ النَّارِ خَالِدِينَ فِيهَا وَبِئْسَ الْمَصِيرُ",
+    "ur": "",
+    "wrongEn": "أُولَٰئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ",
+    "wrongUr": "",
+    "les": 20
+  },
+  {
+    "id": 223,
+    "ar": "Allah will not guide them and for them (is) painful punishment",
+    "en": "لَا يَهْدِيهِمُ اللَّهُ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+    "ur": "",
+    "wrongEn": "يَئِسُوا مِنْ رَحْمَتِي وَأُولَٰئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
+    "wrongUr": "",
+    "les": 20
+  },
+  {
+    "id": 224,
+    "ar": "They (are) the ones whose deeds (are) ruined",
+    "en": "أُولَٰئِكَ الَّذِينَ حَبِطَتْ أَعْمَالُهُمْ",
+    "ur": "",
+    "wrongEn": "أُولَٰئِكَ فِي الْعَذَابِ مُحْضَرُونَ",
+    "wrongUr": "",
+    "les": 20
+  },
+  {
+    "id": 225,
+    "ar": "اَصَابَ- آمَنَ- اَحْسَنَ",
+    "en": "It reached – He believed – He made (something) excellent ",
+    "ur": "",
+    "wrongEn": "It reached – They believed – Excellent",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 226,
+    "ar": "مَغْفِرَة- هادٍ- صَابِئِینَ",
+    "en": "Forgiveness – Guide – Sabaeans",
+    "ur": "",
+    "wrongEn": "Forgiveness – Guidance – Sabaeans",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 227,
+    "ar": "یَجْزِی- یَعْمَل- یُثَبِّتُ",
+    "en": "He rewards – He does – He fortifies ",
+    "ur": "",
+    "wrongEn": "He rewarded – He will know – He fortifies ",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 228,
+    "ar": "نُدْخِلُ- نَنْصُرُ- یَحْزَنُونَ",
+    "en": "We will admit – We will help – They will grieve ",
+    "ur": "",
+    "wrongEn": "I will admit – I will help – They will grieve",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 229,
+    "ar": "عَمِلَ- عِنْدَ- هَادُوا",
+    "en": "He did – Near – They became Jews",
+    "ur": "",
+    "wrongEn": "He worked – They guided",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 230,
+    "ar": "And one who believes in Allah and does righteous deed",
+    "en": "وَمَن يُؤْمِن بِاللَّهِ وَيَعْمَلْ صَالِحًا",
+    "ur": "",
+    "wrongEn": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 231,
+    "ar": "For them (is) forgiveness and great reward",
+    "en": "لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+    "ur": "",
+    "wrongEn": "لَهُم مَّغْفِرَةٌ وَرِزْقٌ كَرِيمٌ",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 232,
+    "ar": "And certainly Allah (is) one who guides those who believed",
+    "en": "إِنَّ اللَّهَ لَهَادِ الَّذِينَ آمَنُوا",
+    "ur": "",
+    "wrongEn": "إِنَّا لَنَنصُرُ رُسُلَنَا وَالَّذِينَ آمَنُوا",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 233,
+    "ar": "Then for them (is) their reward with/near their Lord",
+    "en": "فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ",
+    "ur": "",
+    "wrongEn": "لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 234,
+    "ar": "One who believes in Allah , He guides his heart",
+    "en": "وَمَن يُؤْمِن بِاللَّهِ يَهْدِ قَلْبَهُ",
+    "ur": "",
+    "wrongEn": "وَمَن يُؤْمِن بِاللَّهِ وَيَعْمَلْ صَالِحًا",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 235,
+    "ar": "يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ",
+    "en": "Allah fortifies those who believed in the immutable word",
+    "ur": "",
+    "wrongEn": "Allah fortifies those who believed in his signs",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 236,
+    "ar": "لَنُدْخِلَنَّهُمْ فِي الصَّالِحِينَ",
+    "en": "Certainly we will admit them in/among the righteous ones",
+    "ur": "",
+    "wrongEn": "Certainly we will admit them in/among our best servants",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 237,
+    "ar": "مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّهِ",
+    "en": "(Did) Not reach from affliction (anything) except with permission of Allah",
+    "ur": "",
+    "wrongEn": "(Did) Not reach from affliction (anything) except with His permission ",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 238,
+    "ar": "إِنَّهُ لَا يُحِبُّ الْكَافِرِينَ",
+    "en": "Certainly He doesn’t like disbelievers",
+    "ur": "",
+    "wrongEn": "Certainly He doesn’t like believers",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 239,
+    "ar": "قَدْ أَحْسَنَ اللَّهُ لَهُ رِزْقًا",
+    "en": "Certainly Allah made for him excellent sustenance",
+    "ur": "",
+    "wrongEn": "Certainly Allah made for him excellent life",
+    "wrongUr": "",
+    "les": 21
+  },
+  {
+    "id": 240,
+    "ar": "إِذَا-مَنْ ذَا-قَضَی",
+    "en": "When – Who? – He decided ",
+    "ur": "جب ۔ کون ؟۔اس نے فیصلہ کیا",
+    "wrongEn": "When – Which – Judge",
+    "wrongUr": "جب  ۔ جو کہ ۔ قاضی",
+    "les": 22
+  },
+  {
+    "id": 241,
+    "ar": "یُنْفِقُونَ- یُقَاتِلُونَ- مُفْلِحُونَ",
+    "en": "They pay/spend in charity – They fight – Those who are Successful",
+    "ur": "وہ سب انفاق کرتے ہیں ۔ وہ سب جھگڑا کرتے ہیں ۔ کامیاب  لوگ (جمع)",
+    "wrongEn": "They pay/spend in charity – They fight –Success",
+    "wrongUr": "تم سب خرچ کرتے ہو ۔ تم سب جھگڑتے ہو ۔ کامیاب",
+    "les": 22
+  },
+  {
+    "id": 242,
+    "ar": "تَطْمَئِنُّ- یَخْذُل- رَزَقْنَا",
+    "en": "(She/it) finds rest/tranquility – (He) forsakes – We provided",
+    "ur": "وہ سکون پاتے ہیں ۔ وہ چھوڑ دے ۔ ہم نے روزی دی",
+    "wrongEn": "(She/it) finds rest/tranquility – They forsake – They provided",
+    "wrongUr": "تم سکون پاتے ہو ۔ تم چھوڑتے ہو ۔ ہم روزی دیتے ہیں",
+    "les": 22
+  },
+  {
+    "id": 243,
+    "ar": "یَنْصُرُ- خِیَرَة",
+    "en": "He helps – Choice",
+    "ur": "وہ مدد کرتا ہے  ۔ اختیار ہے",
+    "wrongEn": "We will  helps – Blessings",
+    "wrongUr": "وہ مدد کرتا ہے ۔ تم توکل کرتے ہو  ۔ خوبی",
+    "les": 22
+  },
+  {
+    "id": 244,
+    "ar": "سَبِیل-لَمْ یَرْتَابُوا- خَیْرَات",
+    "en": "Way – They did not doubt – Blessings",
+    "ur": "راستہ ۔ ان سب نے شک نہیں کیا۔ خوبیاں",
+    "wrongEn": "Path – They will never doubt – choice",
+    "wrongUr": "راستہ ۔ ان سب نے شک نہیں کیا۔ اختیار",
+    "les": 22
+  },
+  {
+    "id": 245,
+    "ar": "وہ لوگ درست مؤمنین ہیں",
+    "en": "",
+    "ur": "أُولَٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا",
+    "wrongEn": "",
+    "wrongUr": "أُولَٰئِكَ هُمُ الصَّادِقُونَ",
+    "les": 22
+  },
+  {
+    "id": 246,
+    "ar": "ان سب نے جہاد کیا ان کے مال سے اور ان کی جان سے   اللہ(کی) راہ میں",
+    "en": "",
+    "ur": "جَاهَدُوا بِأَمْوَالِهِمْ وَأَنفُسِهِمْ فِي سَبِيلِ اللَّهِ",
+    "wrongEn": "",
+    "wrongUr": "جَاهَدُوا بِأَمْوَالِهِمْ وَأَنفُسِهِمْ وَأُولَٰئِكَ لَهُمُ الْخَيْرَاتُ",
+    "les": 22
+  },
+  {
+    "id": 247,
+    "ar": "جو لوگ ایمان لائے وہ سب جنگ کرتے ہیں اللہ (کی) راہ میں",
+    "en": "",
+    "ur": "الَّذِينَ آمَنُوا يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ",
+    "wrongEn": "",
+    "wrongUr": "الَّذِينَ كَفَرُوا يُقَاتِلُونَ فِي سَبِيلِ الطَّاغُوتِ",
+    "les": 22
+  },
+  {
+    "id": 248,
+    "ar": "اور لہٰذا بے شک مؤمنین کو توکل کرنا چا ہیئے",
+    "en": "",
+    "ur": "وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+    "wrongEn": "",
+    "wrongUr": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "les": 22
+  },
+  {
+    "id": 249,
+    "ar": "یہ (اس لئے)کہ اللہ مولا (ہے) ان لوگوں (کا) جو ایمان لائے",
+    "en": "",
+    "ur": "ذَٰلِكَ بِأَنَّ اللَّهَ مَوْلَى الَّذِينَ آمَنُوا",
+    "wrongEn": "",
+    "wrongUr": "وَأَنَّ الَّذِينَ آمَنُوا اتَّبَعُوا الْحَقَّ مِن رَّبِّهِمْ",
+    "les": 22
+  },
+  {
+    "id": 250,
+    "ar": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ",
+    "en": "Certainly only, the believers (are) those who believed in Allah and His Messenger",
+    "ur": "صرف مؤمنین (ہیں) جو لوگ ایمان لائے اللہ پر اور  اس کے رسولّ پر ",
+    "wrongEn": "Certainly only, the believers (are) those who believed in Allah and His Messenger",
+    "wrongUr": "یقیناً مؤمنین وہ لوگ ہیں جو خدا پر ایمان لائے",
+    "les": 22
+  },
+  {
+    "id": 251,
+    "ar": "الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+    "en": "Those who establish Salat/Prayers and from that which we have provided them (with), they spend in charity",
+    "ur": "وہ لوگ (ہیں جو) قائم کرتے ہیں  نماز ۔ اور جو کچھ ہم نے عطا کیا ان سب (کو) وہ لوگ راہِ خدا میں خرچ کرتے ہیں",
+    "wrongEn": "Those who establish Salat/Prayers and they spend in charity for the poor",
+    "wrongUr": "جو لوگ  قائم کرتے ہیں  نماز کو اور خرچ کرتے ہیں ان لوگوں پر",
+    "les": 22
+  },
+  {
+    "id": 252,
+    "ar": "وَإِن يَخْذُلْكُمْ فَمَن ذَا الَّذِي يَنصُرُكُم مِّن بَعْدِهِ",
+    "en": "And if He forsakes you all then who (is) he who will help you all after him",
+    "ur": "اور اگر  وہ چھوڑ دے تم سب (کو) پھر کون (ہے) جو مدد کرے گا تم سب (کی) اس (کے) بعد",
+    "wrongEn": "And if Allah forsakes you all then who (is) he who will be there you all after him",
+    "wrongUr": "اگر وہ چھوڑ دیتا ہم سب کو تو پھر کون تھا جو مدد کرتا ہماری اس کے علاوہ",
+    "les": 22
+  },
+  {
+    "id": 253,
+    "ar": "ذَٰلِكَ بِأَنَّ الَّذِينَ كَفَرُوا اتَّبَعُوا الْبَاطِلَ",
+    "en": "This  (is) in relation to, that those who disbelieved and followed the falsehood",
+    "ur": "یہ (اس لئے) کہ جن لوگوں نے انکار کیا ۔پیروی کی باطل  (کی)",
+    "wrongEn": "That, those who disbelieved and accepted the falsehood",
+    "wrongUr": "یہ (اس لئے) کہ سب لوگوں نے انکار کیا اور سب نے عبادت کی باطل کی",
+    "les": 22
+  },
+  {
+    "id": 254,
+    "ar": "They themselves (are) the true believers",
+    "en": "أُولَٰئِكَ هُمُ الْمُؤْمِنُونَ حَقًّا",
+    "ur": "",
+    "wrongEn": "أُولَٰئِكَ هُمُ الصَّادِقُونَ",
+    "wrongUr": "",
+    "les": 22
+  },
+  {
+    "id": 255,
+    "ar": "They all strived with their possessions and themselves (their lives) in the way (of) Allah",
+    "en": "جَاهَدُوا بِأَمْوَالِهِمْ وَأَنفُسِهِمْ فِي سَبِيلِ اللَّهِ",
+    "ur": "",
+    "wrongEn": "جَاهَدُوا بِأَمْوَالِهِمْ وَأَنفُسِهِمْ وَأُولَٰئِكَ لَهُمُ الْخَيْرَاتُ",
+    "wrongUr": "",
+    "les": 22
+  },
+  {
+    "id": 256,
+    "ar": "Those who believed, they fight in way (of) Allah",
+    "en": "الَّذِينَ آمَنُوا يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ",
+    "ur": "",
+    "wrongEn": "الَّذِينَ كَفَرُوا يُقَاتِلُونَ فِي سَبِيلِ الطَّاغُوتِ",
+    "wrongUr": "",
+    "les": 22
+  },
+  {
+    "id": 257,
+    "ar": "On Allah then all the faithful should put their trust",
+    "en": "وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+    "ur": "",
+    "wrongEn": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "wrongUr": "",
+    "les": 22
+  },
+  {
+    "id": 258,
+    "ar": "This  (is) in relation to, that Allah (is) protector (of) those who believed",
+    "en": "ذَٰلِكَ بِأَنَّ اللَّهَ مَوْلَى الَّذِينَ آمَنُوا",
+    "ur": "",
+    "wrongEn": "وَأَنَّ الَّذِينَ آمَنُوا اتَّبَعُوا الْحَقَّ مِن رَّبِّهِمْ",
+    "wrongUr": "",
+    "les": 22
+  },
+  {
+    "id": 259,
+    "ar": "الَّذِينَ آمَنُوا يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ",
+    "en": "Those who believed, they fight in way (of) Allah",
+    "ur": "",
+    "wrongEn": "Those who will believe and they will always fight in way (of) Allah",
+    "wrongUr": "",
+    "les": 22
+  },
+  {
+    "id": 260,
+    "ar": "کُلُوا- اِسْتَجِیْبُوا- اُشْکُرُوا",
+    "en": "You all eat – You all answer – You all thank",
+    "ur": "تم سب کہو ۔ تم سب جواب دو ۔ تم سب شکر کرو",
+    "wrongEn": "You all eat – We will answer – You thanked",
+    "wrongUr": "تم سب کہو ۔ تم سب نے جوب دیا ۔ تم سب نے شکر کیا",
+    "les": 23
+  },
+  {
+    "id": 261,
+    "ar": "تَقُولُونَ- تَعْبُدُونَ- تَفْعَلُونَ",
+    "en": "You all say – You all worship – You all do",
+    "ur": "تم سب کہتے ہو ۔ تم سب عبادت کرتے ہو ۔ تم سب انجام دیتے ہو",
+    "wrongEn": "You said – They all worship – You all do",
+    "wrongUr": "وہ سب کہتے ہیں ۔ وہ سب عبادت کرتے ہیں ۔ وہ سب انجام دیتے ہیں",
+    "les": 23
+  },
+  {
+    "id": 262,
+    "ar": "دَعَا- ضَلَّ- کُتِبَ",
+    "en": "He called – He mislead – It has been made obligatory",
+    "ur": "اس نے بلایا ۔ وہ گمراہ ہوا ۔ وہ لکھا گیا",
+    "wrongEn": "He asked – He will mislead – Book",
+    "wrongUr": "اس نے بلایا ۔ اس نے گمراہ کیا ۔ اس نے لکھا",
+    "les": 23
+  },
+  {
+    "id": 263,
+    "ar": "صِیَام-لِمَ- إِیَّایَ",
+    "en": "Fasting – Why? – Only me",
+    "ur": "روزے ۔ کس لیے ۔ صرف مجھے",
+    "wrongEn": "Fast – No – Only me",
+    "wrongUr": "روزے  ۔ کس لیے ۔ اس کو",
+    "les": 23
+  },
+  {
+    "id": 264,
+    "ar": "اِهْتَدَیْتُمْ- یَضُرُّ- إَیَّاهُ",
+    "en": "You all are guided – He will hurt – Only Him",
+    "ur": "تم سب نے ہدایت پائی ۔ وہ نقصان پہنچاتا ہے ۔ صرف اس کو",
+    "wrongEn": "Guide – He hurts – Only Me",
+    "wrongUr": "تم سب نے ہداہت دی ۔ اس نے نقصان اٹھایا ۔ صرف مجھے",
+    "les": 23
+  },
+  {
+    "id": 265,
+    "ar": "اے وہ لوگو! جو ایمان لائے ، تم سب پر (ہے حفاظت کرنا) تمھارے نفس (کی)",
+    "en": "",
+    "ur": "يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنفُسَكُمْ",
+    "wrongEn": "",
+    "wrongUr": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ",
+    "les": 23
+  },
+  {
+    "id": 266,
+    "ar": "تم سب جواب دو ، الله کو اور رسول کو، جب اس نے بلایا تم سب کو",
+    "en": "",
+    "ur": "اِسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ",
+    "wrongEn": "",
+    "wrongUr": "آمِنُوا بِاللَّهِ وَرَسُولِهِ وَالْكِتَابِ الَّذِي نَزَّلَ",
+    "les": 23
+  },
+  {
+    "id": 267,
+    "ar": "واجب کیا گیا تم سب پر روزہ رکھنا  جیسا کہ واجب کیا گیا ان لوگوں پر تم سب سے پہلے",
+    "en": "",
+    "ur": "كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ",
+    "wrongEn": "",
+    "wrongUr": "الَّذِي نَزَّلَ عَلَىٰ رَسُولِهِ وَالْكِتَابِ الَّذِي أَنزَلَ مِن قَبْلُ",
+    "les": 23
+  },
+  {
+    "id": 268,
+    "ar": "اور تقو یٰ اختیار کرو الله کا ۔ اور لہٰذا بے شک مؤمنین کو توّکل کرنا چاہیئے الله پر",
+    "en": "",
+    "ur": "وَاتَّقُوا اللَّهَ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+    "wrongEn": "",
+    "wrongUr": "اتَّقُوا رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا فِي هَٰذِهِ الدُّنْيَا حَسَنَةٌ",
+    "les": 23
+  },
+  {
+    "id": 269,
+    "ar": "تم سب نہ بناؤ میرے دشمن اور تم سب کے دشمنوں کو سر پرست",
+    "en": "",
+    "ur": "لَا تَتَّخِذُوا عَدُوِّي وَعَدُوَّكُمْ أَوْلِيَاءَ",
+    "wrongEn": "",
+    "wrongUr": "لَا يَضُرُّكُم مَّن ضَلَّ إِذَا اهْتَدَيْتُمْ",
+    "les": 23
+  },
+  {
+    "id": 270,
+    "ar": "لَا يَضُرُّكُم مَّن ضَلَّ إِذَا اهْتَدَيْتُمْ",
+    "en": "He will not hurt you all whoever He misled, when you all are guided",
+    "ur": "وہ نقصان نہیں پہنچائے گا تم سب کو جو گمراہ ہوا جب (کہ) تم سب نے ہدایت پائی",
+    "wrongEn": "He will not hurt you all whoever He misled , He is the Guidance",
+    "wrongUr": "تم سب نقصان نہیں اٹھاؤ گے گمراہی سے اگر تم سب ہدایت پاؤگے",
+    "les": 23
+  },
+  {
+    "id": 271,
+    "ar": "وَاشْكُرُوا لِلَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+    "en": "And you all thank Allah if you all are (those that) only him you all worship",
+    "ur": "اور تم سب شکر کرو الله کا، اگر تم سب ہو (وہ لوگ جو)صرف اس کی عبادت کرتے ہو",
+    "wrongEn": "And you all thank Allah if you all are (those that) you all worship",
+    "wrongUr": "شکر اس خدا کا جس کی تم سب عبادت کرتے ہو",
+    "les": 23
+  },
+  {
+    "id": 272,
+    "ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ",
+    "en": "O those who believed, you all remember blessing (of) Allah upon you all",
+    "ur": "اے وہ جو ایمان لائے تم سب یاد کرو الله کی نعمتوں کو تم پر",
+    "wrongEn": "O those who believed, you all will always remember my blessing upon you all",
+    "wrongUr": "جو لوگ ایمان لائے وہ ہمیشہ یاد کرتے ہیں خداکی نعمتوں کو",
+    "les": 23
+  },
+  {
+    "id": 273,
+    "ar": "إِنَّ أَرْضِي وَاسِعَةٌ  فَإِيَّايَ فَاعْبُدُونِ",
+    "en": "Certainly my earth (is) vast, so me alone you all worship",
+    "ur": "بے شک میری زمین وسیع ہے پھر تم سب صرف میری عبادت کرو",
+    "wrongEn": "That, my earth (is) vast, so you all worship",
+    "wrongUr": "اور الله کی زمین وسیع ہے",
+    "les": 23
+  },
+  {
+    "id": 274,
+    "ar": "لِلَّذِينَ أَحْسَنُوا فِي هَٰذِهِ الدُّنْيَا حَسَنَةٌ",
+    "en": "For those who did good deeds in this world (there is) good",
+    "ur": "ان لوگوں کے لیے جنہوں نےنیکی کی اس دنیا میں (جزا بھی) نیکی ہے",
+    "wrongEn": "For those who are good people in this world (there is) good",
+    "wrongUr": "جو لوگ نیکی کریں اس دنیا میں، وہ نیکی دیکھیں گے",
+    "les": 23
+  },
+  {
+    "id": 275,
+    "ar": "O those who believed upon you all (is supervision of) yourself",
+    "en": "يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنفُسَكُمْ",
+    "ur": "",
+    "wrongEn": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ",
+    "wrongUr": "",
+    "les": 23
+  },
+  {
+    "id": 276,
+    "ar": "You all answer (the call of) Allah and the messenger when He calls you all",
+    "en": "اِسْتَجِيبُوا لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ",
+    "ur": "",
+    "wrongEn": "آمِنُوا بِاللَّهِ وَرَسُولِهِ وَالْكِتَابِ الَّذِي نَزَّلَ",
+    "wrongUr": "",
+    "les": 23
+  },
+  {
+    "id": 277,
+    "ar": "It has been made obligatory upon you all fasting as it had been made obligatory upon those who (were) from before you all",
+    "en": "كُتِبَ عَلَيْكُمُ الصِّيَامُ كَمَا كُتِبَ عَلَى الَّذِينَ مِن قَبْلِكُمْ",
+    "ur": "",
+    "wrongEn": "الَّذِي نَزَّلَ عَلَىٰ رَسُولِهِ وَالْكِتَابِ الَّذِي أَنزَلَ مِن قَبْلُ",
+    "wrongUr": "",
+    "les": 23
+  },
+  {
+    "id": 278,
+    "ar": "And you all be wary (of) Allah and then all the faithful should put their trust upon Allah",
+    "en": "وَاتَّقُوا اللَّهَ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+    "ur": "",
+    "wrongEn": "اتَّقُوا رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا فِي هَٰذِهِ الدُّنْيَا حَسَنَةٌ",
+    "wrongUr": "",
+    "les": 23
+  },
+  {
+    "id": 279,
+    "ar": "قِسْط- قِصَاص- ظَنّ",
+    "en": "Justice – Retribution – Guess",
+    "ur": "عدل ۔ قصاص  ۔ گمان",
+    "wrongEn": "Justice – Retry – Wife",
+    "wrongUr": "قسطیں ۔ سزا ۔ بد گمان",
+    "les": 24
+  },
+  {
+    "id": 280,
+    "ar": "اِثْم- اَلْبَاب- مُنْکَر",
+    "en": "Sin – Intellects – Evil",
+    "ur": "گناہ ۔ عقلیں ۔ برائی",
+    "wrongEn": "Name – The door – Evil",
+    "wrongUr": "نام ۔ دروازہ ۔ برا",
+    "les": 24
+  },
+  {
+    "id": 281,
+    "ar": "یَأْمُرُ- یَأْمُرُونَ-تَأْکُلُونَ",
+    "en": "He enjoins – They enjoin – You all consume",
+    "ur": "وہ حکم دیتا ہے ۔ وہ سب حکم دیتے ہیں ۔ تم سب کھاتے ہو",
+    "wrongEn": "Enjoin – Enjoins – You all consume",
+    "wrongUr": "تم حکم دیتے ہو ۔ تم سب حکم دیتے ہو۔ تم سب کھاتے ہو",
+    "les": 24
+  },
+  {
+    "id": 282,
+    "ar": "یُنْفِقُونَ- یَنْهَوْنَ- لاتَأْکُلُوا",
+    "en": "They pay/spend in charity – They forbid – You all do not consume",
+    "ur": "وہ خرچ کرتے ہیں ۔ وہ روکتے ہیں ۔ تم سب نہ کھاؤ",
+    "wrongEn": "They spend – They flow – You all eat",
+    "wrongUr": "وہ خرچ کریں ۔ وہ  روکیں ۔ وہ نہ کھائیں",
+    "les": 24
+  },
+  {
+    "id": 283,
+    "ar": "اُولِی- اِحْسَان- کُونُوا",
+    "en": "Those who posses – Kindness – You all be",
+    "ur": "صاحبان ۔ نیکی کرنا ۔ تم سب ہو جاؤ",
+    "wrongEn": "First – Good – Will be",
+    "wrongUr": "صاحبان ۔ نیکی کرنا ۔ تم سب تھے",
+    "les": 24
+  },
+  {
+    "id": 284,
+    "ar": "بے شک ، الله حکم دیتا (ہے) عدالت اور نیکی کے ساتھ",
+    "en": "",
+    "ur": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ",
+    "wrongEn": "",
+    "wrongUr": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوا وَّالَّذِينَ هُم مُّحْسِنُونَ",
+    "les": 24
+  },
+  {
+    "id": 285,
+    "ar": "اور تم سب کے لیے قصاص میں زندگی ہے اے صاحبانِ عقل",
+    "en": "",
+    "ur": "وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ",
+    "wrongEn": "",
+    "wrongUr": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الْقِصَاصُ",
+    "les": 24
+  },
+  {
+    "id": 286,
+    "ar": "تم سب دور رہو زیادہ گمان سے",
+    "en": "",
+    "ur": "اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ",
+    "wrongEn": "",
+    "wrongUr": "إِنَّ بَعْضَ الظَّنِّ إِثْمٌ",
+    "les": 24
+  },
+  {
+    "id": 287,
+    "ar": "تم سب نہ بناؤ یہودی اور عیسائی کو سر پرست",
+    "en": "",
+    "ur": "لَا تَتَّخِذُوا الْيَهُودَ وَالنَّصَارَىٰ أَوْلِيَاءَ",
+    "wrongEn": "",
+    "wrongUr": "لَا تَتَّخِذُوا الْيَهُودَ وَالنَّصَارَىٰ",
+    "les": 24
+  },
+  {
+    "id": 288,
+    "ar": "اور وہ سبقائم کرتے ہیں نماز ، اور وہ سب دیتے ہیں زکوٰۃ",
+    "en": "",
+    "ur": "يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ",
+    "wrongEn": "",
+    "wrongUr": "يُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+    "les": 24
+  },
+  {
+    "id": 289,
+    "ar": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ",
+    "en": "Certainly Allah enjoins the justice and the kindness",
+    "ur": "بے شک ، الله حکم دیتا (ہے) عدالت اور نیکی کے ساتھ",
+    "wrongEn": "So that Allah enjoins the justice and purity",
+    "wrongUr": "یقیناً خدا نے حکم دیا ہے ۔ عدل اور نیکی کی بنیاد پر",
+    "les": 24
+  },
+  {
+    "id": 290,
+    "ar": "يُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+    "en": "They all establish prayers and from that which We have provided them they spend in charity",
+    "ur": "وہ سب قائم کرتے ہیں نماز (کو) اور جو کچھ ہم نے عطا کیا ان سب (کو) وہ سب (راہِ خدا میں) خرچ کرتے ہیں",
+    "wrongEn": "They all established prayers and from that which Allah provided them they give it to poor",
+    "wrongUr": "تم سب قائم کرو نماز اور جو ہم نے تم کو روزی دی ہے اس میں سے (راہِ خدا میں) خرچ کرو",
+    "les": 24
+  },
+  {
+    "id": 291,
+    "ar": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الْقِصَاصُ",
+    "en": "O those who believed, it has been made obligatory upon you all the retribution",
+    "ur": "اے وہ جو ایمان لائے، قصاص ، بدلہ واجب کیا گیا تم سب پر",
+    "wrongEn": "O those who believed, it has been made obligatory upon you all the revenge",
+    "wrongUr": "جو لوگ ایمان لائے ان کے اوپر لکھا گیا قصاص کو خدا نے",
+    "les": 24
+  },
+  {
+    "id": 292,
+    "ar": "لَا تَأْكُلُوا أَمْوَالَكُم بَيْنَكُم بِالْبَاطِلِ",
+    "en": "You all do not consume your wealth between you all in the falsehood",
+    "ur": "تم سب نہ کھاؤ اپنے مالوں کو اپنے درمیان باطل (طریقے) سے",
+    "wrongEn": "Consume your wealth between you all in the falsehood",
+    "wrongUr": "وہ سب نہ کھا ئیں تمھارے مالوں کو اپنے درمیان باطل (طریقے) سے",
+    "les": 24
+  },
+  {
+    "id": 293,
+    "ar": "يَأْمُرُونَ بِالْمَعْرُوفِ وَيَنْهَوْنَ عَنِ الْمُنكَرِ",
+    "en": "They all enjoin the good deeds and they all forbid from the evil",
+    "ur": "وہ سب حکم دیتے ہیں ۔ اچھے کام (کا) اور وہ سب منع کرتے ہیں برے کام سے",
+    "wrongEn": "They all like the good deeds and they all dislike the evil",
+    "wrongUr": "تم سب حکم دو اچھائی کا اور روکو برائی سے",
+    "les": 24
+  },
+  {
+    "id": 294,
+    "ar": "Certainly Allah enjoins the justice and the kindness",
+    "en": "إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ",
+    "ur": "",
+    "wrongEn": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوا وَّالَّذِينَ هُم مُّحْسِنُونَ",
+    "wrongUr": "",
+    "les": 24
+  },
+  {
+    "id": 295,
+    "ar": "And for you all (is) in the retribution, life! O those who posses intellect ",
+    "en": "وَلَكُمْ فِي الْقِصَاصِ حَيَاةٌ يَا أُولِي الْأَلْبَابِ",
+    "ur": "",
+    "wrongEn": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُتِبَ عَلَيْكُمُ الْقِصَاصُ",
+    "wrongUr": "",
+    "les": 24
+  },
+  {
+    "id": 296,
+    "ar": "You all keep away from many conjectures",
+    "en": "اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ",
+    "ur": "",
+    "wrongEn": "إِنَّ بَعْضَ الظَّنِّ إِثْمٌ",
+    "wrongUr": "",
+    "les": 24
+  },
+  {
+    "id": 297,
+    "ar": "You all do not take the Jews and Christians (as) guardians",
+    "en": "لَا تَتَّخِذُوا الْيَهُودَ وَالنَّصَارَىٰ أَوْلِيَاءَ",
+    "ur": "",
+    "wrongEn": "لَا تَتَّخِذُوا الْيَهُودَ وَالنَّصَارَىٰ",
+    "wrongUr": "",
+    "les": 24
+  },
+  {
+    "id": 298,
+    "ar": "And they all establish the prayers and they all give Zakat",
+    "en": "يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ",
+    "ur": "",
+    "wrongEn": "يُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
+    "wrongUr": "",
+    "les": 24
+  },
+  {
+    "id": 299,
+    "ar": "تَشْهَدُونَ- تَکْفُرُونَ- تُؤْمِنُونَ",
+    "en": "You all testify – You all reject – You all believe",
+    "ur": "",
+    "wrongEn": "We testify – We reject – We believe",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 300,
+    "ar": "لا یَحْسَبَنَّ- یَغْفِرُ- یَفْعَلُ",
+    "en": "He does not suppose at all – He forgives – He does",
+    "ur": "",
+    "wrongEn": "He forgets – He forgives – He does",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 301,
+    "ar": "صَدُّوا- مَاتُوا- اَعْتَدْنَا",
+    "en": "They prevented – They died – We prepared",
+    "ur": "",
+    "wrongEn": "We prevented – He died – We prepared",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 302,
+    "ar": "دَوَّاب- سَعِیر- لَنْ",
+    "en": "Animals – Ablaze fire – Never",
+    "ur": "",
+    "wrongEn": "Animal – Ablaze fire – Not",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 303,
+    "ar": "نُمْلِی- اَنْتُمْ- لِیَزْدَادُوا",
+    "en": "We give respite – You all – So that they increase",
+    "ur": "",
+    "wrongEn": "We give respite – You  – So that they increase",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 304,
+    "ar": "Those, themselves are the losers",
+    "en": "أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+    "ur": "",
+    "wrongEn": "أُولَٰئِكَ هُمُ الْكَافِرُونَ",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 305,
+    "ar": "They all bring them out from the light towards the darkness",
+    "en": "يُخْرِجُونَهُم مِّنَ النُّورِ إِلَى الظُّلُمَاتِ",
+    "ur": "",
+    "wrongEn": "يُخْرِجُهُم مِّنَ الظُّلُمَاتِ إِلَى النُّورِ",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 306,
+    "ar": "Those, they all lost hope from My mercy",
+    "en": "أُولَٰئِكَ يَئِسُوا مِن رَّحْمَتِي",
+    "ur": "",
+    "wrongEn": "أُولَٰئِكَ أَصْحَابُ النَّارِ",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 307,
+    "ar": "Why (do) you all disbelieve in Allah’s signs",
+    "en": "لِمَ تَكْفُرُونَ بِآيَاتِ اللَّهِ",
+    "ur": "",
+    "wrongEn": "وَالَّذِينَ كَفَرُوا بِآيَاتِ اللَّهِ",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 308,
+    "ar": "وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ",
+    "en": "And those who all rejected; their guardians (are) rebels",
+    "ur": "",
+    "wrongEn": "And those who did not rejected; their guardians (are) rebels",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 309,
+    "ar": "وَمَن لَّمْ يُؤْمِن بِاللَّهِ وَرَسُولِهِ",
+    "en": "And he who did not believe in Allah and his Messenger",
+    "ur": "",
+    "wrongEn": "And he who believe in Allah and his Messenger",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 310,
+    "ar": "يَا أَهْلَ الْكِتَابِ لِمَ تَكْفُرُونَ بِآيَاتِ اللَّهِ",
+    "en": "O people of the Book, why (do) you all disbelieve in Allah’s signs",
+    "ur": "",
+    "wrongEn": "O people of the Book, why (do) you all disbelieve in our signs",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 311,
+    "ar": "وَمَن لَّمْ يَحْكُم بِمَا أَنزَلَ اللَّهُ",
+    "en": "And one who did not judge with that which Allah revealed",
+    "ur": "",
+    "wrongEn": "And one who judges with that which We revealed",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 312,
+    "ar": "لَا يَحْسَبَنَّ الَّذِينَ كَفَرُوا",
+    "en": "And (let) not all those who reject suppose",
+    "ur": "",
+    "wrongEn": "And (let) not all those who reject think",
+    "wrongUr": "",
+    "les": 25
+  },
+  {
+    "id": 313,
+    "ar": "یُشْرِک- یُشْرِکُونَ- یُشْرَک بِهِ ",
+    "en": "He ascribes partner - They ascribe partners - Partner be ascribed to him",
+    "ur": "",
+    "wrongEn": "Partner – Partners – He ascribes partner with it",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 314,
+    "ar": "لَمْ یَکُنْ- لَمْ یَتَّخِذْ- فَلْیَعْمَلْ",
+    "en": "Was not – He did not take – Then he should do",
+    "ur": "",
+    "wrongEn": "Was – He did not take – They you should do",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 315,
+    "ar": "هَلْ- اَنَا- وَلَد",
+    "en": "(Question) – I – Son",
+    "ur": "",
+    "wrongEn": "Is? – We – Son",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 316,
+    "ar": "کَفَرَ- اَنْصَار- مَأْوَیٰ",
+    "en": "He rejected faith – Helper – Abode",
+    "ur": "",
+    "wrongEn": "He rejects – Help- Abode",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 317,
+    "ar": "یَتُوبُ- یُعَذِّبُ-  مَنْ کَانَ یَرْجُوا",
+    "en": "He accepts repentance – He will punish – Whoever expects ",
+    "ur": "",
+    "wrongEn": "Repentance – He will punish – Who does expect",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 318,
+    "ar": "Whoever expects – Then he should do",
+    "en": "مَنْ کَانَ یَرْجُوا- فَلْیَعْمَلْ",
+    "ur": "",
+    "wrongEn": "کَانَ یَرْجُوا-یَعْمَلُ",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 319,
+    "ar": "Abode – He accepts repentance ",
+    "en": "مَأْوَیٰ- یَتُوبُ",
+    "ur": "",
+    "wrongEn": "مَأْوَیٰ-تَابَ",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 320,
+    "ar": "He did not take – Was not",
+    "en": "لَمْ یَتَّخِذْ- لَمْ یَکُنْ",
+    "ur": "",
+    "wrongEn": "یَکُنْ- لَمْ یَتَّخِذْ",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 321,
+    "ar": "مَا لَهُم مِّن دُونِهِ مِن وَلِيٍّ ",
+    "en": "There is not for them from other than him, a guardian",
+    "ur": "",
+    "wrongEn": "There is not for them from other than him, a helper",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 322,
+    "ar": "قُلْ إِنَّمَا أَنَا بَشَرٌ مِّثْلُكُمْ يُوحَىٰ إِلَيَّ",
+    "en": "Say, certainly only I am human like you all. It has been revealed unto me",
+    "ur": "",
+    "wrongEn": "Say, I am human like you all. It has been revealed unto you",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 323,
+    "ar": "فَمَن كَانَ يَرْجُو لِقَاءَ رَبِّهِ ",
+    "en": "So whoever expects for an encounter (with) His Lord",
+    "ur": "",
+    "wrongEn": "So whoever expects for an encounter (with) Me",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 324,
+    "ar": "مَن يُشْرِكْ بِاللَّهِ فَقَدْ حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ ",
+    "en": "He who ascribes partner to Allah, then certainly Allah forbade upon him heaven",
+    "ur": "",
+    "wrongEn": "He who ascribes partner to Allah, then certainly Allah forbade upon him heavens",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 325,
+    "ar": "لِّيُعَذِّبَ اللَّهُ الْمُنَافِقِينَ وَالْمُنَافِقَاتِ ",
+    "en": "Certainly Allah will punish hypocrite men and hypocrite women",
+    "ur": "",
+    "wrongEn": "Certainly Allah will punish polytheist men and polytheist women",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 326,
+    "ar": "There is not for Him a partner in the kingdom ",
+    "en": "لَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ",
+    "ur": "",
+    "wrongEn": "لَا يُشْرِكُ فِي حُكْمِهِ أَحَدًا",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 327,
+    "ar": "He should not ascribe any partner in the worship of his Lord",
+    "en": "لَا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا",
+    "ur": "",
+    "wrongEn": "يَعْبُدُونَنِي لَا يُشْرِكُونَ بِي شَيْئًا",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 328,
+    "ar": "Certainly Allah will not forgive that, a partner be ascribed to Him",
+    "en": "إِنَّ اللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِ",
+    "ur": "",
+    "wrongEn": "وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَاءُ",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 329,
+    "ar": "Then he should do righteous deed",
+    "en": "فَلْيَعْمَلْ عَمَلًا صَالِحًا",
+    "ur": "",
+    "wrongEn": "الَّذِينَ آمَنُوا مِنكُمْ وَعَمِلُوا الصَّالِحَاتِ",
+    "wrongUr": "",
+    "les": 26
+  },
+  {
+    "id": 330,
+    "ar": "یَعْلَمُ- یَقُولُ- یَشْهَدُ",
+    "en": "He knows – He says – He bears witness",
+    "ur": "",
+    "wrongEn": "He knew – He said – He bears witness",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 331,
+    "ar": "یَفْقَهُونَ- یَشْعُرُونَ- یَکْذِبُونَ",
+    "en": "They understand – They realize – They all deny",
+    "ur": "",
+    "wrongEn": "He understand – He realizes – He denies",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 332,
+    "ar": "آمَنَّا- کُنْتَ - لاتُفْسِدُوا",
+    "en": "We have believed – You were – You all do not cause corruption",
+    "ur": "",
+    "wrongEn": "I believed – You are – Corruption",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 333,
+    "ar": "زَادَ- نَشْهَدُ- غُرُور",
+    "en": "He increased – We bear witness – Delusion",
+    "ur": "",
+    "wrongEn": "Increase – Witness – Delusion",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 334,
+    "ar": "سُفَهَاء- کَاذِبُونَ-کَمَا",
+    "en": "Fools – Lairs – As it is",
+    "ur": "",
+    "wrongEn": "Fool – Liar – As it is",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 335,
+    "ar": "Lairs – They all deny",
+    "en": "کَاذِبِینَ- یَکْذِبُونَ",
+    "ur": "",
+    "wrongEn": "یَکْذِبُونَ- کَاذِب",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 336,
+    "ar": "He bears witness – We bear witness",
+    "en": "یَشْهَدُ- نَشْهَدُ",
+    "ur": "",
+    "wrongEn": "نَشْهَدُ- شَهَد",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 337,
+    "ar": "Corruptors – Reformers",
+    "en": "مُفْسِدُونَ- مُصْلِحُونَ",
+    "ur": "",
+    "wrongEn": "سُفَهَاء- مُصْلِحُونَ",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 338,
+    "ar": "Fools – You all do not cause corruption",
+    "en": "سُفَهَاء- لاتُفْسِدُوا",
+    "ur": "",
+    "wrongEn": "مُفْسِدِینَ- لاتُفْسِدُوا",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 339,
+    "ar": "He increased – Delusion",
+    "en": "زَادَ- غُرُور",
+    "ur": "",
+    "wrongEn": "زَادَتْ-مُفْسِد",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 340,
+    "ar": "وَمِنَ النَّاسِ مَن يَقُولُ آمَنَّا بِاللَّهِ",
+    "en": "And among the people (are) those who say, we believe in Allah",
+    "ur": "",
+    "wrongEn": "And among the people (are) those who said, we believe in Lord",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 341,
+    "ar": "إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ",
+    "en": "When the hypocrites came to you, they said we bear witness",
+    "ur": "",
+    "wrongEn": "When the corruptors came to you, they said we bear witness",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 342,
+    "ar": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ",
+    "en": "And when it was said to them, do not cause corruption in the earth",
+    "ur": "",
+    "wrongEn": "And when he said to them, do not cause corruption in the earths",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 343,
+    "ar": "قَالُوا أَنُؤْمِنُ كَمَا آمَنَ السُّفَهَاءُ",
+    "en": "They said should we believe the way the fools have believed?",
+    "ur": "",
+    "wrongEn": "They said should we believe in Allah the way the fools have believed?",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 344,
+    "ar": "مَا وَعَدَنَا اللَّهُ وَرَسُولُهُ إِلَّا غُرُورًا",
+    "en": "Allah and His prophet did not promise us (anything) except delusion",
+    "ur": "",
+    "wrongEn": "Allah and His prophet did not promise us (anything) except glad tidings",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 345,
+    "ar": "And, but the hypocrites do not know",
+    "en": "وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ",
+    "ur": "",
+    "wrongEn": "وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 346,
+    "ar": "Be informed certainly they themselves are corrupters ",
+    "en": "أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ",
+    "ur": "",
+    "wrongEn": "أَلَا إِنَّهُمْ هُمُ السُّفَهَاءُ",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 347,
+    "ar": "Certainly, Allah is one who gathers the hypocrites…. in hell",
+    "en": "إِنَّ اللَّهَ جَامِعُ الْمُنَافِقِينَ .... فِي جَهَنَّمَ",
+    "ur": "",
+    "wrongEn": "وَعَدَ اللَّهُ الْمُنَافِقِينَ .... نَارَ جَهَنَّمَ",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 348,
+    "ar": "In their hearts is sickness, then Allah increases the sickness for them",
+    "en": "فِي قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا",
+    "ur": "",
+    "wrongEn": "وَإِذْ يَقُولُ الْمُنَافِقُونَ وَالَّذِينَ فِي قُلُوبِهِم مَّرَضٌ",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 349,
+    "ar": "And when it was said to them, do not cause corruption in the earth",
+    "en": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ",
+    "ur": "",
+    "wrongEn": "وَإِذَا قِيلَ لَهُمْ آمِنُوا كَمَا آمَنَ النَّاسُ",
+    "wrongUr": "",
+    "les": 27
+  },
+  {
+    "id": 350,
+    "ar": "یَکْفُرُ-یُضِلُّ- یَعْصِی",
+    "en": "He denies – He leads astray – He disobeys",
+    "ur": "",
+    "wrongEn": "We deny – We lead astray – We disobey",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 351,
+    "ar": "بَرِیءٌ- خَسَارَا-ضَلَال",
+    "en": "Absolved – Loss – State of being misled",
+    "ur": "",
+    "wrongEn": "Good – Lose – Misled",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 352,
+    "ar": "عَصَوْا- نَسُوا- اَنْسَیٰ",
+    "en": "They disobeyed – They forgot – He made them forget",
+    "ur": "",
+    "wrongEn": "They disobey – They forget – Forgetful",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 353,
+    "ar": "یَکْفُرُونَ- یَسْتَوُونَ- فَاسِق",
+    "en": "They deny – They are equal – Transgressor",
+    "ur": "",
+    "wrongEn": "They denied – They are same – Fool",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 354,
+    "ar": "لاتَکُونُوا- تَوَکَّلْ- لَمْ یَزِدْ",
+    "en": "You all do not be – You put your trust – He did not increase",
+    "ur": "",
+    "wrongEn": "He is not – Trust – Increase",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 355,
+    "ar": "He made them forget – He disobeys",
+    "en": "اَنْسَیٰ- یَعْصِی",
+    "ur": "",
+    "wrongEn": "نَسُوا- عَصَوْا",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 356,
+    "ar": "He leads astray – In the state of being misled",
+    "en": "یُضِلُّ-ضَلَال",
+    "ur": "",
+    "wrongEn": "ضَلَّ-یُضِلُّ",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 357,
+    "ar": "He denies – They deny",
+    "en": "یَکْفُرُ- یَکْفُرُونَ",
+    "ur": "",
+    "wrongEn": "تَکْفُرُ- یَکْفُرُ",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 358,
+    "ar": "You put your trust – Absolved ",
+    "en": "تَوَکَّلْ- بَرِیءٌ",
+    "ur": "",
+    "wrongEn": "بَر- تَوَکَّلْ",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 359,
+    "ar": "You all do not be – He did not increase ",
+    "en": "لاتَکُونُوا-لَمْ یَزِدْ",
+    "ur": "",
+    "wrongEn": "یَزِدْ- لاتَکُونُوا",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 360,
+    "ar": "أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا",
+    "en": "Then Is one who believe like one who transgress?",
+    "ur": "",
+    "wrongEn": "Then Is one who believe like one who is a hypocrite?",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 361,
+    "ar": "وَلْيَحْكُمْ أَهْلُ الْإِنجِيلِ بِمَا أَنزَلَ اللَّهُ فِيهِ",
+    "en": "And the people of evangel must judge with that which was revealed by Allah in it (evangel)",
+    "ur": "",
+    "wrongEn": "And the people of evangel must not judge with that which was revealed by Allah in it (evangel)",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 362,
+    "ar": "وَلَوْ آمَنَ أَهْلُ الْكِتَابِ لَكَانَ خَيْرًا لَّهُم",
+    "en": "And if people of the book believed certainly (there) is goodness for them",
+    "ur": "",
+    "wrongEn": "And if people of the book believed there is good for him",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 363,
+    "ar": "يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا",
+    "en": "He leads many astray with it and, He guides many with it",
+    "ur": "",
+    "wrongEn": "Allah leads many astray with it and, He guides many with it",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 364,
+    "ar": "وَلَقَدْ أَنزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ",
+    "en": "And certainly we revealed to you clear signs",
+    "ur": "",
+    "wrongEn": "And certainly we sent to you evidences",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 365,
+    "ar": "Like those who forgot Allah",
+    "en": "كَالَّذِينَ نَسُوا اللَّهَ",
+    "ur": "",
+    "wrongEn": "فَأَنسَاهُمْ أَنفُسَهُمْ",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 366,
+    "ar": "That is because they were",
+    "en": "ذَٰلِكَ بِأَنَّهُمْ",
+    "ur": "",
+    "wrongEn": "ذَٰلِكَ بِأَنَّ الله",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 367,
+    "ar": "They themselves are transgressors",
+    "en": "أُولَٰئِكَ هُمُ الْفَاسِقُونَ",
+    "ur": "",
+    "wrongEn": "وَأَكْثَرُهُمُ الْفَاسِقُونَ",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 368,
+    "ar": "And one who disobeys Allah",
+    "en": "وَمَن يَعْصِ اللَّهَ",
+    "ur": "",
+    "wrongEn": "فَإِنْ عَصَوْكَ",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 369,
+    "ar": "Then certainly He is clearly astray",
+    "en": "فَقَدْ ضَلَّ ضَلَالًا مُّبِينًا",
+    "ur": "",
+    "wrongEn": "يُضِلُّ بِهِ كَثِيرًا",
+    "wrongUr": "",
+    "les": 28
+  },
+  {
+    "id": 370,
+    "ar": "اِتَّبِعُوا- لَاتَتَّبِعُوا- لَاتَقْرَبُوا",
+    "en": "You all follow – You all do not follow – You all do not approach",
+    "ur": "",
+    "wrongEn": "We all follow – You all do not follow – You all do not approach",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 371,
+    "ar": "لَیْسَ- وَصَّیٰ- وَصَّیْنَا",
+    "en": "Not – He enjoined – We enjoined",
+    "ur": "",
+    "wrongEn": "Cloths – He enjoined – We enjoined",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 372,
+    "ar": "یُبَیِّنُ- یَتَّقُونَ- یَخَافُونَ",
+    "en": "He clarifies – They become God wary – They fear",
+    "ur": "",
+    "wrongEn": "He clarifies – You become God wary – You fear",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 373,
+    "ar": "اُوتُوا- یُحْشَرُوا- ذٰلِکُمْ",
+    "en": "They were given – They be gathered – That",
+    "ur": "",
+    "wrongEn": "You were given – They be gathered – That will be",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 374,
+    "ar": "اَسْئَلُ- تَفَرَّقَ بِ – خُذُوا",
+    "en": "I ask – He separates – You all take",
+    "ur": "",
+    "wrongEn": "Question – He separates – You all take",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 375,
+    "ar": "You – Intercessor ",
+    "en": "اِیَّاکُمْ- شَفِیع",
+    "ur": "",
+    "wrongEn": "کُمْ-وَصَّیٰ",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 376,
+    "ar": "You all follow – I Ask",
+    "en": "اِتَّبِعُوا- اَسْئَلُ",
+    "ur": "",
+    "wrongEn": "اِتَّبِعُوا- اُوتُوا",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 377,
+    "ar": "You all do not approach – You all take",
+    "en": "لَاتَقْرَبُوا- خُذُوا",
+    "ur": "",
+    "wrongEn": "لَاتَتَّبِعُوا- خُذُوا",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 378,
+    "ar": "They be gathered – They become God wary",
+    "en": "یُحْشَرُوا- یَتَّقُونَ",
+    "ur": "",
+    "wrongEn": "یَخَافُونَ- یَتَّقُونَ",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 379,
+    "ar": "Not – He separates ",
+    "en": "لَیْسَ- تَفَرَّقَ بِ",
+    "ur": "",
+    "wrongEn": "لَیْسَ- یُبَیِّنُ",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 380,
+    "ar": "يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ",
+    "en": "O People, worship your Lord He who created you",
+    "ur": "",
+    "wrongEn": "O People, worship your Lord He who created everything",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 381,
+    "ar": "قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ",
+    "en": "He said O my people, you worship Allah, There is no God for you except Him",
+    "ur": "",
+    "wrongEn": "He said O my people, you worship Allah, There is no God except Allah",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 382,
+    "ar": "وَلَقَدْ وَصَّيْنَا الَّذِينَ أُوتُوا الْكِتَابَ",
+    "en": "And certainly, We enjoined those who were given the Book",
+    "ur": "",
+    "wrongEn": "And We enjoined those who were given the Book",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 383,
+    "ar": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+    "en": "So be wary of Allah and obey me",
+    "ur": "",
+    "wrongEn": "So be wary of Allah and obey Him",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 384,
+    "ar": "اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا",
+    "en": "Be wary of Allah and speak firm words",
+    "ur": "",
+    "wrongEn": "Be wary of God and always speak firm words",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 385,
+    "ar": "This is My straight path, so follow it",
+    "en": "هَٰذَا صِرَاطِي مُسْتَقِيمًا فَاتَّبِعُوهُ",
+    "ur": "",
+    "wrongEn": "هَٰذَا كِتَابٌ أَنزَلْنَاهُ مُبَارَكٌ فَاتَّبِعُوهُ",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 386,
+    "ar": "These are the boundaries of Allah, so don’t approach them",
+    "en": "تِلْكَ حُدُودُ اللَّهِ فَلَا تَقْرَبُوهَا",
+    "ur": "",
+    "wrongEn": "ذَٰلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَتَّقُونَ",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 387,
+    "ar": "O those who believed, be wary of Allah",
+    "en": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ",
+    "ur": "",
+    "wrongEn": "يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 388,
+    "ar": "Like that (That is the way) Allah clarifies His signs for the people",
+    "en": "كَذَٰلِكَ يُبَيِّنُ اللَّهُ آيَاتِهِ لِلنَّاسِ",
+    "ur": "",
+    "wrongEn": "ذَٰلِكُمْ وَصَّاكُم بِهِ لَعَلَّكُمْ تَتَّقُونَ",
+    "wrongUr": "",
+    "les": 29
+  },
+  {
+    "id": 389,
+    "ar": "اَتْقَیٰ- اَقْرَب- اَکْرَم",
+    "en": "Most God wary – Closer – Most honored ",
+    "ur": "",
+    "wrongEn": "God Wary – Nearer – Most honored",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 390,
+    "ar": "اَمَرَ- کَذَّبَ- اِمْتَحَنَ",
+    "en": "He commanded – He denied – He tested",
+    "ur": "",
+    "wrongEn": "He ordered – He lied – Test",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 391,
+    "ar": "اِعْدِلُوا- تَزَوَّدُوا-تَعْمَلُونَ",
+    "en": "You all be just – You all take provisions – You all perform",
+    "ur": "",
+    "wrongEn": "Justice – You all take provisions – Perform",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 392,
+    "ar": "اُنْثٰی- ذَکَر- مَثُوبَة",
+    "en": "Female – Male – Reward",
+    "ur": "",
+    "wrongEn": "Two – Remember – Reward",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 393,
+    "ar": "تَوَلَّیٰ- رَاَیْتَ- یَرَیٰ",
+    "en": "He turned away – You saw – He sees",
+    "ur": "",
+    "wrongEn": "He turned away – We see – He sees",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 394,
+    "ar": "They lower – Piety",
+    "en": "یَغُضُّونَ- تَقْوَیٰ",
+    "ur": "",
+    "wrongEn": "یَغُضُّونَ- اَتْقَیٰ",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 395,
+    "ar": "Reward – He turned away",
+    "en": "مَثُوبَة- تَوَلَّیٰ",
+    "ur": "",
+    "wrongEn": "مَثُوبَة- اِعْدِلُوا",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 396,
+    "ar": "He tested -  You saw",
+    "en": "اِمْتَحَنَ- رَاَیْتَ",
+    "ur": "",
+    "wrongEn": "اِمْتَحَنَ- یَرَیٰ",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 397,
+    "ar": "Closer – Male",
+    "en": "اَقْرَب- ذَکَر",
+    "ur": "",
+    "wrongEn": "اَقْرَب- اُنْثٰی",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 398,
+    "ar": "You all take provisions – Noblest",
+    "en": "تَزَوَّدُوا- اَکْرَم",
+    "ur": "",
+    "wrongEn": "تَزَوَّدُوا- اَتْقَیٰ",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 399,
+    "ar": "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ",
+    "en": "O people, certainly We created you from a male and a female",
+    "ur": "",
+    "wrongEn": "O people, We created you all as male and female",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 400,
+    "ar": "وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ",
+    "en": "And take provisions, certainly the best provision is piety",
+    "ur": "",
+    "wrongEn": "And take provisions, certainly the best provision is truth",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 401,
+    "ar": "إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِندَ رَسُولِ اللَّهِ",
+    "en": "Certainly those who lower their voices (in the presence of) the messenger of Allah",
+    "ur": "",
+    "wrongEn": "Certainly those who lower their eyes (in the presence of) the messenger of Allah",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 402,
+    "ar": "وَلَلدَّارُ الْآخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ",
+    "en": "And certainly the abode of Hereafter is best for those (who are) God wary",
+    "ur": "",
+    "wrongEn": "And certainly the abode of Hereafter is best for those (who are) pure",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 403,
+    "ar": "اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ وَاتَّقُوا اللَّهَ",
+    "en": "Be just, it is closer to piety and be wary of Allah",
+    "ur": "",
+    "wrongEn": "Be just, it is closer to the truth and be wary of Allah",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 404,
+    "ar": "And certainly the reward of the hereafter is best for those who believed",
+    "en": "وَلَأَجْرُ الْآخِرَةِ خَيْرٌ لِّلَّذِينَ آمَنُوا",
+    "ur": "",
+    "wrongEn": "وَلَلدَّارُ الْآخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 405,
+    "ar": "And He who venerates the sacraments of Allah",
+    "en": "وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ",
+    "ur": "",
+    "wrongEn": "وَمَنْ يُعَظِّمْ حُرُمٰتِ اللَّهِ",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 406,
+    "ar": "Certainly most honored among you, near Allah are (the ones) most God wary among you",
+    "en": "إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ",
+    "ur": "",
+    "wrongEn": "إِنِّي لَكُمْ نَذِيرٌ مُّبِينٌ",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 407,
+    "ar": "For those who believed and are God wary",
+    "en": "لِّلَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ",
+    "ur": "",
+    "wrongEn": "لَآيَاتٍ لِّقَوْمٍ يَتَّقُونَ",
+    "wrongUr": "",
+    "les": 30
+  },
+  {
+    "id": 408,
+    "ar": "يَرْزُقُ- يَجْعَلُ- يُکَفِّر",
+    "en": "He provides – He appoints – He absolves",
+    "ur": "",
+    "wrongEn": "He gives – He appoints – He absolves",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 409,
+    "ar": "يُسْر- مَخْرَج- حَسْب",
+    "en": "Ease – Way out – Suffice",
+    "ur": "",
+    "wrongEn": "Easy – Way out – Suffice",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 410,
+    "ar": "يَتَّقِ- اِنْ تَتَّقُوا- فَتَحْنَا",
+    "en": "He is God wary – If you acquire piety – We opened",
+    "ur": "",
+    "wrongEn": "He is God wary – You acquire piety – We won",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 411,
+    "ar": "حَيْثُ- لايَحْتَسِبُ- سَيِّئَات",
+    "en": "Whence – He does not reckon – Misdeeds",
+    "ur": "",
+    "wrongEn": "Whence – He does not reckon – Deeds",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 412,
+    "ar": "تُفْلِحُونَ- (ذُو-ذَا-ذِي)- مَاذَا",
+    "en": "You all be successful – Possessor - What is it..?",
+    "ur": "",
+    "wrongEn": "You all be successful – Possessor – Who is it..?",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 413,
+    "ar": "He made – Ease",
+    "en": "يَجْعَلُ- يُسْر",
+    "ur": "",
+    "wrongEn": "يَجْعَلُ- حَسْب",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 414,
+    "ar": "He absolves – Way out",
+    "en": "يُکَفِّر- مَخْرَج",
+    "ur": "",
+    "wrongEn": "يُکَفِّر- فَتَحْنَا",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 415,
+    "ar": "Possessor – Misdeeds",
+    "en": "(ذُو-ذَا-ذِي)-سَيِّئَات",
+    "ur": "",
+    "wrongEn": "مَاذَا- سَيِّئَات",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 416,
+    "ar": "Whence – Suffice",
+    "en": "حَيْثُ- حَسْب",
+    "ur": "",
+    "wrongEn": "حَيْثُ- مَخْرَج",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 417,
+    "ar": "Ease – He does not reckon",
+    "en": "يُسْر-لايَحْتَسِبُ",
+    "ur": "",
+    "wrongEn": "حَسْب- لايَحْتَسِبُ",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 418,
+    "ar": "إِن تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا",
+    "en": "If you are wary of Allah He will appoint for you a distinguisher",
+    "ur": "",
+    "wrongEn": "If you are wary of Allah He will give for you a distinguisher",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 419,
+    "ar": "فَاتَّقُوا اللَّهَ يَا أُولِي الْأَلْبَابِ",
+    "en": "So be wary of Allah O those who possess wisdom",
+    "ur": "",
+    "wrongEn": "So be wary of Allah O those who possess wealth",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 420,
+    "ar": "وَلَوْ أَنَّ أَهْلَ الْقُرَىٰ آمَنُوا وَاتَّقَوْا",
+    "en": "And if the people of the towns had believed and were God wary",
+    "ur": "",
+    "wrongEn": "And if the people of the earth had believed and were God wary",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 421,
+    "ar": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا",
+    "en": "And whoever is wary of Allah He will appoint for him a way out",
+    "ur": "",
+    "wrongEn": "And whoever is wary of Allah He will show him a way out",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 422,
+    "ar": "وَإِن تُؤْمِنُوا وَتَتَّقُوا فَلَكُمْ أَجْرٌ عَظِيمٌ",
+    "en": "And if you believe and be God wary then for you all is a supreme reward",
+    "ur": "",
+    "wrongEn": "And if you believe and be God wary then for you all is a supreme Jannah",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 423,
+    "ar": "And whoever is wary of Allah He will appoint for him a way out",
+    "en": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا",
+    "ur": "",
+    "wrongEn": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مِنْ أَمْرِهِ يُسْرًا",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 424,
+    "ar": "And certainly abode of the hereafter is better, and certainly how good is abode of the God wary",
+    "en": "وَلَدَارُ الْآخِرَةِ خَيْرٌ وَلَنِعْمَ دَارُ الْمُتَّقِينَ",
+    "ur": "",
+    "wrongEn": "وَلَدَارُ الْآخِرَةِ خَيْرٌ لِّلَّذِينَ اتَّقَوْا",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 425,
+    "ar": "Absolve you of your misdeeds",
+    "en": "يُكَفِّرْ عَنكُمْ سَيِّئَاتِكُمْ",
+    "ur": "",
+    "wrongEn": "يُكَفِّرْ عَنْهُ سَيِّئَاتِهِ",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 426,
+    "ar": "Certainly Allah is with those who are God wary",
+    "en": "إِنَّ اللَّهَ مَعَ الَّذِينَ اتَّقَوا",
+    "ur": "",
+    "wrongEn": "إِن تَتَّقُوا اللَّهَ يَجْعَل لَّكُمْ فُرْقَانًا",
+    "wrongUr": "",
+    "les": 31
+  },
+  {
+    "id": 427,
+    "ar": "يورِثُ- تَعْلَمُ- يرِيدُونَ",
+    "en": "He gives inheritance – You know – They desire",
+    "ur": "",
+    "wrongEn": "He gives inheritance – You understand – We desire",
+    "wrongUr": "",
+    "les": 32
+  },
+  {
+    "id": 428,
+    "ar": "عُيون- اَنْبَاء- اَخِلَّاء",
+    "en": "Springs – Accounts – Friends ",
+    "ur": "",
+    "wrongEn": "Eyes – Accounts – Friend",
+    "wrongUr": "",
+    "les": 32
+  },
+  {
+    "id": 429,
+    "ar": "اُدْخُلُوا- اِصْبِرْ- آمِنِينَ",
+    "en": "You all enter – Be patient – Those who are in safety ",
+    "ur": "",
+    "wrongEn": "You all come – Be patient – Those who save",
+    "wrongUr": "",
+    "les": 32
+  },
+  {
+    "id": 430,
+    "ar": "نَجْعَلُ- نُوحِي- نَعِيم",
+    "en": "We shall place – We reveal – Bliss",
+    "ur": "",
+    "wrongEn": "We shall keep – We reveal – Bliss",
+    "wrongUr": "",
+    "les": 32
+  },
+  {
+    "id": 431,
+    "ar": "اَنْتَ-کُنْتَ- اُزْلِفَتْ",
+    "en": "You – You were – It will be brought near",
+    "ur": "",
+    "wrongEn": "He – He was – It will be brought near",
+    "wrongUr": "",
+    "les": 32
+  },
+  {
+    "id": 432,
+    "ar": "إِنَّ الْأَرْضَ لِلَّهِ يُورِثُهَا مَن يَشَاءُ",
+    "en": "Certainly the Earth is for Allah, He gives its inheritance to whoever He wishes",
+    "ur": "",
+    "wrongEn": "The Earth is for Allah, He gives its inheritance to whoever He wishes",
+    "wrongUr": "",
+    "les": 32
+  },
+  {
+    "id": 433,
+    "ar": "مَا كُنتَ تَعْلَمُهَا أَنتَ وَلَا قَوْمُكَ مِن قَبْلِ هَٰذَا",
+    "en": "Neither you nor your people knew of it before this",
+    "ur": "",
+    "wrongEn": "You and your people knew of it before this",
+    "wrongUr": "",
+    "les": 32
+  },
+  {
+    "id": 434,
+    "ar": "نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ",
+    "en": "We shall place it for those who do not desire to domineer in the earth",
+    "ur": "",
+    "wrongEn": "We shall give it for those who do not desire to domineer in the earth and skies",
+    "wrongUr": "",
+    "les": 32
+  },
+  {
+    "id": 435,
+    "ar": "Certainly the God wary are in gardens and springs",
+    "en": "إِنَّ الْمُتَّقِينَ فِي جَنَّاتٍ وَعُيُونٍ",
+    "ur": "",
+    "wrongEn": "إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّاتِ النَّعِيمِ",
+    "wrongUr": "",
+    "les": 32
+  },
+  {
+    "id": 436,
+    "ar": "Certainly the outcome will be in favor of the God wary",
+    "en": "إِنَّ الْعَاقِبَةَ لِلْمُتَّقِينَ",
+    "ur": "",
+    "wrongEn": "وَالْعَاقِبَةُ لِلْمُتَّقِينَ",
+    "wrongUr": "",
+    "les": 32
+  },
+  {
+    "id": 437,
+    "ar": "These are from the accounts of the Unseen",
+    "en": "تِلْكَ مِنْ أَنبَاءِ الْغَيْبِ",
+    "ur": "",
+    "wrongEn": "تِلْكَ الدَّارُ الْآخِرَةُ",
+    "wrongUr": "",
+    "les": 32
+  },
+  {
+    "id": 438,
+    "ar": "And, but most of them do not know",
+    "en": "وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+    "ur": "",
+    "wrongEn": "وَلَٰكِنَّ أَكْثَرَ النَاسِ لَا يَعْلَمُونَ",
+    "wrongUr": "",
+    "les": 32
   }
 ]

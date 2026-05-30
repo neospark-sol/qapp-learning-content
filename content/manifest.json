@@ -1,45 +1,45 @@
 {
   "schemaVersion": 1,
   "loaderSchemaVersion": 2,
-  "appVersion": "1.0.0",
-  "contentBundleTag": "1.0.0",
-  "generatedAt": "2026-04-21T07:23:37.381Z",
-  "contentVersion": "-7a494eac",
+  "appVersion": "1.0.0-2026-05-17",
+  "contentBundleTag": "1.0.0-2026-05-17",
+  "generatedAt": "2026-05-30T12:46:51.896Z",
+  "contentVersion": "1843a27c",
   "files": [
     {
       "path": "lessons/index.json",
-      "size": 204,
-      "sha256": "36519c5ecbb0b6d26a28992dc8cebc2860b8e5684ab5ae4074255a4b1893ac9c",
-      "lastModified": "2026-04-20T00:07:19.495Z",
-      "rev": 1
+      "size": 2762,
+      "sha256": "b151a96bb508d13d1e16569dfad5b14871a24cd991038d44234c05290e9f5d1c",
+      "lastModified": "2026-05-18T16:05:56.480Z",
+      "rev": 2
     },
     {
       "path": "lessons/phrases.json",
-      "size": 2985,
-      "sha256": "bf0d63d79c64525b1de43e95877d2abb14f5e2b851800cddbb11f74807a919d1",
-      "lastModified": "2026-04-20T00:07:19.495Z",
-      "rev": 1
+      "size": 155960,
+      "sha256": "b0fc0c84962c1d19ba08e1814fa484f0e6f5bc3f24a6fe258f6996c01981f283",
+      "lastModified": "2026-05-24T02:44:49.030Z",
+      "rev": 5
     },
     {
       "path": "lessons/verses.json",
-      "size": 8025,
-      "sha256": "b989cf8bf62588dab94d7644b27c08b9ac41b775988ab0edac3cd1159f80c175",
-      "lastModified": "2026-04-20T00:07:19.495Z",
-      "rev": 1
+      "size": 251600,
+      "sha256": "1574a948997f187ed0ff25f6c58fa08e8d24617a89adab5a1bcc1dbb027e42f6",
+      "lastModified": "2026-05-24T03:12:40.381Z",
+      "rev": 3
     },
     {
       "path": "lessons/words.json",
-      "size": 26945,
-      "sha256": "d1b16a1a051ffd71fcae519960c37cd49c89957e63248da9b5a97909bea9d6bd",
-      "lastModified": "2026-04-20T06:25:13.603Z",
-      "rev": 1
+      "size": 272707,
+      "sha256": "9687e6d68a00dc12f84be5b4563dc68b1c44feed1ac069e20b933013591a8f54",
+      "lastModified": "2026-05-25T12:19:36.982Z",
+      "rev": 5
     },
     {
       "path": "notifications.json",
-      "size": 587,
-      "sha256": "cb738cf7259cd636c6f6d14ff187be45883103571160df8b0f8e7e07d4c91d31",
-      "lastModified": "2026-04-20T00:07:27.448Z",
-      "rev": 1
+      "size": 599,
+      "sha256": "1a83fcd32064b1e2fcdac5e321db34a77879bf3f9e8b36c55e84712986c51c54",
+      "lastModified": "2026-04-21T07:52:12.819Z",
+      "rev": 2
     }
   ]
 }
